@@ -1,0 +1,40 @@
+name: Update news data
+
+on:
+  schedule:
+    # Every 6 hours. Cron is UTC. Edit this if you want it more/less often.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}   # lets you click "Run workflow" manually on GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest headlines
+        run: npm run fetch-news
+
+      - name: Commit updated data (if it changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "No changes — feeds returned the same items, nothing to commit."
+          else
+            git commit -m "chore: update news data [skip ci]"
+            git push
+          fi

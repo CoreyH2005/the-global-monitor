@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..900&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" data-bg-color="#14171A"><rect width="200" height="200" fill="#14171A"/><circle cx="100" cy="100" r="55" fill="none" stroke="#24463B" stroke-width="3"/><circle cx="100" cy="100" r="33" fill="none" stroke="#24463B" stroke-width="2"/><circle cx="100" cy="100" r="8" fill="#8C3324"/></svg></template>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26'%3E%3Crect width='26' height='26' fill='%23F6F5F1'/%3E%3Ccircle cx='13' cy='13' r='11.5' fill='none' stroke='%2324463B' stroke-width='1.6'/%3E%3Ccircle cx='13' cy='13' r='7' fill='none' stroke='%2324463B' stroke-width='1.1'/%3E%3Ccircle cx='13' cy='13' r='2.2' fill='%2324463B'/%3E%3C/svg%3E">
+  <meta property="og:title" content="The Global Monitor — Reading the Signal">
+  <meta property="og:description" content="Geopolitics and markets, read as one instrument. Signal over noise.">
+  <meta property="og:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='630'%3E%3Crect width='1200' height='630' fill='%2314171A'/%3E%3Ccircle cx='600' cy='315' r='260' fill='none' stroke='%2324463B' stroke-width='2'/%3E%3Ccircle cx='600' cy='315' r='170' fill='none' stroke='%2324463B' stroke-width='1.4'/%3E%3Ccircle cx='600' cy='315' r='80' fill='none' stroke='%2324463B' stroke-width='1'/%3E%3Ccircle cx='600' cy='315' r='10' fill='%238C3324'/%3E%3C/svg%3E">
+  <meta name="theme-color" content="#14171A">
+  <style>
+    @keyframes tgm-ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+    @keyframes tgm-pulse { 0%,100% { opacity: 0.35; r: 5; } 50% { opacity: 1; r: 8; } }
+    @keyframes tgm-sweep { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes tgm-reveal-check { 0% { opacity: 0; } }
+    body { margin: 0; background: #F6F5F1; }
+    * { box-sizing: border-box; }
+    ::selection { background: #24463B; color: #F6F5F1; }
+    @media (prefers-reduced-motion: reduce) {
+      [data-reveal] { opacity: 1 !important; transform: none !important; transition: none !important; }
+      [data-ticker-track], [data-sweep] { animation: none !important; }
+    }
+  </style>
+</helmet>
+
+<div style="background:#F6F5F1; min-height:100vh; font-family:'Inter',sans-serif; color:#14171A; position:relative; overflow-x:hidden;">
+  <div style="position:absolute; inset:0; opacity:0.035; pointer-events:none; background-image:url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E&quot;); mix-blend-mode:multiply;"></div>
+
+  <!-- HEADER -->
+  <header style="position:sticky; top:0; z-index:50; background:rgba(246,245,241,0.92); backdrop-filter:blur(6px); border-bottom:1px solid #DAD7CE;">
+    <div style="max-width:1200px; margin:0 auto; padding:18px 32px; display:flex; align-items:center; justify-content:space-between; gap:24px;">
+      <a href="#top" style="display:flex; align-items:center; gap:10px; text-decoration:none; color:#14171A;">
+        <svg width="26" height="26" viewBox="0 0 26 26">
+          <circle cx="13" cy="13" r="12" fill="none" stroke="#24463B" stroke-width="1.4"></circle>
+          <circle cx="13" cy="13" r="7.5" fill="none" stroke="#24463B" stroke-width="1"></circle>
+          <circle cx="13" cy="13" r="2.2" fill="#24463B"></circle>
+        </svg>
+        <span style="font-family:'Fraunces',serif; font-weight:600; font-size:19px; letter-spacing:0.01em;">The Global Monitor</span>
+      </a>
+      <nav style="{{ navContainerStyle }}">
+        <a href="#mission" style="{{ navLinkStyle }}">About</a>
+        <a href="#geopolitics" style="{{ navLinkStyle }}">Geopolitics</a>
+        <a href="#markets" style="{{ navLinkStyle }}">Markets</a>
+        <a href="#latest" style="{{ navLinkStyle }}">Articles</a>
+        <a href="#desk" style="{{ navLinkStyle }}">Contact</a>
+      </nav>
+      <div style="display:{{ statusDotDisplay }}; align-items:center; gap:8px; font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; letter-spacing:0.04em;">
+        <span style="width:7px; height:7px; border-radius:50%; background:{{ statusColor }}; box-shadow:0 0 0 3px {{ statusColor }}22;"></span>
+        {{ statusLabel }}
+      </div>
+      <button onClick="{{ toggleMobile }}" style="{{ hamburgerStyle }}" aria-label="Toggle navigation">
+        <span style="display:block; width:20px; height:1.4px; background:#14171A; margin:4px 0;"></span>
+        <span style="display:block; width:20px; height:1.4px; background:#14171A; margin:4px 0;"></span>
+        <span style="display:block; width:20px; height:1.4px; background:#14171A; margin:4px 0;"></span>
+      </button>
+    </div>
+    <!-- SIGNAL STRIP -->
+    <div style="border-top:1px solid #DAD7CE; background:#14171A; overflow:hidden; height:32px; display:flex; align-items:center;">
+      <div data-ticker-track="true" style="display:flex; gap:48px; white-space:nowrap; animation: tgm-ticker 28s linear infinite; font-family:'IBM Plex Mono',monospace; font-size:11.5px; letter-spacing:0.04em; color:#EFEDE6; padding-left:32px;">
+        <span>{{ tickerItemsDup }}</span>
+      </div>
+    </div>
+  </header>
+
+  <div id="top"></div>
+
+  <!-- HERO -->
+  <section style="max-width:1200px; margin:0 auto; padding:72px 32px 40px; position:relative; overflow:hidden;">
+    <svg width="560" height="560" viewBox="0 0 560 560" style="position:absolute; right:-140px; top:-160px; opacity:0.06; pointer-events:none;">
+      <circle cx="280" cy="280" r="260" fill="none" stroke="#14171A" stroke-width="1"></circle>
+      <circle cx="280" cy="280" r="195" fill="none" stroke="#14171A" stroke-width="1"></circle>
+      <circle cx="280" cy="280" r="130" fill="none" stroke="#14171A" stroke-width="1"></circle>
+      <circle cx="280" cy="280" r="65" fill="none" stroke="#14171A" stroke-width="1"></circle>
+      <line x1="20" y1="280" x2="540" y2="280" stroke="#14171A" stroke-width="1"></line>
+      <line x1="280" y1="20" x2="280" y2="540" stroke="#14171A" stroke-width="1"></line>
+    </svg>
+    <div style="display:grid; grid-template-columns:1fr 320px; gap:56px; align-items:start; position:relative;">
+      <div style="{{ heroEntryStyle }}">
+        <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#8C3324; margin-bottom:18px; text-transform:uppercase;">Lead Signal · Defense &amp; Markets</div>
+        <h1 style="font-family:'Fraunces',serif; font-weight:600; font-size:62px; line-height:1.02; letter-spacing:-0.015em; margin:0 0 22px; text-wrap:pretty;">Reading the Signal: What Defense Budgets Are Telling Markets</h1>
+        <p style="font-size:19px; line-height:1.55; color:#52565C; max-width:640px; margin:0 0 28px;">NATO's 2027 budget cycle is quietly repricing a decade of defense-adjacent equities — and the shift started long before anyone voted on it.</p>
+        <div style="display:flex; align-items:center; gap:16px; font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91;">
+          <span>The Global Monitor</span><span>·</span><span>28 JUL 2026</span><span>·</span><span>7 MIN READ</span>
+        </div>
+      </div>
+      <div style="{{ heroEntryStyleDelayed }}">
+        <div style="border:1px solid #DAD7CE; background:#14171A; padding:20px; margin-bottom:24px;">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.07em; color:#8A8D91; text-transform:uppercase; margin-bottom:10px;">Signal Waveform</div>
+          <svg width="100%" height="72" viewBox="0 0 280 72" preserveAspectRatio="none">
+            <defs>
+              <linearGradient id="tgm-wave-fill" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#24463B" stop-opacity="0.5"></stop>
+                <stop offset="100%" stop-color="#24463B" stop-opacity="0"></stop>
+              </linearGradient>
+            </defs>
+            <polygon points="0,60 20,60 30,20 40,64 50,32 60,50 70,36 90,36 100,14 110,66 120,36 140,36 150,26 160,48 170,36 190,36 200,6 210,70 220,36 240,36 250,28 260,44 270,36 280,36 280,72 0,72" fill="url(#tgm-wave-fill)"></polygon>
+            <polyline points="0,60 20,60 30,20 40,64 50,32 60,50 70,36 90,36 100,14 110,66 120,36 140,36 150,26 160,48 170,36 190,36 200,6 210,70 220,36 240,36 250,28 260,44 270,36 280,36" fill="none" stroke="#24463B" stroke-width="1.6"></polyline>
+          </svg>
+        </div>
+        <div style="border-left:1px solid #DAD7CE; padding-left:28px;">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:14px;">In Brief</div>
+          <sc-for list="{{ inBriefItems }}" as="item" hint-placeholder-count="4">
+            <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" style="display:block; text-decoration:none; color:#14171A; padding:14px 0; border-bottom:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:{{ item.tagColor }}; text-transform:uppercase; margin-bottom:6px;">{{ item.tag }}</div>
+              <div style="font-family:'Fraunces',serif; font-size:16.5px; line-height:1.3; font-weight:500;">{{ item.headline }}</div>
+            </a>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+    <svg width="100%" height="64" viewBox="0 0 1200 64" preserveAspectRatio="none" style="margin-top:48px; display:block;">
+      <polyline points="0,32 40,32 60,10 80,54 100,20 120,44 140,32 180,32 200,8 220,56 240,32 280,32 300,18 320,46 340,32 380,32 400,4 420,60 440,32 480,32 500,24 520,40 540,32 580,32 600,12 620,52 640,32 680,32 700,20 720,44 740,32 780,32 800,6 820,58 840,32 880,32 900,26 920,38 940,32 980,32 1000,16 1020,48 1040,32 1080,32 1100,10 1120,54 1140,32 1180,32 1200,32" fill="none" stroke="#24463B" stroke-width="1.4" stroke-opacity="0.55"></polyline>
+    </svg>
+  </section>
+
+  <!-- MISSION -->
+  <section id="mission" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
+    <div style="background:#EFEDE6; border-top:1px solid #DAD7CE; border-bottom:1px solid #DAD7CE;">
+      <div style="max-width:1200px; margin:0 auto; padding:64px 32px;">
+        <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Two Signals, One Desk</div>
+        <p style="font-family:'Fraunces',serif; font-size:30px; line-height:1.4; font-weight:400; max-width:820px; margin:0 0 44px; text-wrap:pretty;">Geopolitics and markets are usually covered by people who don't talk to each other. The Global Monitor sits in the gap — where a troop rotation, a shipping reroute, or an export control shows up in a name worth watching, before it's consensus.</p>
+        <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:32px;">
+          <div style="border-top:2px solid #24463B; padding-top:18px;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8A8D91; margin-bottom:8px;">01</div>
+            <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; margin-bottom:8px;">Signal over noise</div>
+            <p style="font-size:15px; line-height:1.55; color:#52565C; margin:0;">Every story earns its place by what it changes, not how loud it is.</p>
+          </div>
+          <div style="border-top:2px solid #24463B; padding-top:18px;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8A8D91; margin-bottom:8px;">02</div>
+            <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; margin-bottom:8px;">Follow the linkage</div>
+            <p style="font-size:15px; line-height:1.55; color:#52565C; margin:0;">Events don't stay in their lane — a rotation in one theatre reprices a name in another.</p>
+          </div>
+          <div style="border-top:2px solid #24463B; padding-top:18px;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8A8D91; margin-bottom:8px;">03</div>
+            <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; margin-bottom:8px;">Say what you don't know</div>
+            <p style="font-size:15px; line-height:1.55; color:#52565C; margin:0;">Confidence is stated in degrees, not certainty. Uncertainty is data too.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <sc-if value="{{ archiveOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeArchiveBackdrop }}">
+      <div style="background:#F6F5F1; max-width:920px; width:100%; height:fit-content; padding:48px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeArchive }}" aria-label="Close archive" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">All Articles</div>
+        <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:28px; margin:0 0 32px;">The full archive</h2>
+        <div style="display:flex; flex-direction:column;">
+          <sc-for list="{{ archiveCards }}" as="card" hint-placeholder-count="6">
+            <a href="#geopolitics" style="display:flex; justify-content:space-between; align-items:baseline; gap:24px; text-decoration:none; color:#14171A; padding:18px 0; border-bottom:1px solid #DAD7CE;">
+              <div>
+                <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:{{ card.accent }}; text-transform:uppercase; margin-bottom:6px;">{{ card.tag }}</div>
+                <div style="font-family:'Fraunces',serif; font-size:18px; font-weight:600;">{{ card.headline }}</div>
+              </div>
+              <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8A8D91; white-space:nowrap;">Read →</span>
+            </a>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <!-- FEATURED ARTICLE TEASER -->
+  <section data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
+    <div style="max-width:1200px; margin:0 auto; padding:72px 32px;">
+      <button onClick="{{ openArticle }}" style="display:grid; grid-template-columns:1fr 240px; gap:40px; align-items:center; width:100%; text-align:left; background:#EFEDE6; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:36px; cursor:pointer; font-family:inherit; color:inherit; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 12px 28px rgba(20,23,26,0.08);">
+        <div>
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Featured</div>
+          <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:32px; line-height:1.14; margin:0 0 16px; text-wrap:pretty;">Reading the Signal: What Defense Budgets Are Telling Markets</h2>
+          <p style="font-size:16px; line-height:1.6; color:#52565C; max-width:560px; margin:0 0 18px;">A ~700-word read on how NATO's budget cycle, force posture, and export licensing all reprice equities before the headline does.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </div>
+        <svg width="100%" viewBox="0 0 200 130" style="display:block;">
+          <rect width="200" height="130" fill="#14171A"></rect>
+          <polyline points="0,90 20,90 30,60 40,100 55,50 70,75 85,55 100,55 115,25 130,105 145,55 160,55 175,40 200,40" fill="none" stroke="#24463B" stroke-width="1.4"></polyline>
+        </svg>
+      </button>
+    </div>
+  </section>
+
+  <sc-if value="{{ articleOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeArticleBackdrop }}">
+      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeArticle }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Featured</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 24px; text-wrap:pretty;">Reading the Signal: What Defense Budgets Are Telling Markets</h2>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>When NATO members quietly revised their 2027 spending baselines this spring, most coverage treated it as a diplomatic story — a communiqué, a target percentage, a photo line of ministers. That framing misses where the number actually lands. A defense budget is not an announcement; it is a multi-year purchase order, and purchase orders move backlogs, and backlogs move share prices years before the hardware ships.</p>
+              <p>Start with the mechanics. Defense procurement operates on contracting cycles measured in years, not quarters. When a government commits to raising defense spending as a share of GDP, it is not writing a check tomorrow — it is signaling a demand curve that prime contractors will spend the next decade fulfilling. Markets that read only the headline percentage miss the more useful number: the order backlog-to-revenue ratio at the primes who will actually receive that money, and how quickly it is climbing relative to their capacity to deliver.</p>
+              <p>That ratio has been climbing. Across the five largest Western defense contractors, backlog now sits at roughly three times trailing annual revenue — a level last seen during the post-9/11 buildup, but with a different composition. A larger share of new contract value is now flowing into autonomy, space-based sensing, and software-defined systems rather than traditional platforms. That shift matters for equity investors because it changes the margin profile of the sector: software and sensor-heavy contracts carry structurally higher margins than legacy hardware, which is one reason defense-adjacent names have outperformed broader industrials even as headline "budget increase" stories fade from the news cycle.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"Backlog now sits at roughly three times trailing annual revenue — a level last seen during the post-9/11 buildup."</blockquote>
+              <p>The second signal worth tracking sits upstream of the budget vote entirely: force posture. Troop rotations, forward basing announcements, and joint exercises are cheap to execute relative to procurement, which makes them a faster-moving proxy for where budget attention is actually heading. A rotation into the Baltic states or an uptick in Red Sea naval presence tends to precede, by one to two fiscal cycles, a corresponding line-item increase in the relevant capability area — maritime domain awareness, integrated air defense, or contested logistics. Watching posture is watching the budget before it's written.</p>
+              <p>There is a third, quieter signal in export licensing. Governments tighten or loosen export controls on dual-use technology — advanced semiconductors, machine tools, certain sensor components — in step with how they assess the strategic environment, often ahead of any public statement about that assessment. A sudden tightening of licensing on a category of components is rarely about that component in isolation; it is a readout on how a government currently weighs a specific relationship or theatre. Markets that trade only the sanctions headline miss the earlier, smaller signal: the license review itself.</p>
+              <p>None of this argues for treating geopolitics as a trading signal in the crude sense — reacting to headlines is precisely the noise this desk exists to filter out. The argument is narrower: the linkage between force posture, procurement cycles, and equity performance is structural and slow-moving, which means it rewards patient observation over headline reaction. The budget vote is the last domino, not the first.</p>
+              <p>What to watch next: the outcome of the alliance's autonomous systems procurement framework, expected to finalize allocation shares by theatre before year-end, and whether backlog growth at the primes begins to outpace their stated capacity expansion — the point at which the market usually starts pricing in execution risk rather than order growth. Both are the kind of second-order detail that rarely makes the headline, and both are exactly the kind of thing this desk is built to watch.</p>
+            </div>
+          </article>
+          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">NATO avg. defense / GDP</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">2.4% → 2.8%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Top-5 prime backlog</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">3.1x revenue</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Defense equities, 3M</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#24463B;">+6.2%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Status</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:{{ statusColor }}; letter-spacing:0.04em;">{{ statusLabel }}</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">Defense vs. Broad Market, 3M</div>
+              <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px;">Defense</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:78%; height:100%; background:#24463B;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#24463B; width:38px; text-align:right;">+6.2%</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px;">S&amp;P 500</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:34%; height:100%; background:#8A8D91;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8A8D91; width:38px; text-align:right;">+2.7%</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <!-- GEOPOLITICS -->
+  <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
+    <div style="background:#14171A; color:#F6F5F1;">
+      <div style="max-width:1200px; margin:0 auto; padding:72px 32px;">
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:56px; align-items:center;">
+          <div>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:16px;">Section 04</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:38px; line-height:1.1; margin:0 0 20px;">Geopolitics</h2>
+            <p style="font-size:16px; line-height:1.65; color:#C3BFB2; max-width:440px;">Five theatres currently returning the strongest signal. Each marker tracks a live thread — force posture, shipping, or contract flow — worth following before it becomes consensus.</p>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.04em; color:#8A8D91; margin-top:16px;">{{ geoUpdatedLabel }}</div>
+          </div>
+          <div style="position:relative; aspect-ratio:1/1; max-width:420px; justify-self:center; width:100%;">
+            <svg viewBox="0 0 400 400" width="100%" height="100%">
+              <circle cx="200" cy="200" r="180" fill="none" stroke="#3A3F44" stroke-width="1"></circle>
+              <circle cx="200" cy="200" r="135" fill="none" stroke="#3A3F44" stroke-width="1"></circle>
+              <circle cx="200" cy="200" r="90" fill="none" stroke="#3A3F44" stroke-width="1"></circle>
+              <circle cx="200" cy="200" r="45" fill="none" stroke="#3A3F44" stroke-width="1"></circle>
+              <line x1="20" y1="200" x2="380" y2="200" stroke="#3A3F44" stroke-width="1"></line>
+              <line x1="200" y1="20" x2="200" y2="380" stroke="#3A3F44" stroke-width="1"></line>
+              <line x1="83" y1="83" x2="317" y2="317" stroke="#3A3F44" stroke-width="0.6"></line>
+              <line x1="317" y1="83" x2="83" y2="317" stroke="#3A3F44" stroke-width="0.6"></line>
+              <sc-for list="{{ radarTicks }}" as="tick" hint-placeholder-count="72">
+                <line x1="{{ tick.x1 }}" y1="{{ tick.y1 }}" x2="{{ tick.x2 }}" y2="{{ tick.y2 }}" stroke="#3A3F44" stroke-width="1"></line>
+              </sc-for>
+              <g data-sweep="true" style="transform-origin:200px 200px; animation: tgm-sweep {{ sweepDuration }} linear infinite;">
+                <path d="M200,200 L200,20 A180,180 0 0,1 306,254 Z" fill="#24463B" opacity="0.16"></path>
+                <line x1="200" y1="200" x2="200" y2="20" stroke="#24463B" stroke-width="1.5"></line>
+              </g>
+              <sc-for list="{{ hotspots }}" as="spot" hint-placeholder-count="5">
+                <circle cx="{{ spot.x }}" cy="{{ spot.y }}" r="5" fill="#8C3324" style="animation: tgm-pulse 2.4s ease-in-out infinite; animation-delay: {{ spot.delay }};"></circle>
+                <circle cx="{{ spot.x }}" cy="{{ spot.y }}" r="2" fill="#F6F5F1"></circle>
+                <text x="{{ spot.labelX }}" y="{{ spot.labelY }}" fill="#C3BFB2" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="0.04em">{{ spot.name }}</text>
+              </sc-for>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="max-width:1200px; margin:0 auto; padding:56px 32px 72px;">
+      <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:28px;">
+        <sc-for list="{{ geoCards }}" as="card" hint-placeholder-count="5">
+          <a href="{{ card.link }}" target="_blank" rel="noopener noreferrer" style="display:block; text-decoration:none; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #DAD7CE; padding:24px; background:#F6F5F1; transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;" style-hover="border-color:#C3BFB2; border-top-color:#8C3324; transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+            <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
+              <span style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8C3324; text-transform:uppercase;">{{ card.tag }}</span>
+              <span style="font-family:'IBM Plex Mono',monospace; font-size:9.5px; color:#8A8D91;">{{ card.coords }}</span>
+            </div>
+            <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">{{ card.headline }}</div>
+            <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0;">{{ card.dek }}</p>
+          </a>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- MARKETS -->
+  <section id="markets" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
+    <div style="max-width:1200px; margin:0 auto; padding:72px 32px; border-top:1px solid #DAD7CE;">
+      <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Section 05</div>
+      <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:38px; line-height:1.1; margin:0 0 12px;">Markets</h2>
+      <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.04em; color:#8A8D91; margin-bottom:32px;">{{ marketsUpdatedLabel }}</div>
+      <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:28px;">
+        <sc-for list="{{ marketCards }}" as="card" hint-placeholder-count="4">
+          <a href="{{ card.link }}" target="_blank" rel="noopener noreferrer" style="display:block; text-decoration:none; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid {{ card.sparkColor }}; padding:24px; background:#EFEDE6; transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;" style-hover="border-color:#C3BFB2; transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+            <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:14px;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase;">{{ card.tag }}</div>
+              <svg width="70" height="24" viewBox="0 0 70 24">
+                <polyline points="{{ card.sparkPoints }}" fill="none" stroke="{{ card.sparkColor }}" stroke-width="1.6"></polyline>
+              </svg>
+            </div>
+            <div style="font-family:'Fraunces',serif; font-size:18px; font-weight:600; line-height:1.3; margin-bottom:10px;">{{ card.headline }}</div>
+            <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">{{ card.dek }}</p>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:600; color:{{ card.sparkColor }};">{{ card.change }}</div>
+          </a>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- LATEST ARTICLES -->
+  <section id="latest" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
+    <div style="max-width:1200px; margin:0 auto; padding:72px 32px; border-top:1px solid #DAD7CE;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:36px; flex-wrap:wrap; gap:12px;">
+        <div>
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Articles</div>
+          <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.1; margin:0;">Recent signal</h2>
+        </div>
+        <button onClick="{{ openArchive }}" style="background:none; border:none; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:13px; color:#24463B; letter-spacing:0.03em; padding:0;">View all articles →</button>
+      </div>
+      <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:28px;">
+        <sc-for list="{{ latestCards }}" as="card" hint-placeholder-count="3">
+          <a href="#geopolitics" style="display:block; text-decoration:none; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid {{ card.accent }}; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:{{ card.accent }}; text-transform:uppercase; margin-bottom:12px;">{{ card.tag }}</div>
+            <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">{{ card.headline }}</div>
+            <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0;">{{ card.dek }}</p>
+          </a>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="desk" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
+    <div style="background:#EFEDE6; border-top:1px solid #DAD7CE;">
+      <div style="max-width:1200px; margin:0 auto; padding:72px 32px;">
+        <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Section 06</div>
+        <div style="display:grid; grid-template-columns:120px 1fr; gap:40px; align-items:start;">
+          <svg width="100" height="100" viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="48" fill="#14171A"></circle>
+            <circle cx="50" cy="50" r="34" fill="none" stroke="#52565C" stroke-width="1"></circle>
+            <text x="50" y="60" text-anchor="middle" fill="#F6F5F1" font-family="Fraunces, serif" font-size="34" font-weight="600">C</text>
+          </svg>
+          <div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:30px; margin:0 0 18px;">About the desk</h2>
+            <p style="font-size:16px; line-height:1.7; color:#14171A; max-width:640px; margin:0 0 16px;">The Global Monitor is written by a final-year History student who trades NQ futures and builds equity-research tools on the side — including Overwatch, a tracker for defense and AI-adjacent stocks. That background is why this desk reads geopolitics and markets as one instrument rather than two beats.</p>
+            <p style="font-size:16px; line-height:1.7; color:#14171A; max-width:640px; margin:0 0 28px;">Tips, corrections, and arguments are welcome.</p>
+            <div style="display:flex; gap:28px; font-family:'IBM Plex Mono',monospace; font-size:13px;">
+              <a href="mailto:desk@theglobalmonitor.example" style="color:#24463B; text-decoration:none; border-bottom:1px solid #24463B;">desk@theglobalmonitor.example</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer style="border-top:1px solid #DAD7CE;">
+    <div style="max-width:1200px; margin:0 auto; padding:28px 32px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+      <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91;">© {{ year }} The Global Monitor</span>
+      <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.04em;">Signal, not noise.</span>
+    </div>
+  </footer>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
+class Component extends DCLogic {
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, newsData: null, newsLoaded: false, newsError: false };
+
+  constructor(props) {
+    super(props);
+    this._observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'none';
+          this._observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
+  }
+
+  componentDidMount() {
+    this._mq = window.matchMedia('(max-width: 820px)');
+    this._onMq = (e) => this.setState({ isMobile: e.matches });
+    this._onMq(this._mq);
+    this._mq.addEventListener ? this._mq.addEventListener('change', this._onMq) : this._mq.addListener(this._onMq);
+
+    setTimeout(() => this.setState({ entryVisible: true }), 50);
+
+    // Real headlines, written by scripts/fetch-news.mjs and refreshed every
+    // 6 hours by .github/workflows/update-news.yml — see NEWS-SETUP.md.
+    // Falls back to the static placeholder cards below if this file isn't
+    // there yet (e.g. before the workflow has run once) or fails to load.
+    fetch('data/news.json', { cache: 'no-store' })
+      .then((res) => (res.ok ? res.json() : Promise.reject(new Error('news.json not found (' + res.status + ')'))))
+      .then((data) => this.setState({ newsData: data, newsLoaded: true, newsError: false }))
+      .catch((err) => {
+        console.error('Could not load live news data, showing fallback content:', err);
+        this.setState({ newsLoaded: true, newsError: true });
+      });
+  }
+
+  componentWillUnmount() {
+    if (this._mq) this._mq.removeEventListener ? this._mq.removeEventListener('change', this._onMq) : this._mq.removeListener(this._onMq);
+    if (this._observer) this._observer.disconnect();
+  }
+
+  revealRef = (node) => {
+    if (node && this._observer) this._observer.observe(node);
+  };
+
+  toggleMobile = () => this.setState((s) => ({ mobileOpen: !s.mobileOpen }));
+
+  openArticle = () => {
+    this.setState({ articleOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onKeyDown = (e) => { if (e.key === 'Escape') this.closeArticle(); };
+    window.addEventListener('keydown', this._onKeyDown);
+  };
+
+  closeArticle = () => {
+    this.setState({ articleOpen: false });
+    document.body.style.overflow = '';
+    if (this._onKeyDown) window.removeEventListener('keydown', this._onKeyDown);
+  };
+
+  closeArticleBackdrop = () => this.closeArticle();
+  stopPropagation = (e) => e.stopPropagation();
+
+  openArchive = () => {
+    this.setState({ archiveOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onArchiveKeyDown = (e) => { if (e.key === 'Escape') this.closeArchive(); };
+    window.addEventListener('keydown', this._onArchiveKeyDown);
+  };
+
+  closeArchive = () => {
+    this.setState({ archiveOpen: false });
+    document.body.style.overflow = '';
+    if (this._onArchiveKeyDown) window.removeEventListener('keydown', this._onArchiveKeyDown);
+  };
+
+  closeArchiveBackdrop = () => this.closeArchive();
+
+  renderVals() {
+    const isMobile = this.state.isMobile;
+    const status = this.props.signalStatus ?? 'ELEVATED';
+    const statusColor = status === 'STEADY' ? '#24463B' : '#8C3324';
+    const sweepSpeed = this.props.sweepSpeed ?? 6;
+
+    const londonTime = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', hour: '2-digit', minute: '2-digit', hour12: false }).format(new Date());
+    const tickerBase = '28 JUL 2026 · LONDON ' + londonTime + ' GMT · SIGNAL: ' + status + ' · 3 REGIONS ELEVATED · MARKETS: RISK-ON';
+    const tickerItemsDup = tickerBase + '     ' + tickerBase + '     ' + tickerBase;
+
+    // ---- Live news wiring --------------------------------------------
+    // this.state.newsData is whatever data/news.json contains (written by
+    // scripts/fetch-news.mjs, refreshed every 6 hours by the GitHub Action).
+    // If it hasn't loaded yet, failed to load, or came back empty, every
+    // section below falls back to the hand-written placeholder cards.
+    const live = this.state.newsData;
+    const liveGeo = (live && Array.isArray(live.geopolitics)) ? live.geopolitics : [];
+    const liveMarkets = (live && Array.isArray(live.markets)) ? live.markets : [];
+    const hasLiveGeo = liveGeo.length > 0;
+    const hasLiveMarkets = liveMarkets.length > 0;
+
+    const relTime = (isoString) => {
+      if (!isoString) return '';
+      const then = new Date(isoString).getTime();
+      if (isNaN(then)) return '';
+      const mins = Math.round((Date.now() - then) / 60000);
+      if (mins < 1) return 'just now';
+      if (mins < 60) return mins + 'm ago';
+      const hours = Math.round(mins / 60);
+      if (hours < 24) return hours + 'h ago';
+      const days = Math.round(hours / 24);
+      return days + 'd ago';
+    };
+
+    const geoUpdatedLabel = hasLiveGeo
+      ? 'Live feed · updated ' + relTime(live.updatedAt)
+      : (this.state.newsLoaded ? (this.state.newsError ? 'Live feed unavailable — showing recent picks' : 'Awaiting first sync — showing recent picks') : 'Loading live feed…');
+    const marketsUpdatedLabel = hasLiveMarkets
+      ? 'Live feed · updated ' + relTime(live.updatedAt)
+      : (this.state.newsLoaded ? (this.state.newsError ? 'Live feed unavailable — showing recent picks' : 'Awaiting first sync — showing recent picks') : 'Loading live feed…');
+
+    const FALLBACK_IN_BRIEF = [
+      { tag: 'Geopolitics', tagColor: '#8C3324', headline: 'Baltic Sea cable incident reroutes three shipping lanes', link: '#geopolitics' },
+      { tag: 'Markets', tagColor: '#24463B', headline: 'Semiconductor export licenses tighten again', link: '#markets' },
+      { tag: 'Geopolitics', tagColor: '#8C3324', headline: 'Sahel juntas consolidate — mining contracts in play', link: '#geopolitics' },
+      { tag: 'Markets', tagColor: '#24463B', headline: 'Defense primes guide up on multi-year backlog', link: '#markets' },
+    ];
+
+    const inBriefItems = (hasLiveGeo || hasLiveMarkets)
+      ? [
+          hasLiveGeo ? { tag: 'Geopolitics', tagColor: '#8C3324', headline: liveGeo[0].title, link: liveGeo[0].link } : null,
+          hasLiveMarkets ? { tag: 'Markets', tagColor: '#24463B', headline: liveMarkets[0].title, link: liveMarkets[0].link } : null,
+          hasLiveGeo && liveGeo[1] ? { tag: 'Geopolitics', tagColor: '#8C3324', headline: liveGeo[1].title, link: liveGeo[1].link } : null,
+          hasLiveMarkets && liveMarkets[1] ? { tag: 'Markets', tagColor: '#24463B', headline: liveMarkets[1].title, link: liveMarkets[1].link } : null,
+        ].filter(Boolean)
+      : FALLBACK_IN_BRIEF;
+
+    const hotspots = [
+      { name: 'BALTIC', x: 195, y: 90, labelX: 205, labelY: 78, delay: '0s' },
+      { name: 'ARCTIC', x: 200, y: 45, labelX: 210, labelY: 33, delay: '0.3s' },
+      { name: 'TAIWAN', x: 300, y: 205, labelX: 245, labelY: 210, delay: '0.6s' },
+      { name: 'RED SEA', x: 250, y: 290, labelX: 195, labelY: 305, delay: '0.9s' },
+      { name: 'SAHEL', x: 155, y: 270, labelX: 90, labelY: 285, delay: '1.2s' },
+    ];
+
+    const geoCards = hasLiveGeo
+      ? liveGeo.map((it) => ({
+          tag: it.source.toUpperCase(),
+          coords: relTime(it.publishedAt),
+          headline: it.title,
+          dek: it.source,
+          link: it.link,
+        }))
+      : [
+          { tag: 'Baltic', coords: '59.4°N 20.3°E', headline: 'Undersea cable damage forces a quiet reroute of North Sea traffic', dek: 'Three subsea links flagged for repair — insurers already pricing the disruption.', link: '#geopolitics' },
+          { tag: 'Arctic', coords: '78.2°N 15.6°E', headline: 'Icebreaker orders quietly triple across three fleets', dek: 'Shipping lanes that don\u2019t exist yet are already being contracted for.', link: '#geopolitics' },
+          { tag: 'Taiwan Strait', coords: '23.7°N 119.4°E', headline: 'Transit frequency through the strait hits an 18-month high', dek: 'Naval presence is up; so is options volume on regional foundries.', link: '#geopolitics' },
+          { tag: 'Red Sea', coords: '15.6°N 41.9°E', headline: 'Rerouted freight adds eleven days to the Asia–Europe run', dek: 'Insurance premiums for the corridor have not caught up with the risk.', link: '#geopolitics' },
+          { tag: 'Sahel', coords: '14.5°N 3.2°W', headline: 'A junta reshuffle puts three mining concessions back in play', dek: 'The names that hold those permits are quietly repricing.', link: '#geopolitics' },
+        ];
+
+    const allArticles = [
+      { tag: 'Markets', accent: '#24463B', headline: 'Backlog-to-revenue hits its highest ratio since 2003', dek: 'Order books are stretching further than delivery capacity.' },
+      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Baltic Sea cable incident reroutes three shipping lanes', dek: 'Three subsea links flagged for repair — insurers already pricing the disruption.' },
+      { tag: 'Markets', accent: '#24463B', headline: 'A fourth country tightens semiconductor export licensing', dek: 'The equipment makers feel it before the chipmakers do.' },
+      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Icebreaker orders quietly triple across three fleets', dek: 'Shipping lanes that don\u2019t exist yet are already being contracted for.' },
+      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Transit frequency through the Taiwan Strait hits an 18-month high', dek: 'Naval presence is up; so is options volume on regional foundries.' },
+      { tag: 'Markets', accent: '#24463B', headline: 'Reroutes are quietly repricing container capacity', dek: 'Spot rates on the long way round are outpacing the direct route.' },
+      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Rerouted Red Sea freight adds eleven days to the Asia–Europe run', dek: 'Insurance premiums for the corridor have not caught up with the risk.' },
+      { tag: 'Markets', accent: '#8C3324', headline: 'Rare-earth stockpiling shows up in customs data first', dek: 'Import volumes moved a full quarter ahead of the policy story.' },
+      { tag: 'Geopolitics', accent: '#8C3324', headline: 'A Sahel junta reshuffle puts three mining concessions back in play', dek: 'The names that hold those permits are quietly repricing.' },
+    ];
+    const latestCards = allArticles.slice(0, 3);
+    const archiveCards = allArticles.slice(3);
+
+    const radarTicks = [];
+    for (let i = 0; i < 72; i++) {
+      const a = (i * 5) * Math.PI / 180;
+      const long = i % 6 === 0;
+      const r1 = long ? 170 : 176;
+      radarTicks.push({
+        x1: 200 + r1 * Math.cos(a), y1: 200 + r1 * Math.sin(a),
+        x2: 200 + 180 * Math.cos(a), y2: 200 + 180 * Math.sin(a),
+      });
+    }
+
+    const marketCards = hasLiveMarkets
+      ? liveMarkets.map((it) => ({
+          tag: it.source.toUpperCase(),
+          headline: it.title,
+          dek: '',
+          sparkColor: '#8A8D91',
+          change: relTime(it.publishedAt),
+          sparkPoints: '0,12 10,12 20,12 30,12 40,12 50,12 60,12 70,12',
+          link: it.link,
+        }))
+      : [
+          { tag: 'Defense Primes', headline: 'Backlog-to-revenue hits its highest ratio since 2003', dek: 'Order books are stretching further than delivery capacity.', sparkColor: '#24463B', change: '+6.2% · 3M', sparkPoints: '0,18 10,16 20,14 30,15 40,10 50,11 60,6 70,4', link: '#markets' },
+          { tag: 'Semiconductors', headline: 'A fourth country tightens export licensing this quarter', dek: 'The equipment makers feel it before the chipmakers do.', sparkColor: '#8C3324', change: '-3.1% · 3M', sparkPoints: '0,4 10,6 20,5 30,9 40,10 50,14 60,15 70,19', link: '#markets' },
+          { tag: 'Freight & Shipping', headline: 'Reroutes are quietly repricing container capacity', dek: 'Spot rates on the long way round are outpacing the direct route.', sparkColor: '#24463B', change: '+4.4% · 3M', sparkPoints: '0,16 10,15 20,12 30,13 40,9 50,8 60,5 70,6', link: '#markets' },
+          { tag: 'Critical Minerals', headline: 'Rare-earth stockpiling shows up in customs data first', dek: 'Import volumes moved a full quarter ahead of the policy story.', sparkColor: '#8C3324', change: '-1.8% · 3M', sparkPoints: '0,6 10,7 20,10 30,9 40,13 50,12 60,16 70,17', link: '#markets' },
+        ];
+
+    return {
+      navContainerStyle: isMobile
+        ? { display: this.state.mobileOpen ? 'flex' : 'none', position: 'absolute', top: '64px', left: 0, right: 0, flexDirection: 'column', background: '#F6F5F1', borderBottom: '1px solid #DAD7CE', padding: '8px 32px 16px', gap: '4px' }
+        : { display: 'flex', gap: '28px' },
+      navLinkStyle: { fontFamily: "'IBM Plex Mono', monospace", fontSize: '12.5px', letterSpacing: '0.03em', color: '#14171A', textDecoration: 'none', textTransform: 'uppercase', padding: isMobile ? '10px 0' : '2px 0', borderBottom: '1px solid transparent' },
+      hamburgerStyle: { display: isMobile ? 'block' : 'none', background: 'none', border: 'none', cursor: 'pointer', padding: '6px' },
+      statusDotDisplay: isMobile ? 'none' : 'flex',
+      heroEntryStyle: { opacity: this.state.entryVisible ? 1 : 0, transform: this.state.entryVisible ? 'none' : 'translateY(18px)', transition: 'opacity 0.8s ease, transform 0.8s ease' },
+      heroEntryStyleDelayed: { opacity: this.state.entryVisible ? 1 : 0, transform: this.state.entryVisible ? 'none' : 'translateY(18px)', transition: 'opacity 0.8s ease 0.15s, transform 0.8s ease 0.15s' },
+      articleOpen: this.state.articleOpen,
+      openArticle: this.openArticle,
+      closeArticle: this.closeArticle,
+      closeArticleBackdrop: this.closeArticleBackdrop,
+      stopPropagation: this.stopPropagation,
+      latestCards,
+      archiveCards,
+      archiveOpen: this.state.archiveOpen,
+      openArchive: this.openArchive,
+      closeArchive: this.closeArchive,
+      closeArchiveBackdrop: this.closeArchiveBackdrop,
+      revealStyle: { opacity: 0, transform: 'translateY(24px)', transition: 'opacity 0.7s ease, transform 0.7s ease' },
+      revealRef: this.revealRef,
+      toggleMobile: this.toggleMobile,
+      tickerItemsDup,
+      inBriefItems,
+      hotspots,
+      radarTicks,
+      geoCards,
+      marketCards,
+      geoUpdatedLabel,
+      marketsUpdatedLabel,
+      sweepDuration: sweepSpeed + 's',
+      statusColor,
+      statusLabel: status,
+      year: 2026,
+    };
+  }
+}
+</script>
+</body>
+</html>

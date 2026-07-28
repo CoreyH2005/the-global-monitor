@@ -1,0 +1,12 @@
+{
+  "name": "the-global-monitor",
+  "private": true,
+  "type": "module",
+  "description": "Static site + scheduled script that pulls real headlines into data/news.json",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
