@@ -48,7 +48,7 @@
         <a href="#mission" style="{{ navLinkStyle }}">About</a>
         <a href="#geopolitics" style="{{ navLinkStyle }}">Geopolitics</a>
         <a href="#markets" style="{{ navLinkStyle }}">Markets</a>
-        <a href="#latest" style="{{ navLinkStyle }}">Articles</a>
+        <a href="news.html" style="{{ navLinkStyle }}">Global News</a>
         <a href="#desk" style="{{ navLinkStyle }}">Contact</a>
       </nav>
       <div style="display:{{ statusDotDisplay }}; align-items:center; gap:8px; font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; letter-spacing:0.04em;">
@@ -449,6 +449,7 @@
           <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Articles</div>
           <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.1; margin:0;">Recent signal</h2>
         </div>
+        <a href="news.html" style="text-decoration:none; font-family:'IBM Plex Mono',monospace; font-size:13px; color:#24463B; letter-spacing:0.03em; border-bottom:1px solid #24463B; padding-bottom:2px;">View all articles →</a>
       </div>
       <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:28px;">
         <button onClick="{{ openPost }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
@@ -524,6 +525,13 @@ class Component extends DCLogic {
     this._mq.addEventListener ? this._mq.addEventListener('change', this._onMq) : this._mq.addListener(this._onMq);
 
     setTimeout(() => this.setState({ entryVisible: true }), 50);
+
+    // Deep-link support: news.html links here as index.html?read=<slug> to open
+    // a specific article's full-text modal directly.
+    const _read = new URLSearchParams(window.location.search).get('read');
+    if (_read === 'iran') this.openArticle();
+    else if (_read === 'salvo') this.openPost();
+    else if (_read === 'tariffs') this.openTariffs();
 
     // Real headlines, written by scripts/fetch-news.mjs and refreshed every
     // 6 hours by .github/workflows/update-news.yml — see NEWS-SETUP.md.
