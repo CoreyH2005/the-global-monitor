@@ -305,6 +305,64 @@
     </div>
   </sc-if>
 
+  <sc-if value="{{ tariffsOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeTariffsBackdrop }}">
+      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeTariffs }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:14px;">Policy &amp; Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Trump, America, and Tariffs</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 28 Jul 2026 · 6 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>Between January and April 2025, President Donald Trump introduced a series of tariffs on imports from multiple countries during the early months of his second administration. The debate around them has largely been shaped by political ideology — supporters defend them under the "America First" agenda, critics call them economically damaging. This piece sets that framing aside to look at what the tariffs have actually done: to trade, to prices, and to the deficit they were built to fix.</p>
+              <p><strong>A tool with a long history.</strong> Tariffs — taxes on imported goods — have played a role in American economic policy for over a century, used to protect domestic industries and raise revenue, from the Payne–Aldrich and Fordney–McCumber acts to Smoot–Hawley. The administration's key justification this time is the persistent U.S. trade deficit, which currently exceeds $900 billion — among the largest in the world — with the tariffs meant to narrow it by making foreign goods more expensive relative to domestic production.</p>
+              <p><strong>What actually happened to rates and revenue.</strong> Since the start of the term, the average effective tariff rate has risen sharply — from roughly 2.4 percent to 16.8 percent by the end of 2025. Revenue rose with it: the U.S. collected about $287 billion in tariff revenue during 2025, a 192 percent increase over 2024.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"Despite the rise in government revenue, economists widely argue that tariffs impose costs on domestic consumers and businesses."</blockquote>
+              <p>When companies pay tariffs on imported goods or raw materials, the cost is often passed to consumers as higher prices. Bureau of Labor Statistics data shows increases across several categories — food, coffee, household furnishings — with automobiles, auto parts, and steel among the hardest hit.</p>
+              <p><strong>Who actually pays — and the legal cloud over it.</strong> The effects reach the labour market too: higher import costs raise production expenses for firms tied to global supply chains, and recent indicators point to a softening jobs market, with the ratio of openings to unemployed workers falling below 0.9 — its lowest since early 2021. And the legal foundation is now in question: the Supreme Court has ruled that a significant share of these tariffs — those imposed under the International Emergency Economic Powers Act — were enacted without proper authority, opening the door to refund claims and leaving a meaningful slice of 2025's revenue in genuine limbo.</p>
+              <p>The policy marks a real shift toward protectionism. It has raised revenue and was framed around shrinking the trade deficit — but it has also lifted consumer prices, added uncertainty for business, and now faces a live legal challenge to its own basis. The long-term picture depends on how trading partners respond, how the courts settle the refund question, and whether future administrations keep going.</p>
+            </div>
+          </article>
+          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Avg. effective rate</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">2.4% → 16.8%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">2025 tariff revenue</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">$287B · +192%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Trade deficit, 2025</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">$901.5B</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Legal status</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:#8C3324; letter-spacing:0.04em;">IEEPA STRUCK DOWN</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">Effective tariff rate, 2025</div>
+              <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:70px;">January</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:14%; height:100%; background:#8A8D91;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:48px; text-align:right;">2.4%</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:70px;">December</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:100%; height:100%; background:#8C3324;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8C3324; width:48px; text-align:right;">16.8%</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
   <!-- GEOPOLITICS -->
   <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="background:#14171A; color:#F6F5F1;">
@@ -391,7 +449,6 @@
           <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Articles</div>
           <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.1; margin:0;">Recent signal</h2>
         </div>
-        <button onClick="{{ openArchive }}" style="background:none; border:none; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:13px; color:#24463B; letter-spacing:0.03em; padding:0;">View all articles →</button>
       </div>
       <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:28px;">
         <button onClick="{{ openPost }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
@@ -400,13 +457,12 @@
           <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</p>
           <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
         </button>
-        <sc-for list="{{ latestCards }}" as="card" hint-placeholder-count="2">
-          <a href="#geopolitics" style="display:block; text-decoration:none; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid {{ card.accent }}; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
-            <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:{{ card.accent }}; text-transform:uppercase; margin-bottom:12px;">{{ card.tag }}</div>
-            <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">{{ card.headline }}</div>
-            <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0;">{{ card.dek }}</p>
-          </a>
-        </sc-for>
+        <button onClick="{{ openTariffs }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #24463B; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#24463B; text-transform:uppercase; margin-bottom:12px;">Policy &amp; Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Trump, America, and Tariffs</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">The average tariff rate went from 2.4% to 16.8% in a year, revenue jumped 192%, and the Supreme Court just ruled a chunk of it illegal — what the numbers actually say, past the political framing.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
       </div>
     </div>
   </section>
@@ -446,7 +502,7 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
 class Component extends DCLogic {
-  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, newsData: null, newsLoaded: false, newsError: false };
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, tariffsOpen: false, newsData: null, newsLoaded: false, newsError: false };
 
   constructor(props) {
     super(props);
@@ -539,6 +595,21 @@ class Component extends DCLogic {
 
   closePostBackdrop = () => this.closePost();
 
+  openTariffs = () => {
+    this.setState({ tariffsOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onTariffsKeyDown = (e) => { if (e.key === 'Escape') this.closeTariffs(); };
+    window.addEventListener('keydown', this._onTariffsKeyDown);
+  };
+
+  closeTariffs = () => {
+    this.setState({ tariffsOpen: false });
+    document.body.style.overflow = '';
+    if (this._onTariffsKeyDown) window.removeEventListener('keydown', this._onTariffsKeyDown);
+  };
+
+  closeTariffsBackdrop = () => this.closeTariffs();
+
   renderVals() {
     const isMobile = this.state.isMobile;
     const status = this.props.signalStatus ?? 'ELEVATED';
@@ -620,20 +691,11 @@ class Component extends DCLogic {
           { tag: 'Sahel', coords: '14.5°N 3.2°W', headline: 'A junta reshuffle puts three mining concessions back in play', dek: 'The names that hold those permits are quietly repricing.', link: '#geopolitics' },
         ];
 
-    const allArticles = [
-      { tag: 'Geopolitics & Markets', accent: '#8C3324', headline: 'The Salvo the Market Had Already Sold', dek: 'Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.', full: true },
-      { tag: 'Markets', accent: '#24463B', headline: 'Backlog-to-revenue hits its highest ratio since 2003', dek: 'Order books are stretching further than delivery capacity.' },
-      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Baltic Sea cable incident reroutes three shipping lanes', dek: 'Three subsea links flagged for repair — insurers already pricing the disruption.' },
-      { tag: 'Markets', accent: '#24463B', headline: 'A fourth country tightens semiconductor export licensing', dek: 'The equipment makers feel it before the chipmakers do.' },
-      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Icebreaker orders quietly triple across three fleets', dek: 'Shipping lanes that don\u2019t exist yet are already being contracted for.' },
-      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Transit frequency through the Taiwan Strait hits an 18-month high', dek: 'Naval presence is up; so is options volume on regional foundries.' },
-      { tag: 'Markets', accent: '#24463B', headline: 'Reroutes are quietly repricing container capacity', dek: 'Spot rates on the long way round are outpacing the direct route.' },
-      { tag: 'Geopolitics', accent: '#8C3324', headline: 'Rerouted Red Sea freight adds eleven days to the Asia–Europe run', dek: 'Insurance premiums for the corridor have not caught up with the risk.' },
-      { tag: 'Markets', accent: '#8C3324', headline: 'Rare-earth stockpiling shows up in customs data first', dek: 'Import volumes moved a full quarter ahead of the policy story.' },
-      { tag: 'Geopolitics', accent: '#8C3324', headline: 'A Sahel junta reshuffle puts three mining concessions back in play', dek: 'The names that hold those permits are quietly repricing.' },
-    ];
-    const latestCards = allArticles.slice(1, 3);
-    const archiveCards = allArticles.slice(3);
+    const allArticles = [];
+    // Placeholder/sample articles are no longer rendered — real articles are
+    // their own cards + modals below, so these lists are intentionally empty.
+    const latestCards = [];
+    const archiveCards = [];
 
     const radarTicks = [];
     for (let i = 0; i < 72; i++) {
@@ -680,6 +742,10 @@ class Component extends DCLogic {
       openPost: this.openPost,
       closePost: this.closePost,
       closePostBackdrop: this.closePostBackdrop,
+      tariffsOpen: this.state.tariffsOpen,
+      openTariffs: this.openTariffs,
+      closeTariffs: this.closeTariffs,
+      closeTariffsBackdrop: this.closeTariffsBackdrop,
       stopPropagation: this.stopPropagation,
       latestCards,
       archiveCards,
