@@ -243,6 +243,70 @@
     </div>
   </sc-if>
 
+  <sc-if value="{{ postOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closePostBackdrop }}">
+      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closePost }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Geopolitics &amp; Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">The Salvo the Market Had Already Sold</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 29 Jul 2026 · 4 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>For about thirty-six hours, the market had a peace trade. Iranian and Omani negotiators had been at the table over the weekend; Tehran was talking to Riyadh about the Strait of Hormuz; and the tape did what tape does when a war looks like it is cooling — it sold the fear. Brent settled Tuesday down 4.8% at $84.09, capping three straight down days. De-escalation was, briefly, consensus.</p>
+              <p>Then, late Tuesday, the Islamic Revolutionary Guard Corps launched what U.S. Central Command called an "attempted surprise attack" — multiple ballistic missiles aimed at American forces across the region. CENTCOM says every one was intercepted. No U.S. casualties have been reported. Saudi air defences knocked down drones over the same window. And rather than walk it back, Tehran hardened: it would take "any action, including resuming war," to hold control of Hormuz.</p>
+              <p>The market reaction is the story, and it is a specific one. Oil reversed hard — WTI jumped 4.4% to $82.73 almost the instant the interception headlines crossed, erasing a three-day decline in a single move. Equity-index futures slipped, but they slipped; they did not break. That asymmetry — oil violent, equities orderly — is the signal worth reading.</p>
+              <p><strong>Why oil moved and stocks didn't.</strong> This conflict has one transmission mechanism the market genuinely fears, and only one: the Strait of Hormuz. Roughly a fifth of the world's oil moves through a channel two miles wide at its narrowest point. Equities, meanwhile, have absorbed the July lesson: every escalation this month has been followed by an interception, a threat, and a walk-back. Buyers keep showing up because the base rate says the shooting stops before the shipping does.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"A missile that gets intercepted changes nothing about physical supply. A threat to close Hormuz changes everything."</blockquote>
+              <p><strong>A premium, not a shock.</strong> Note what did not happen. No tanker was hit last night. Hormuz is still open. The missiles didn't land. In market terms, the war added a risk <em>premium</em>, not a supply <em>shock</em> — and those are different animals. A premium is a tax on uncertainty that bleeds off the moment the headlines calm. A shock is a hole in the barrel count that doesn't. July has served up several premiums — $84 Brent, the occasional 500-point Dow day — and exactly zero sustained shocks, because the one event that would cause one, Hormuz actually closing, hasn't happened. Yet.</p>
+              <p><strong>What to watch — the waterway, not the salvo.</strong> Three things convert last night's premium into a genuine shock, and they matter in this order:</p>
+              <ol style="margin:0 0 20px; padding-left:22px;">
+                <li style="margin-bottom:10px;"><strong>A hull in the water</strong> — an actual tanker hit or mined in or near the strait. That is the moment "risk premium" becomes "supply."</li>
+                <li style="margin-bottom:10px;"><strong>Insurance, not headlines</strong> — Gulf war-risk shipping premiums and the rate of tankers rerouting around the Cape. Those move on physics, not rhetoric.</li>
+                <li><strong>The table</strong> — whether the Oman/Saudi channel survives the attack. If Tehran fired <em>and</em> kept talking, this is leverage. If the channel collapses, the peace trade was simply wrong.</li>
+              </ol>
+              <p>The honest read tonight: the market got surprised, repriced the risk it had just sold, and redrew the same line it has held all month — fear the strait, not the salvo. That line has survived a very violent July. The uncomfortable part of writing it down is that it only has to break once.</p>
+            </div>
+          </article>
+          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Attack</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">29 Jul 2026</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">WTI, post-strike</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">+4.4% · $82.73</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Brent, Tue close</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">−4.8% · $84.09</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Missiles</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:#24463B; letter-spacing:0.04em;">ALL INTERCEPTED</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">Hormuz status</div>
+              <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:70px;">Strait</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:100%; height:100%; background:#24463B;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#24463B; width:48px; text-align:right;">OPEN</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:70px;">Risk premium</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:70%; height:100%; background:#8C3324;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8C3324; width:48px; text-align:right;">BACK</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
   <!-- GEOPOLITICS -->
   <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="background:#14171A; color:#F6F5F1;">
@@ -332,7 +396,13 @@
         <button onClick="{{ openArchive }}" style="background:none; border:none; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:13px; color:#24463B; letter-spacing:0.03em; padding:0;">View all articles →</button>
       </div>
       <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:28px;">
-        <sc-for list="{{ latestCards }}" as="card" hint-placeholder-count="3">
+        <button onClick="{{ openPost }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8C3324; text-transform:uppercase; margin-bottom:12px;">Geopolitics &amp; Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">The Salvo the Market Had Already Sold</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
+        <sc-for list="{{ latestCards }}" as="card" hint-placeholder-count="2">
           <a href="#geopolitics" style="display:block; text-decoration:none; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid {{ card.accent }}; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:{{ card.accent }}; text-transform:uppercase; margin-bottom:12px;">{{ card.tag }}</div>
             <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">{{ card.headline }}</div>
@@ -378,7 +448,7 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
 class Component extends DCLogic {
-  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, newsData: null, newsLoaded: false, newsError: false };
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, newsData: null, newsLoaded: false, newsError: false };
 
   constructor(props) {
     super(props);
@@ -455,6 +525,21 @@ class Component extends DCLogic {
   };
 
   closeArchiveBackdrop = () => this.closeArchive();
+
+  openPost = () => {
+    this.setState({ postOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onPostKeyDown = (e) => { if (e.key === 'Escape') this.closePost(); };
+    window.addEventListener('keydown', this._onPostKeyDown);
+  };
+
+  closePost = () => {
+    this.setState({ postOpen: false });
+    document.body.style.overflow = '';
+    if (this._onPostKeyDown) window.removeEventListener('keydown', this._onPostKeyDown);
+  };
+
+  closePostBackdrop = () => this.closePost();
 
   renderVals() {
     const isMobile = this.state.isMobile;
@@ -538,6 +623,7 @@ class Component extends DCLogic {
         ];
 
     const allArticles = [
+      { tag: 'Geopolitics & Markets', accent: '#8C3324', headline: 'The Salvo the Market Had Already Sold', dek: 'Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.', full: true },
       { tag: 'Markets', accent: '#24463B', headline: 'Backlog-to-revenue hits its highest ratio since 2003', dek: 'Order books are stretching further than delivery capacity.' },
       { tag: 'Geopolitics', accent: '#8C3324', headline: 'Baltic Sea cable incident reroutes three shipping lanes', dek: 'Three subsea links flagged for repair — insurers already pricing the disruption.' },
       { tag: 'Markets', accent: '#24463B', headline: 'A fourth country tightens semiconductor export licensing', dek: 'The equipment makers feel it before the chipmakers do.' },
@@ -548,7 +634,7 @@ class Component extends DCLogic {
       { tag: 'Markets', accent: '#8C3324', headline: 'Rare-earth stockpiling shows up in customs data first', dek: 'Import volumes moved a full quarter ahead of the policy story.' },
       { tag: 'Geopolitics', accent: '#8C3324', headline: 'A Sahel junta reshuffle puts three mining concessions back in play', dek: 'The names that hold those permits are quietly repricing.' },
     ];
-    const latestCards = allArticles.slice(0, 3);
+    const latestCards = allArticles.slice(1, 3);
     const archiveCards = allArticles.slice(3);
 
     const radarTicks = [];
@@ -592,6 +678,10 @@ class Component extends DCLogic {
       openArticle: this.openArticle,
       closeArticle: this.closeArticle,
       closeArticleBackdrop: this.closeArticleBackdrop,
+      postOpen: this.state.postOpen,
+      openPost: this.openPost,
+      closePost: this.closePost,
+      closePostBackdrop: this.closePostBackdrop,
       stopPropagation: this.stopPropagation,
       latestCards,
       archiveCards,
