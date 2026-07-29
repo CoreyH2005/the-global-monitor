@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-29T08:52:31.762Z",
+  "updatedAt": "2026-07-29T09:17:34.049Z",
   "geopolitics": [
+    {
+      "title": "Trump's new spy chief confirmed by US Senate",
+      "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-07-29T09:07:40.000Z"
+    },
+    {
+      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-07-29T09:02:48.000Z"
+    },
+    {
+      "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
+      "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-07-29T09:02:19.000Z"
+    },
     {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -8,28 +26,10 @@
       "publishedAt": "2026-07-29T08:43:46.000Z"
     },
     {
-      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-      "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-07-29T08:43:13.000Z"
-    },
-    {
       "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-07-29T08:33:39.000Z"
-    },
-    {
-      "title": "Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit",
-      "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-07-29T08:29:21.000Z"
-    },
-    {
-      "title": "Jayden Seales takes five wickets as West Indies beat Pakistan in first Test",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T08:16:08.000Z"
     },
     {
       "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
@@ -44,19 +44,13 @@
       "publishedAt": "2026-07-29T08:07:19.000Z"
     },
     {
-      "title": "Why is Uganda experiencing a food crisis?",
-      "link": "https://www.aljazeera.com/news/2026/7/29/why-is-uganda-experiencing-a-food-crisis?traffic_source=rss",
+      "title": "Russian industrial sites on fire after Ukrainian drone attacks",
+      "link": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T08:04:25.000Z"
+      "publishedAt": "2026-07-29T07:57:04.000Z"
     }
   ],
   "markets": [
-    {
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-29T08:45:00.000Z"
-    },
     {
       "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
       "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
@@ -76,18 +70,6 @@
       "publishedAt": "2026-07-29T00:18:00.000Z"
     },
     {
-      "title": "Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology",
-      "link": "https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-29T00:17:00.000Z"
-    },
-    {
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T22:06:00.000Z"
-    },
-    {
       "title": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
       "link": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -98,6 +80,24 @@
       "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-07-28T21:08:00.000Z"
+    },
+    {
+      "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+      "link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-28T18:27:43.000Z"
+    },
+    {
+      "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
+      "link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-28T17:40:03.000Z"
+    },
+    {
+      "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+      "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-28T16:16:25.000Z"
     }
   ]
 }
