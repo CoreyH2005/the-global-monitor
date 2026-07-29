@@ -1,85 +1,73 @@
 {
-  "updatedAt": "2026-07-29T10:14:01.072Z",
+  "updatedAt": "2026-07-29T16:52:14.855Z",
   "geopolitics": [
     {
-      "title": "How has the Indian government responded to ‘Cockroach’ protests?",
-      "link": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T09:52:16.000Z"
-    },
-    {
-      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-      "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T09:51:52.000Z"
-    },
-    {
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-07-29T09:51:49.000Z"
-    },
-    {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-07-29T09:39:56.000Z"
-    },
-    {
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-07-29T09:07:40.000Z"
-    },
-    {
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-07-29T09:02:48.000Z"
-    },
-    {
-      "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
-      "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+      "title": "Oil prices jump 7% after Trump says U.S. will hit Iran hard",
+      "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-07-29T09:02:19.000Z"
+      "publishedAt": "2026-07-29T16:51:44.000Z"
     },
     {
-      "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
+      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-07-29T16:49:06.000Z"
+    },
+    {
+      "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T08:33:39.000Z"
+      "publishedAt": "2026-07-29T15:43:05.000Z"
+    },
+    {
+      "title": "Warren probes Pentagon program to hire highly paid private sector workers",
+      "link": "https://www.cnbc.com/2026/07/29/warren-probes-pentagon-program-to-hire-highly-paid-private-sector-workers.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-07-29T15:19:00.000Z"
+    },
+    {
+      "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
+      "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-07-29T14:49:45.000Z"
+    },
+    {
+      "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-29T14:33:24.000Z"
+    },
+    {
+      "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-29T14:27:45.000Z"
+    },
+    {
+      "title": "Trump says U.S. will give Iran a 'beating' after surprise attack",
+      "link": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-07-29T14:18:42.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
+      "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
+      "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-29T01:28:00.000Z"
+      "publishedAt": "2026-07-29T16:36:00.000Z"
     },
     {
-      "title": "Seagate’s earnings are welcome news for the battered AI trade",
-      "link": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
+      "title": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
+      "link": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-29T00:21:00.000Z"
+      "publishedAt": "2026-07-29T16:03:00.000Z"
     },
     {
-      "title": "Ford matches GM in one crucial way, and the stock jumps",
-      "link": "https://www.marketwatch.com/story/ford-matches-gm-in-one-crucial-way-and-the-stock-jumps-bf2f708c?mod=mw_rss_topstories",
+      "title": "Las Vegas home prices post largest drop in the nation",
+      "link": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-29T00:18:00.000Z"
-    },
-    {
-      "title": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
-      "link": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T21:56:00.000Z"
-    },
-    {
-      "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
-      "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-28T21:08:00.000Z"
+      "publishedAt": "2026-07-29T15:45:00.000Z"
     },
     {
       "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-07-28T16:16:25.000Z"
+    },
+    {
+      "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+      "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-27T18:06:35.000Z"
+    },
+    {
+      "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+      "link": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-07-27T14:22:15.000Z"
     }
   ]
 }
