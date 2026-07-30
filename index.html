@@ -366,6 +366,123 @@
     </div>
   </sc-if>
 
+  <sc-if value="{{ metalsOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeMetalsBackdrop }}">
+      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeMetals }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:14px;">Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Gold, Silver and Metal Market Volatility</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 30 Jul 2026 · 5 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>Precious metals are supposed to be the boring end of the portfolio — the ballast you hold precisely because it doesn't do very much. The first half of 2026 has been the opposite. Gold set an all-time high near $5,589 an ounce in late January, then spent five months giving most of it back, trading around $4,000–4,050 by late June. Silver's version of the same story was far more violent: a record $121.67 an ounce, then a collapse to roughly $58. That is not ballast. That is a market arguing with itself.</p>
+              <p><strong>Why they went up.</strong> Two forces did most of the work. The first is the obvious one — war. Renewed fighting between the United States and Iran, and the recurring threat to shipping through the Strait of Hormuz, sent buyers looking for assets that don't depend on anyone's supply chain. On 17 July, as the conflict flared again, gold rose 1.04% to $4,028.52 and silver 1.03% to $56.63 in the same session. That is the safe-haven bid in its purest form: not a view about mining output, just a preference for something that cannot be sanctioned or blockaded.</p>
+              <p>The second force is quieter but more durable — interest rates. The Federal Funds target upper bound now sits at 3.75%, down from 4.5% in September 2025 after three consecutive cuts totalling 75 basis points. Gold pays no coupon, so its great weakness is opportunity cost: when cash yields 5%, holding metal is expensive. Each cut makes that trade cheaper. Lower rates don't create demand for bullion so much as remove the reason not to own it.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"Gold rose because the world looked dangerous. It fell because the world looked slightly less dangerous. Silver did both, twice as hard."</blockquote>
+              <p><strong>Why silver moves more.</strong> The gap between a 22% and a 65% twelve-month return — roughly what the main gold and silver ETFs delivered in the year to early July — is not a sign that silver is a better hedge. It is a sign that silver is a smaller, thinner, more industrial market. Silver is consumed in solar panels, electronics and wiring, so it carries an industrial-demand story that gold does not. It also trades in a far smaller pool of liquidity, which means the same flow of money moves the price further. Investors reaching for silver as "cheap gold" are really buying leverage — in both directions, as the fall from $121 to $58 demonstrated.</p>
+              <p><strong>What the round trip actually tells us.</strong> The instinct is to read the January highs as the "real" price and everything since as a correction. The more useful reading is that both moves were the same market repricing one variable: how much geopolitical and monetary uncertainty deserves to be in the price. January had a war premium, an inflation premium and a rate-cut premium stacked on top of each other. By June, the shooting had paused, inflation had cooled, and the cuts had largely arrived — so the stack came down. July's flare-ups have been putting pieces of it back, a percent at a time.</p>
+              <p><strong>What to watch.</strong> Three things decide whether metals grind higher from here or keep chopping. First, the Fed: further cuts lower the bar for holding bullion, while any hint of a hike raises it sharply. Second, Hormuz — an actual closure, rather than a threat, would put the war premium straight back. Third, industrial demand, which matters for silver and copper but not for gold; a slowing manufacturing cycle can pull silver down even while gold holds firm. The honest position is that metals are no longer a one-way trade on fear. They are a leveraged bet on how long the fear lasts.</p>
+            </div>
+          </article>
+          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Gold, record (Jan)</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">$5,589/oz</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Silver, record</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">$121.67/oz</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Fed upper bound</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">3.75%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Driver</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:#24463B; letter-spacing:0.04em;">WAR + RATE CUTS</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">12-month return to July</div>
+              <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px;">Gold</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:34%; height:100%; background:#8A8D91;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px; text-align:right;">+22.3%</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px;">Silver</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:100%; height:100%; background:#8C3324;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8C3324; width:52px; text-align:right;">+65.5%</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ chipsOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeChipsBackdrop }}">
+      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeChips }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:14px;">Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">A Trillion Dollars Off the AI Trade</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 30 Jul 2026 · 5 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>Chip stocks have shed more than a trillion dollars of market value this month. Nvidia alone accounted for a $238 billion rout from one Friday close; SK Hynix lost $176 billion, Samsung Electronics $173 billion, Micron $113 billion. Micron fell as much as 13% in a single session. Intel dropped 21% over seven trading days. In Seoul, the KOSPI fell almost 10% intraday and tripped circuit breakers as Samsung and SK Hynix each slid 9–12%.</p>
+              <p>The number that makes this interesting is not the loss. It is the context: the Philadelphia Semiconductor Index had rallied roughly 130% over the preceding twelve months. A trillion dollars coming out of a sector that had just doubled is not a collapse in the business. It is a repricing of the story that had been told about the business.</p>
+              <p><strong>The tell is Samsung.</strong> Samsung reported preliminary second-quarter operating profit of 89.4 trillion won — up more than 1,800% year on year. Its stock fell nearly 7% anyway. When a company posts numbers like that and the market sells it, the market is no longer trading earnings. It is trading the multiple it is willing to pay for those earnings — and that is a much less stable thing.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"Profit up eighteen-fold, stock down seven percent. The market has stopped asking whether AI is real and started asking what it is worth."</blockquote>
+              <p><strong>The catalyst nobody wanted to read.</strong> SK Hynix said it would delay its HBM4 high-bandwidth memory expansion in favour of higher-margin DDR5 production. On its own that is a routine margin decision. To a market priced for exponential AI demand, it read as something else: the supplier closest to the demand signal quietly reallocating capacity away from the AI-specific product. Investors took it as evidence that AI-driven memory growth is moderating — and that the infrastructure spending cycle may be peaking faster than the forecasts assumed.</p>
+              <p><strong>Why memory is the pressure point.</strong> Memory is the most cyclical corner of semiconductors. It is close to a commodity, its capacity decisions are lumpy and slow, and its pricing swings violently on small changes in the supply-demand balance. That makes memory makers the best available proxy for the real rate of AI buildout — and the first place doubt shows up in a price. The rest of the chain feels it after; memory feels it first.</p>
+              <p><strong>What this is and isn't.</strong> Nothing here says AI demand has broken. Order books are still historically strong and the profits are real, as Samsung's quarter shows. What has changed is the willingness to pay any multiple for exposure to it. That is a sentiment event, not an earnings event — but sentiment events set the price for months.</p>
+              <p><strong>What to watch.</strong> Three things separate a correction from a cycle turn. First, capital-expenditure guidance from the large cloud buyers: if hyperscaler spending plans hold, this was a valuation reset. Second, memory contract prices — the honest, unglamorous number that reveals whether demand is actually softening. Third, whether more suppliers follow SK Hynix in shifting capacity away from AI-specific parts. One company rebalancing is a margin call. Three doing it is a trend.</p>
+            </div>
+          </article>
+          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Sector value lost</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">&gt;$1 trillion</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Nvidia, single rout</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">−$238B</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Samsung Q2 op. profit</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">₩89.4tn · +1,800%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Read</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:#8C3324; letter-spacing:0.04em;">MULTIPLE, NOT EARNINGS</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">Drawdowns this month</div>
+              <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px;">Micron</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:62%; height:100%; background:#8C3324;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8C3324; width:44px; text-align:right;">−13%</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:52px;">Intel</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:100%; height:100%; background:#8C3324;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8C3324; width:44px; text-align:right;">−21%</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
   <!-- GEOPOLITICS -->
   <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="background:#14171A; color:#F6F5F1;">
@@ -461,6 +578,18 @@
           <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</p>
           <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
         </button>
+        <button onClick="{{ openMetals }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #24463B; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#24463B; text-transform:uppercase; margin-bottom:12px;">Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Gold, Silver and Metal Market Volatility</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Gold hit $5,589 in January and gave most of it back by June; silver round-tripped from $121 to $58. Why war and rate cuts moved metals — and why silver moves twice as hard.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
+        <button onClick="{{ openChips }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8C3324; text-transform:uppercase; margin-bottom:12px;">Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">A Trillion Dollars Off the AI Trade</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Chip stocks shed over $1tn this month — yet Samsung's profit rose more than 1,800% and the stock still fell 7%. The market has stopped trading earnings and started trading the multiple.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
         <button onClick="{{ openTariffs }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #24463B; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
           <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#24463B; text-transform:uppercase; margin-bottom:12px;">Policy &amp; Markets</div>
           <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Trump, America, and Tariffs</div>
@@ -506,7 +635,7 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
 class Component extends DCLogic {
-  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, tariffsOpen: false, newsData: null, newsLoaded: false, newsError: false };
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, newsData: null, newsLoaded: false, newsError: false };
 
   constructor(props) {
     super(props);
@@ -535,6 +664,8 @@ class Component extends DCLogic {
     if (_read === 'iran') this.openArticle();
     else if (_read === 'salvo') this.openPost();
     else if (_read === 'tariffs') this.openTariffs();
+    else if (_read === 'metals') this.openMetals();
+    else if (_read === 'chips') this.openChips();
 
     // Real headlines, written by scripts/fetch-news.mjs and refreshed every
     // 6 hours by .github/workflows/update-news.yml — see NEWS-SETUP.md.
@@ -620,6 +751,36 @@ class Component extends DCLogic {
   };
 
   closeTariffsBackdrop = () => this.closeTariffs();
+
+  openMetals = () => {
+    this.setState({ metalsOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onMetalsKeyDown = (e) => { if (e.key === 'Escape') this.closeMetals(); };
+    window.addEventListener('keydown', this._onMetalsKeyDown);
+  };
+
+  closeMetals = () => {
+    this.setState({ metalsOpen: false });
+    document.body.style.overflow = '';
+    if (this._onMetalsKeyDown) window.removeEventListener('keydown', this._onMetalsKeyDown);
+  };
+
+  closeMetalsBackdrop = () => this.closeMetals();
+
+  openChips = () => {
+    this.setState({ chipsOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onChipsKeyDown = (e) => { if (e.key === 'Escape') this.closeChips(); };
+    window.addEventListener('keydown', this._onChipsKeyDown);
+  };
+
+  closeChips = () => {
+    this.setState({ chipsOpen: false });
+    document.body.style.overflow = '';
+    if (this._onChipsKeyDown) window.removeEventListener('keydown', this._onChipsKeyDown);
+  };
+
+  closeChipsBackdrop = () => this.closeChips();
 
   renderVals() {
     const isMobile = this.state.isMobile;
@@ -757,6 +918,14 @@ class Component extends DCLogic {
       openTariffs: this.openTariffs,
       closeTariffs: this.closeTariffs,
       closeTariffsBackdrop: this.closeTariffsBackdrop,
+      metalsOpen: this.state.metalsOpen,
+      openMetals: this.openMetals,
+      closeMetals: this.closeMetals,
+      closeMetalsBackdrop: this.closeMetalsBackdrop,
+      chipsOpen: this.state.chipsOpen,
+      openChips: this.openChips,
+      closeChips: this.closeChips,
+      closeChipsBackdrop: this.closeChipsBackdrop,
       stopPropagation: this.stopPropagation,
       latestCards,
       archiveCards,
