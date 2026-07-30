@@ -483,6 +483,66 @@
     </div>
   </sc-if>
 
+  <sc-if value="{{ memoryOpen }}" hint-placeholder-val="{{ false }}">
+    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeMemoryBackdrop }}">
+      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeMemory }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Record Profits, Record Selloff: What's Actually Happening to Memory Stocks</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 30 Jul 2026 · 6 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>Memory chipmakers have just posted some of the best results in their corporate histories, and the market has taken them apart anyway. SK Hynix delivered record quarterly profit and revenue — then fell more than 15% intraday, closing out a 41.5% decline for July, its worst month since October 2008. Samsung's estimated numbers were enormous, roughly $59 billion in operating profit, and the stock dropped over 13%. Micron reported third-quarter revenue up 345.7% year on year with guidance comfortably above consensus, and still sits about a third below its highs. SanDisk is off more than 50%.</p>
+              <p>That combination — record fundamentals, historic drawdown — is the whole story. This is not one company stumbling. It is the entire memory complex being re-rated simultaneously, part of more than $1.5 trillion in combined chip-sector value erased since late June. When results that good produce losses that large, the argument is no longer about this quarter's earnings. It is about what the next several years are worth.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"Record profit and the worst month since 2008, in the same company, in the same week. Both numbers are real."</blockquote>
+              <p><strong>The bear case: the peak is in.</strong> The central bearish claim is that AI infrastructure spending is, in the words of one Forrester analyst, "peaking faster than expected." If that is right, memory is exactly where it shows up first — capacity decisions are lumpy, pricing is near-commodity, and the cycle turns before the headlines do. Supply is the second worry: China's CXMT had a blockbuster Shanghai debut, raising the spectre of new DRAM capacity undercutting pricing. There is also persistent unease about "circular financing" in AI deals, where the same capital appears on both sides of a demand commitment — the kind of structure that makes reported demand look sturdier than it is.</p>
+              <p>The supply fear deserves a number, though. CXMT holds roughly 7.67% of global DRAM share. Samsung, SK Hynix and Micron together hold about 90%. A successful listing is a signal of intent and future competition; it is not, on those figures, an immediate threat to the pricing structure of the industry.</p>
+              <p><strong>The bull case: this is a rebalance, not a break.</strong> The cleanest contrarian argument is that the market is pricing the wrong failure mode. On this reading, the earnings shortfall that triggered the worst single session was a matter of contract pass-through timing — how quickly SK Hynix recognises higher DRAM prices under long-term agreements — rather than evidence of weakening end demand. Those are very different problems: one is an accounting cadence, the other is a broken market.</p>
+              <p>Valuations point the same way. Micron trades at a forward price-to-earnings ratio of about 6x, with published price targets far above the current level. It is difficult to reconcile a 6x multiple on a business growing revenue in triple digits with a thesis that demand has genuinely failed. Either the estimates are about to fall a long way, or the multiple is wrong.</p>
+              <p><strong>What to watch, in order.</strong> Three data points will settle this faster than any argument. First, capacity utilisation from the majors — the most direct read on whether they believe their own order books. Second, hyperscaler capital-expenditure guidance from Microsoft, Google and Amazon; if their spending plans hold, the "capex is peaking" thesis loses its foundation. Third, Nvidia's next commentary on high-bandwidth memory demand, which will either confirm the noise interpretation or end it.</p>
+              <p><strong>Where that leaves us.</strong> Honestly: unresolved. This desk's position is that a sector can be fundamentally sound and in a real, painful repricing at the same time, and that both of those things appear to be true right now. The bear case is not stupid — capex cycles do peak, and memory always feels it first. The bull case is not wishful — 6x forward earnings on triple-digit revenue growth is a strange price for a broken industry. What we do not know is which variable is mismeasured: the demand or the multiple. Anyone claiming certainty on that today is reading the same numbers we are.</p>
+            </div>
+          </article>
+          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">SK Hynix, July</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">−41.5%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Micron rev., YoY</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#24463B;">+345.7%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Micron fwd. P/E</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">~6x</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Verdict</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:#8C3324; letter-spacing:0.04em;">GENUINELY UNRESOLVED</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">Global DRAM share</div>
+              <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:74px;">Big three</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:90%; height:100%; background:#24463B;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#24463B; width:40px; text-align:right;">~90%</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#52565C; width:74px;">CXMT</span>
+                <div style="flex:1; height:8px; background:#DAD7CE;"><div style="width:8%; height:100%; background:#8C3324;"></div></div>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8C3324; width:40px; text-align:right;">7.7%</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
   <!-- GEOPOLITICS -->
   <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="background:#14171A; color:#F6F5F1;">
@@ -578,6 +638,12 @@
           <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</p>
           <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
         </button>
+        <button onClick="{{ openMemory }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8C3324; text-transform:uppercase; margin-bottom:12px;">Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Record Profits, Record Selloff: What's Actually Happening to Memory Stocks</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">SK Hynix posted record profit and had its worst month since 2008. Micron grew revenue 345.7% and trades at 6x forward earnings. The bull and bear cases, and why this one is genuinely unresolved.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
         <button onClick="{{ openMetals }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #24463B; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
           <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#24463B; text-transform:uppercase; margin-bottom:12px;">Markets</div>
           <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Gold, Silver and Metal Market Volatility</div>
@@ -635,7 +701,7 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
 class Component extends DCLogic {
-  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, newsData: null, newsLoaded: false, newsError: false };
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, memoryOpen: false, newsData: null, newsLoaded: false, newsError: false };
 
   constructor(props) {
     super(props);
@@ -666,6 +732,7 @@ class Component extends DCLogic {
     else if (_read === 'tariffs') this.openTariffs();
     else if (_read === 'metals') this.openMetals();
     else if (_read === 'chips') this.openChips();
+    else if (_read === 'memory') this.openMemory();
 
     // Real headlines, written by scripts/fetch-news.mjs and refreshed every
     // 6 hours by .github/workflows/update-news.yml — see NEWS-SETUP.md.
@@ -781,6 +848,21 @@ class Component extends DCLogic {
   };
 
   closeChipsBackdrop = () => this.closeChips();
+
+  openMemory = () => {
+    this.setState({ memoryOpen: true });
+    document.body.style.overflow = 'hidden';
+    this._onMemoryKeyDown = (e) => { if (e.key === 'Escape') this.closeMemory(); };
+    window.addEventListener('keydown', this._onMemoryKeyDown);
+  };
+
+  closeMemory = () => {
+    this.setState({ memoryOpen: false });
+    document.body.style.overflow = '';
+    if (this._onMemoryKeyDown) window.removeEventListener('keydown', this._onMemoryKeyDown);
+  };
+
+  closeMemoryBackdrop = () => this.closeMemory();
 
   renderVals() {
     const isMobile = this.state.isMobile;
@@ -926,6 +1008,10 @@ class Component extends DCLogic {
       openChips: this.openChips,
       closeChips: this.closeChips,
       closeChipsBackdrop: this.closeChipsBackdrop,
+      memoryOpen: this.state.memoryOpen,
+      openMemory: this.openMemory,
+      closeMemory: this.closeMemory,
+      closeMemoryBackdrop: this.closeMemoryBackdrop,
       stopPropagation: this.stopPropagation,
       latestCards,
       archiveCards,
