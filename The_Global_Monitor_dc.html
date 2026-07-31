@@ -11,6 +11,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..900&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" data-bg-color="#14171A"><rect width="200" height="200" fill="#14171A"/><circle cx="100" cy="100" r="55" fill="none" stroke="#24463B" stroke-width="3"/><circle cx="100" cy="100" r="33" fill="none" stroke="#24463B" stroke-width="2"/><circle cx="100" cy="100" r="8" fill="#8C3324"/></svg></template>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26'%3E%3Crect width='26' height='26' fill='%23F6F5F1'/%3E%3Ccircle cx='13' cy='13' r='11.5' fill='none' stroke='%2324463B' stroke-width='1.6'/%3E%3Ccircle cx='13' cy='13' r='7' fill='none' stroke='%2324463B' stroke-width='1.1'/%3E%3Ccircle cx='13' cy='13' r='2.2' fill='%2324463B'/%3E%3C/svg%3E">
+  <title>The Global Monitor — Global Politics and Markets</title>
+  <link rel="alternate" type="application/rss+xml" title="The Global Monitor" href="feed.xml">
+  <link rel="canonical" href="https://coreyh2005.github.io/the-global-monitor/">
+  <meta name="description" content="Analysis of major global political developments and what they mean for equities, commodities and currencies. Evidence-based, neutral where the facts allow.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="The Global Monitor">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:title" content="The Global Monitor — Reading the Signal">
   <meta property="og:description" content="Global politics and markets, read as one instrument. Signal over noise.">
   <meta property="og:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='630'%3E%3Crect width='1200' height='630' fill='%2314171A'/%3E%3Ccircle cx='600' cy='315' r='260' fill='none' stroke='%2324463B' stroke-width='2'/%3E%3Ccircle cx='600' cy='315' r='170' fill='none' stroke='%2324463B' stroke-width='1.4'/%3E%3Ccircle cx='600' cy='315' r='80' fill='none' stroke='%2324463B' stroke-width='1'/%3E%3Ccircle cx='600' cy='315' r='10' fill='%238C3324'/%3E%3C/svg%3E">
@@ -26,6 +33,19 @@
     @media (prefers-reduced-motion: reduce) {
       [data-reveal] { opacity: 1 !important; transform: none !important; transition: none !important; }
       [data-ticker-track], [data-sweep] { animation: none !important; }
+    }
+    /* Mobile: article modals and the hard-coded two-column sections must
+       collapse to a single column, or the text column is crushed and the
+       sidebar is clipped off-screen. Inline styles need !important here. */
+    @media (max-width: 820px) {
+      .tgm-modal-scroll { padding: 16px 12px !important; }
+      .tgm-modal { padding: 28px 20px !important; }
+      .tgm-modal-grid { grid-template-columns: 1fr !important; gap: 28px !important; }
+      .tgm-modal-aside { position: static !important; }
+      .tgm-modal h2 { font-size: 26px !important; }
+      .tgm-modal-close { top: 10px !important; right: 10px !important; }
+      .tgm-2col { grid-template-columns: 1fr !important; gap: 28px !important; }
+      .tgm-2col svg { max-width: 100%; height: auto; }
     }
   </style>
 </helmet>
@@ -81,7 +101,7 @@
       <line x1="20" y1="280" x2="540" y2="280" stroke="#14171A" stroke-width="1"></line>
       <line x1="280" y1="20" x2="280" y2="540" stroke="#14171A" stroke-width="1"></line>
     </svg>
-    <div style="display:grid; grid-template-columns:1fr 320px; gap:56px; align-items:start; position:relative;">
+    <div class="tgm-2col" style="display:grid; grid-template-columns:1fr 320px; gap:56px; align-items:start; position:relative;">
       <div style="{{ heroEntryStyle }}">
         <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#8C3324; margin-bottom:18px; text-transform:uppercase;">Lead Signal · Global Politics &amp; Markets</div>
         <h1 style="font-family:'Fraunces',serif; font-weight:600; font-size:62px; line-height:1.02; letter-spacing:-0.015em; margin:0 0 22px; text-wrap:pretty;">America, Iran, and the Middle East in Chaos</h1>
@@ -131,7 +151,7 @@
           <p style="font-size:16px; line-height:1.75; color:#14171A; margin:0;">Most political news now arrives through social feeds tuned for engagement, or AI summaries that move fast but lean on unverified data and miss historical and strategic context. This desk aims for the opposite: structured, evidence-based analysis, kept as neutral as the facts allow.</p>
         </div>
         <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Who it's for</div>
-        <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:32px;">
+        <div class="tgm-2col" style="display:grid; grid-template-columns:repeat(2,1fr); gap:32px;">
           <div style="border-top:2px solid #24463B; padding-top:18px;">
             <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; margin-bottom:8px;">Students</div>
             <p style="font-size:15px; line-height:1.55; color:#52565C; margin:0;">Students of geopolitics, international relations, and economics who want depth over headlines.</p>
@@ -145,31 +165,11 @@
     </div>
   </section>
 
-  <sc-if value="{{ archiveOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeArchiveBackdrop }}">
-      <div style="background:#F6F5F1; max-width:920px; width:100%; height:fit-content; padding:48px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeArchive }}" aria-label="Close archive" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:12px;">All Articles</div>
-        <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:28px; margin:0 0 32px;">The full archive</h2>
-        <div style="display:flex; flex-direction:column;">
-          <sc-for list="{{ archiveCards }}" as="card" hint-placeholder-count="6">
-            <a href="#geopolitics" style="display:flex; justify-content:space-between; align-items:baseline; gap:24px; text-decoration:none; color:#14171A; padding:18px 0; border-bottom:1px solid #DAD7CE;">
-              <div>
-                <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:{{ card.accent }}; text-transform:uppercase; margin-bottom:6px;">{{ card.tag }}</div>
-                <div style="font-family:'Fraunces',serif; font-size:18px; font-weight:600;">{{ card.headline }}</div>
-              </div>
-              <span style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:#8A8D91; white-space:nowrap;">Read →</span>
-            </a>
-          </sc-for>
-        </div>
-      </div>
-    </div>
-  </sc-if>
 
   <!-- FEATURED ARTICLE TEASER -->
   <section data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="max-width:1200px; margin:0 auto; padding:72px 32px;">
-      <button onClick="{{ openArticle }}" style="display:grid; grid-template-columns:1fr 240px; gap:40px; align-items:center; width:100%; text-align:left; background:#EFEDE6; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:36px; cursor:pointer; font-family:inherit; color:inherit; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 12px 28px rgba(20,23,26,0.08);">
+      <button onClick="{{ openArticle }}" class="tgm-2col" style="display:grid; grid-template-columns:1fr 240px; gap:40px; align-items:center; width:100%; text-align:left; background:#EFEDE6; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:36px; cursor:pointer; font-family:inherit; color:inherit; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 12px 28px rgba(20,23,26,0.08);">
         <div>
           <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Featured</div>
           <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:32px; line-height:1.14; margin:0 0 16px; text-wrap:pretty;">America, Iran, and the Middle East in Chaos</h2>
@@ -188,10 +188,10 @@
   </section>
 
   <sc-if value="{{ articleOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeArticleBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeArticle }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeArticleBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeArticle }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Featured</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 24px; text-wrap:pretty;">America, Iran, and the Middle East in Chaos</h2>
@@ -205,7 +205,7 @@
               <p>A ceasefire, and later a memorandum of understanding signed in June, sought to reopen the strait and wind the conflict down — but Iran's attempts to reassert control over shipping triggered renewed U.S. strikes as recently as early July, a reminder that a ceasefire and a resolution are not the same thing here. The long-term picture — how energy markets and regional alliances are reshaped, and what becomes of the Iranian regime itself — remains genuinely unresolved.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -245,10 +245,10 @@
   </sc-if>
 
   <sc-if value="{{ postOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closePostBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closePost }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closePostBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closePost }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Global Politics &amp; Markets</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Iran's Surprise Strike and the Oil Spike</h2>
@@ -269,7 +269,7 @@
               <p>The honest read tonight: the market got surprised, repriced the risk it had just sold, and redrew the same line it has held all month — fear the strait, not the salvo. That line has survived a very violent July. The uncomfortable part of writing it down is that it only has to break once.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -309,10 +309,10 @@
   </sc-if>
 
   <sc-if value="{{ tariffsOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeTariffsBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeTariffs }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeTariffsBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeTariffs }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:14px;">Policy &amp; Markets</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Trump, America, and Tariffs</h2>
@@ -327,7 +327,7 @@
               <p>The policy marks a real shift toward protectionism. It has raised revenue and was framed around shrinking the trade deficit — but it has also lifted consumer prices, added uncertainty for business, and now faces a live legal challenge to its own basis. The long-term picture depends on how trading partners respond, how the courts settle the refund question, and whether future administrations keep going.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -367,10 +367,10 @@
   </sc-if>
 
   <sc-if value="{{ metalsOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeMetalsBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeMetals }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeMetalsBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeMetals }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:14px;">Markets</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Gold, Silver and Metal Market Volatility</h2>
@@ -385,7 +385,7 @@
               <p><strong>What to watch.</strong> Three things decide whether metals grind higher from here or keep chopping. First, the Fed: further cuts lower the bar for holding bullion, while any hint of a hike raises it sharply. Second, Hormuz — an actual closure, rather than a threat, would put the war premium straight back. Third, industrial demand, which matters for silver and copper but not for gold; a slowing manufacturing cycle can pull silver down even while gold holds firm. The honest position is that metals are no longer a one-way trade on fear. They are a leveraged bet on how long the fear lasts.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -425,10 +425,10 @@
   </sc-if>
 
   <sc-if value="{{ chipsOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeChipsBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeChips }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeChipsBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeChips }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:14px;">Markets</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">A Trillion Dollars Off the AI Trade</h2>
@@ -444,7 +444,7 @@
               <p><strong>What to watch.</strong> Three things separate a correction from a cycle turn. First, capital-expenditure guidance from the large cloud buyers: if hyperscaler spending plans hold, this was a valuation reset. Second, memory contract prices — the honest, unglamorous number that reveals whether demand is actually softening. Third, whether more suppliers follow SK Hynix in shifting capacity away from AI-specific parts. One company rebalancing is a margin call. Three doing it is a trend.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -484,10 +484,10 @@
   </sc-if>
 
   <sc-if value="{{ memoryOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeMemoryBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeMemory }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeMemoryBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeMemory }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Markets</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Record Profits, Record Selloff: What's Actually Happening to Memory Stocks</h2>
@@ -504,7 +504,7 @@
               <p><strong>Where that leaves us.</strong> Honestly: unresolved. This desk's position is that a sector can be fundamentally sound and in a real, painful repricing at the same time, and that both of those things appear to be true right now. The bear case is not stupid — capex cycles do peak, and memory always feels it first. The bull case is not wishful — 6x forward earnings on triple-digit revenue growth is a strange price for a broken industry. What we do not know is which variable is mismeasured: the demand or the multiple. Anyone claiming certainty on that today is reading the same numbers we are.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -544,10 +544,10 @@
   </sc-if>
 
   <sc-if value="{{ hormuzOpen }}" hint-placeholder-val="{{ false }}">
-    <div style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeHormuzBackdrop }}">
-      <div style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
-        <button onClick="{{ closeHormuz }}" aria-label="Close article" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
-        <div style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeHormuzBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeHormuz }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
           <article>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Chokepoints · No. 01</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">The Hormuz Premium: What a Fifth of the World's Oil Is Actually Worth</h2>
@@ -568,7 +568,7 @@
               <p><strong>The framework.</strong> Hormuz is not a switch, it is a dial, and for most of 2026 the dial has sat at "expensive but passable." Threats reprice risk; only physical interruption reprices supply. When 35 million barrels' worth of stranded tankers cleared the Gulf after June's deal, the market learned how fast a degraded strait can normalise — and how little the rhetoric had mattered. The honest conclusion is uncomfortable for both camps: the doom case has been wrong all year, and it only has to be right once. That asymmetry is the Hormuz premium, and it is the reason a fifth of the world's oil trades with a permanent surcharge that never quite goes to zero.</p>
             </div>
           </article>
-          <aside style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
             <div style="display:flex; flex-direction:column; gap:14px;">
               <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
@@ -615,11 +615,11 @@
   <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="background:#14171A; color:#F6F5F1;">
       <div style="max-width:1200px; margin:0 auto; padding:72px 32px;">
-        <div style="display:grid; grid-template-columns:1fr 1fr; gap:56px; align-items:center;">
+        <div class="tgm-2col" style="display:grid; grid-template-columns:1fr 1fr; gap:56px; align-items:center;">
           <div>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:16px;">Section 04</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:38px; line-height:1.1; margin:0 0 20px;">Global Politics</h2>
-            <p style="font-size:16px; line-height:1.65; color:#C3BFB2; max-width:440px;">Five theatres currently returning the strongest signal. Each marker tracks a live thread — force posture, shipping, or contract flow — worth following before it becomes consensus.</p>
+            <p style="font-size:16px; line-height:1.65; color:#C3BFB2; max-width:440px;">The five theatres this desk tracks most closely — where a political decision is most likely to show up in prices. Headlines below are pulled live from BBC, Al Jazeera and CNBC and refresh through the day.</p>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.04em; color:#8A8D91; margin-top:16px;">{{ geoUpdatedLabel }}</div>
           </div>
           <div style="position:relative; aspect-ratio:1/1; max-width:420px; justify-self:center; width:100%;">
@@ -745,7 +745,7 @@
     <div style="background:#EFEDE6; border-top:1px solid #DAD7CE;">
       <div style="max-width:1200px; margin:0 auto; padding:72px 32px;">
         <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#24463B; text-transform:uppercase; margin-bottom:16px;">Section 06</div>
-        <div style="display:grid; grid-template-columns:120px 1fr; gap:40px; align-items:start;">
+        <div class="tgm-2col" style="display:grid; grid-template-columns:120px 1fr; gap:40px; align-items:start;">
           <svg width="100" height="100" viewBox="0 0 100 100">
             <circle cx="50" cy="50" r="48" fill="#14171A"></circle>
             <circle cx="50" cy="50" r="34" fill="none" stroke="#52565C" stroke-width="1"></circle>
@@ -756,7 +756,7 @@
             <p style="font-size:16px; line-height:1.7; color:#14171A; max-width:640px; margin:0 0 16px;">The Global Monitor is written by a final-year History student who trades NQ futures and builds equity-research tools on the side — including Overwatch, a tracker for defense and AI-adjacent stocks. That background is why this desk reads geopolitics and markets as one instrument rather than two beats.</p>
             <p style="font-size:16px; line-height:1.7; color:#14171A; max-width:640px; margin:0 0 28px;">Tips, corrections, and arguments are welcome.</p>
             <div style="display:flex; gap:28px; font-family:'IBM Plex Mono',monospace; font-size:13px;">
-              <a href="mailto:desk@theglobalmonitor.example" style="color:#24463B; text-decoration:none; border-bottom:1px solid #24463B;">desk@theglobalmonitor.example</a>
+              <a href="https://github.com/CoreyH2005/the-global-monitor/issues/new" target="_blank" rel="noopener" style="color:#24463B; text-decoration:none; border-bottom:1px solid #24463B;">Send a tip or correction →</a>
             </div>
           </div>
         </div>
@@ -769,13 +769,16 @@
       <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91;">© {{ year }} The Global Monitor</span>
       <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.04em;">Signal, not noise.</span>
     </div>
+    <div style="max-width:1200px; margin:0 auto; padding:0 32px 28px;">
+      <p style="font-size:12.5px; line-height:1.6; color:#8A8D91; margin:0; max-width:760px;">Everything published here is analysis and commentary for general information only. It is not investment advice, and it is not a recommendation to buy or sell any security. Figures are sourced from public reporting and may be revised or superseded; verify anything you intend to act on. Do your own research.</p>
+    </div>
   </footer>
 </div>
 
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
 class Component extends DCLogic {
-  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, archiveOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, memoryOpen: false, hormuzOpen: false, newsData: null, newsLoaded: false, newsError: false };
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, memoryOpen: false, hormuzOpen: false, newsData: null, newsLoaded: false, newsError: false };
 
   constructor(props) {
     super(props);
@@ -833,15 +836,22 @@ class Component extends DCLogic {
 
   toggleMobile = () => this.setState((s) => ({ mobileOpen: !s.mobileOpen }));
 
+  _setRead = (slug) => {
+    try {
+      const url = slug ? (window.location.pathname + '?read=' + slug) : window.location.pathname;
+      window.history.replaceState({}, '', url);
+    } catch (e) { /* non-fatal */ }
+  };
+
   openArticle = () => {
-    this.setState({ articleOpen: true });
+    this.setState({ articleOpen: true }); this._setRead('iran');
     document.body.style.overflow = 'hidden';
     this._onKeyDown = (e) => { if (e.key === 'Escape') this.closeArticle(); };
     window.addEventListener('keydown', this._onKeyDown);
   };
 
   closeArticle = () => {
-    this.setState({ articleOpen: false });
+    this.setState({ articleOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onKeyDown) window.removeEventListener('keydown', this._onKeyDown);
   };
@@ -849,30 +859,15 @@ class Component extends DCLogic {
   closeArticleBackdrop = () => this.closeArticle();
   stopPropagation = (e) => e.stopPropagation();
 
-  openArchive = () => {
-    this.setState({ archiveOpen: true });
-    document.body.style.overflow = 'hidden';
-    this._onArchiveKeyDown = (e) => { if (e.key === 'Escape') this.closeArchive(); };
-    window.addEventListener('keydown', this._onArchiveKeyDown);
-  };
-
-  closeArchive = () => {
-    this.setState({ archiveOpen: false });
-    document.body.style.overflow = '';
-    if (this._onArchiveKeyDown) window.removeEventListener('keydown', this._onArchiveKeyDown);
-  };
-
-  closeArchiveBackdrop = () => this.closeArchive();
-
   openPost = () => {
-    this.setState({ postOpen: true });
+    this.setState({ postOpen: true }); this._setRead('salvo');
     document.body.style.overflow = 'hidden';
     this._onPostKeyDown = (e) => { if (e.key === 'Escape') this.closePost(); };
     window.addEventListener('keydown', this._onPostKeyDown);
   };
 
   closePost = () => {
-    this.setState({ postOpen: false });
+    this.setState({ postOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onPostKeyDown) window.removeEventListener('keydown', this._onPostKeyDown);
   };
@@ -880,14 +875,14 @@ class Component extends DCLogic {
   closePostBackdrop = () => this.closePost();
 
   openTariffs = () => {
-    this.setState({ tariffsOpen: true });
+    this.setState({ tariffsOpen: true }); this._setRead('tariffs');
     document.body.style.overflow = 'hidden';
     this._onTariffsKeyDown = (e) => { if (e.key === 'Escape') this.closeTariffs(); };
     window.addEventListener('keydown', this._onTariffsKeyDown);
   };
 
   closeTariffs = () => {
-    this.setState({ tariffsOpen: false });
+    this.setState({ tariffsOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onTariffsKeyDown) window.removeEventListener('keydown', this._onTariffsKeyDown);
   };
@@ -895,14 +890,14 @@ class Component extends DCLogic {
   closeTariffsBackdrop = () => this.closeTariffs();
 
   openMetals = () => {
-    this.setState({ metalsOpen: true });
+    this.setState({ metalsOpen: true }); this._setRead('metals');
     document.body.style.overflow = 'hidden';
     this._onMetalsKeyDown = (e) => { if (e.key === 'Escape') this.closeMetals(); };
     window.addEventListener('keydown', this._onMetalsKeyDown);
   };
 
   closeMetals = () => {
-    this.setState({ metalsOpen: false });
+    this.setState({ metalsOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onMetalsKeyDown) window.removeEventListener('keydown', this._onMetalsKeyDown);
   };
@@ -910,14 +905,14 @@ class Component extends DCLogic {
   closeMetalsBackdrop = () => this.closeMetals();
 
   openChips = () => {
-    this.setState({ chipsOpen: true });
+    this.setState({ chipsOpen: true }); this._setRead('chips');
     document.body.style.overflow = 'hidden';
     this._onChipsKeyDown = (e) => { if (e.key === 'Escape') this.closeChips(); };
     window.addEventListener('keydown', this._onChipsKeyDown);
   };
 
   closeChips = () => {
-    this.setState({ chipsOpen: false });
+    this.setState({ chipsOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onChipsKeyDown) window.removeEventListener('keydown', this._onChipsKeyDown);
   };
@@ -925,14 +920,14 @@ class Component extends DCLogic {
   closeChipsBackdrop = () => this.closeChips();
 
   openMemory = () => {
-    this.setState({ memoryOpen: true });
+    this.setState({ memoryOpen: true }); this._setRead('memory');
     document.body.style.overflow = 'hidden';
     this._onMemoryKeyDown = (e) => { if (e.key === 'Escape') this.closeMemory(); };
     window.addEventListener('keydown', this._onMemoryKeyDown);
   };
 
   closeMemory = () => {
-    this.setState({ memoryOpen: false });
+    this.setState({ memoryOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onMemoryKeyDown) window.removeEventListener('keydown', this._onMemoryKeyDown);
   };
@@ -940,14 +935,14 @@ class Component extends DCLogic {
   closeMemoryBackdrop = () => this.closeMemory();
 
   openHormuz = () => {
-    this.setState({ hormuzOpen: true });
+    this.setState({ hormuzOpen: true }); this._setRead('hormuz');
     document.body.style.overflow = 'hidden';
     this._onHormuzKeyDown = (e) => { if (e.key === 'Escape') this.closeHormuz(); };
     window.addEventListener('keydown', this._onHormuzKeyDown);
   };
 
   closeHormuz = () => {
-    this.setState({ hormuzOpen: false });
+    this.setState({ hormuzOpen: false }); this._setRead(null);
     document.body.style.overflow = '';
     if (this._onHormuzKeyDown) window.removeEventListener('keydown', this._onHormuzKeyDown);
   };
@@ -990,16 +985,18 @@ class Component extends DCLogic {
 
     const geoUpdatedLabel = hasLiveGeo
       ? 'Live feed · updated ' + relTime(live.updatedAt)
-      : (this.state.newsLoaded ? (this.state.newsError ? 'Live feed unavailable — showing recent picks' : 'Awaiting first sync — showing recent picks') : 'Loading live feed…');
+      : (this.state.newsLoaded ? (this.state.newsError ? 'Live feed unavailable — showing recent analysis' : 'Awaiting first sync — showing recent analysis') : 'Loading live feed…');
     const marketsUpdatedLabel = hasLiveMarkets
       ? 'Live feed · updated ' + relTime(live.updatedAt)
-      : (this.state.newsLoaded ? (this.state.newsError ? 'Live feed unavailable — showing recent picks' : 'Awaiting first sync — showing recent picks') : 'Loading live feed…');
+      : (this.state.newsLoaded ? (this.state.newsError ? 'Live feed unavailable — showing recent analysis' : 'Awaiting first sync — showing recent analysis') : 'Loading live feed…');
 
+    // Shown only when the live feed is unavailable. Points readers at the
+    // desk's own published analysis rather than inventing headlines.
     const FALLBACK_IN_BRIEF = [
-      { tag: 'Global Politics', tagColor: '#8C3324', headline: 'Baltic Sea cable incident reroutes three shipping lanes', link: '#geopolitics' },
-      { tag: 'Markets', tagColor: '#24463B', headline: 'Semiconductor export licenses tighten again', link: '#markets' },
-      { tag: 'Global Politics', tagColor: '#8C3324', headline: 'Sahel juntas consolidate — mining contracts in play', link: '#geopolitics' },
-      { tag: 'Markets', tagColor: '#24463B', headline: 'Defense primes guide up on multi-year backlog', link: '#markets' },
+      { tag: 'Chokepoints', tagColor: '#8C3324', headline: 'The Hormuz Premium: what a fifth of the world’s oil is actually worth', link: 'news.html' },
+      { tag: 'Markets', tagColor: '#24463B', headline: 'Record profits, record selloff: what’s happening to memory stocks', link: 'news.html' },
+      { tag: 'Global Politics', tagColor: '#8C3324', headline: 'America, Iran, and the Middle East in chaos', link: 'news.html' },
+      { tag: 'Markets', tagColor: '#24463B', headline: 'Gold, silver and metal market volatility', link: 'news.html' },
     ];
 
     const inBriefItems = (hasLiveGeo || hasLiveMarkets)
@@ -1012,11 +1009,11 @@ class Component extends DCLogic {
       : FALLBACK_IN_BRIEF;
 
     const hotspots = [
-      { name: 'BALTIC', x: 195, y: 90, labelX: 205, labelY: 78, delay: '0s' },
-      { name: 'ARCTIC', x: 200, y: 45, labelX: 210, labelY: 33, delay: '0.3s' },
+      { name: 'UKRAINE', x: 195, y: 90, labelX: 205, labelY: 78, delay: '0s' },
+      { name: 'EU / NATO', x: 200, y: 45, labelX: 210, labelY: 33, delay: '0.3s' },
       { name: 'TAIWAN', x: 300, y: 205, labelX: 245, labelY: 210, delay: '0.6s' },
-      { name: 'RED SEA', x: 250, y: 290, labelX: 195, labelY: 305, delay: '0.9s' },
-      { name: 'SAHEL', x: 155, y: 270, labelX: 90, labelY: 285, delay: '1.2s' },
+      { name: 'HORMUZ', x: 250, y: 290, labelX: 195, labelY: 305, delay: '0.9s' },
+      { name: 'RED SEA', x: 155, y: 270, labelX: 90, labelY: 285, delay: '1.2s' },
     ];
 
     const geoCards = hasLiveGeo
@@ -1027,19 +1024,15 @@ class Component extends DCLogic {
           dek: it.source,
           link: it.link,
         }))
+      // No live data: an honest unavailable state, not invented headlines.
       : [
-          { tag: 'Baltic', coords: '59.4°N 20.3°E', headline: 'Undersea cable damage forces a quiet reroute of North Sea traffic', dek: 'Three subsea links flagged for repair — insurers already pricing the disruption.', link: '#geopolitics' },
-          { tag: 'Arctic', coords: '78.2°N 15.6°E', headline: 'Icebreaker orders quietly triple across three fleets', dek: 'Shipping lanes that don\u2019t exist yet are already being contracted for.', link: '#geopolitics' },
-          { tag: 'Taiwan Strait', coords: '23.7°N 119.4°E', headline: 'Transit frequency through the strait hits an 18-month high', dek: 'Naval presence is up; so is options volume on regional foundries.', link: '#geopolitics' },
-          { tag: 'Red Sea', coords: '15.6°N 41.9°E', headline: 'Rerouted freight adds eleven days to the Asia–Europe run', dek: 'Insurance premiums for the corridor have not caught up with the risk.', link: '#geopolitics' },
-          { tag: 'Sahel', coords: '14.5°N 3.2°W', headline: 'A junta reshuffle puts three mining concessions back in play', dek: 'The names that hold those permits are quietly repricing.', link: '#geopolitics' },
+          { tag: 'Live feed', coords: '', headline: 'Political headlines are temporarily unavailable', dek: 'The feed refreshes every six hours. Please check back shortly.', link: '#geopolitics' },
         ];
 
     const allArticles = [];
     // Placeholder/sample articles are no longer rendered — real articles are
     // their own cards + modals below, so these lists are intentionally empty.
     const latestCards = [];
-    const archiveCards = [];
 
     const radarTicks = [];
     for (let i = 0; i < 72; i++) {
@@ -1062,11 +1055,10 @@ class Component extends DCLogic {
           sparkPoints: '0,12 10,12 20,12 30,12 40,12 50,12 60,12 70,12',
           link: it.link,
         }))
+      // No live data: show an honest "unavailable" state rather than sample
+      // cards. Never render invented headlines or made-up price moves here.
       : [
-          { tag: 'Defense Primes', headline: 'Backlog-to-revenue hits its highest ratio since 2003', dek: 'Order books are stretching further than delivery capacity.', sparkColor: '#24463B', change: '+6.2% · 3M', sparkPoints: '0,18 10,16 20,14 30,15 40,10 50,11 60,6 70,4', link: '#markets' },
-          { tag: 'Semiconductors', headline: 'A fourth country tightens export licensing this quarter', dek: 'The equipment makers feel it before the chipmakers do.', sparkColor: '#8C3324', change: '-3.1% · 3M', sparkPoints: '0,4 10,6 20,5 30,9 40,10 50,14 60,15 70,19', link: '#markets' },
-          { tag: 'Freight & Shipping', headline: 'Reroutes are quietly repricing container capacity', dek: 'Spot rates on the long way round are outpacing the direct route.', sparkColor: '#24463B', change: '+4.4% · 3M', sparkPoints: '0,16 10,15 20,12 30,13 40,9 50,8 60,5 70,6', link: '#markets' },
-          { tag: 'Critical Minerals', headline: 'Rare-earth stockpiling shows up in customs data first', dek: 'Import volumes moved a full quarter ahead of the policy story.', sparkColor: '#8C3324', change: '-1.8% · 3M', sparkPoints: '0,6 10,7 20,10 30,9 40,13 50,12 60,16 70,17', link: '#markets' },
+          { tag: 'Live feed', headline: 'Market headlines are temporarily unavailable', dek: 'The feed refreshes every six hours. Please check back shortly.', sparkColor: '#8A8D91', change: '', sparkPoints: '0,12 10,12 20,12 30,12 40,12 50,12 60,12 70,12', link: '#markets' },
         ];
 
     return {
@@ -1108,11 +1100,6 @@ class Component extends DCLogic {
       closeHormuzBackdrop: this.closeHormuzBackdrop,
       stopPropagation: this.stopPropagation,
       latestCards,
-      archiveCards,
-      archiveOpen: this.state.archiveOpen,
-      openArchive: this.openArchive,
-      closeArchive: this.closeArchive,
-      closeArchiveBackdrop: this.closeArchiveBackdrop,
       revealStyle: { opacity: 0, transform: 'translateY(24px)', transition: 'opacity 0.7s ease, transform 0.7s ease' },
       revealRef: this.revealRef,
       toggleMobile: this.toggleMobile,

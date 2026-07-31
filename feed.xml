@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Global Monitor</title>
+    <link>https://coreyh2005.github.io/the-global-monitor/</link>
+    <description>Global politics and markets, read as one instrument. Analysis of major political developments and what they mean for equities, commodities and currencies.</description>
+    <language>en-GB</language>
+    <atom:link href="https://coreyh2005.github.io/the-global-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>The Hormuz Premium: What a Fifth of the World's Oil Is Actually Worth</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=hormuz</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=hormuz</guid>
+      <pubDate>Thu, 30 Jul 2026 09:00:00 GMT</pubDate>
+      <category>Chokepoints</category>
+      <description>Transits fell to three a day and war-risk cover went from 0.125% of hull value to 5%. A framework for pricing chokepoint risk — and why "Iran will close Hormuz" has been a losing forecast all year.</description>
+    </item>
+
+    <item>
+      <title>Record Profits, Record Selloff: What's Actually Happening to Memory Stocks</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=memory</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=memory</guid>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
+      <category>Markets</category>
+      <description>SK Hynix posted record profit and had its worst month since 2008. Micron grew revenue 345.7% and trades at 6x forward earnings. The bull and bear cases, and why this one is genuinely unresolved.</description>
+    </item>
+
+    <item>
+      <title>Gold, Silver and Metal Market Volatility</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=metals</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=metals</guid>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
+      <category>Markets</category>
+      <description>Gold hit $5,589 in January and gave most of it back by June; silver round-tripped from $121 to $58. Why war and rate cuts moved metals — and why silver moves twice as hard.</description>
+    </item>
+
+    <item>
+      <title>A Trillion Dollars Off the AI Trade</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=chips</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=chips</guid>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Markets</category>
+      <description>Chip stocks shed over $1tn this month — yet Samsung's profit rose more than 1,800% and the stock still fell 7%. The market has stopped trading earnings and started trading the multiple.</description>
+    </item>
+
+    <item>
+      <title>Iran's Surprise Strike and the Oil Spike</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=salvo</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=salvo</guid>
+      <pubDate>Wed, 29 Jul 2026 20:00:00 GMT</pubDate>
+      <category>Global Politics &amp; Markets</category>
+      <description>Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</description>
+    </item>
+
+    <item>
+      <title>Trump, America, and Tariffs</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=tariffs</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=tariffs</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+      <category>Policy &amp; Markets</category>
+      <description>The average tariff rate went from 2.4% to 16.8% in a year, revenue jumped 192%, and the Supreme Court just ruled a chunk of it illegal — what the numbers actually say, past the political framing.</description>
+    </item>
+
+    <item>
+      <title>America, Iran, and the Middle East in Chaos</title>
+      <link>https://coreyh2005.github.io/the-global-monitor/index.html?read=iran</link>
+      <guid isPermaLink="true">https://coreyh2005.github.io/the-global-monitor/index.html?read=iran</guid>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+      <category>Global Politics</category>
+      <description>Operation Epic Fury killed Iran's Supreme Leader within hours of launching and sent oil above $119 a barrel within a week. Five months on, the ceasefire it produced is still fraying.</description>
+    </item>
+
+  </channel>
+</rss>
