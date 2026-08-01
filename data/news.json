@@ -1,85 +1,67 @@
 {
-  "updatedAt": "2026-08-01T07:53:35.562Z",
+  "updatedAt": "2026-08-01T15:42:27.967Z",
   "geopolitics": [
     {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "title": "India cracks down on protesters accused of ‘abusing’ Modi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-01T14:28:20.000Z"
+    },
+    {
+      "title": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
+      "link": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-01T14:17:57.000Z"
+    },
+    {
+      "title": "Israeli strike destroys Gaza hospital warehouse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-01T14:07:36.000Z"
+    },
+    {
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
       "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-01T07:21:46.000Z"
+      "publishedAt": "2026-08-01T13:35:39.000Z"
     },
     {
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-01T06:52:42.000Z"
+      "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+      "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-01T12:44:54.000Z"
     },
     {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-01T05:01:56.000Z"
+      "publishedAt": "2026-08-01T12:43:21.000Z"
     },
     {
-      "title": "Peru’s ex-president Humala released after conviction overturned",
-      "link": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
+      "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T03:52:25.000Z"
+      "publishedAt": "2026-08-01T12:40:36.000Z"
     },
     {
-      "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
-      "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
+      "title": "Trump mimics sound of Patriot missile interceptions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T03:33:38.000Z"
-    },
-    {
-      "title": "Is Israel really ready to withdraw from Gaza?",
-      "link": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T03:21:52.000Z"
-    },
-    {
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-01T02:21:29.000Z"
-    },
-    {
-      "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-      "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T02:06:00.000Z"
+      "publishedAt": "2026-08-01T11:21:32.000Z"
     }
   ],
   "markets": [
     {
-      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
-      "link": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+      "title": "Loyalists may miss the old Southwest. Wall Street loves the new one.",
+      "link": "https://www.marketwatch.com/story/loyalists-may-miss-the-old-southwest-wall-street-loves-the-new-one-fab88537?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-07-31T22:21:00.000Z"
-    },
-    {
-      "title": "The S&P 500 is making a change by adding this little-known industrial stock",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-31T21:53:00.000Z"
+      "publishedAt": "2026-08-01T12:00:00.000Z"
     },
     {
       "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
       "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-07-31T21:49:40.000Z"
-    },
-    {
-      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
-      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-31T21:10:00.000Z"
-    },
-    {
-      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-31T20:23:00.000Z"
     },
     {
       "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
@@ -98,6 +80,24 @@
       "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-07-31T16:14:54.000Z"
+    },
+    {
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-31T14:35:52.000Z"
+    },
+    {
+      "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+      "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-31T11:30:01.000Z"
+    },
+    {
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-07-30T15:04:43.000Z"
     }
   ]
 }
