@@ -1,61 +1,73 @@
 {
-  "updatedAt": "2026-07-31T21:46:34.642Z",
+  "updatedAt": "2026-08-01T07:53:35.562Z",
   "geopolitics": [
     {
-      "title": "Venezuela gov’t and opposition to hold talks aimed at path to elections",
-      "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-31T20:28:39.000Z"
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-01T07:21:46.000Z"
     },
     {
-      "title": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
-      "link": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
+      "title": "Iran's overlapping power centers make ending the war more complicated",
+      "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
       "source": "CNBC World",
-      "publishedAt": "2026-07-31T20:24:29.000Z"
+      "publishedAt": "2026-08-01T06:52:42.000Z"
     },
     {
-      "title": "Poland protests to Russian ambassador over missile incursion",
-      "link": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-01T05:01:56.000Z"
+    },
+    {
+      "title": "Peru’s ex-president Humala released after conviction overturned",
+      "link": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-31T19:48:17.000Z"
+      "publishedAt": "2026-08-01T03:52:25.000Z"
     },
     {
-      "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-      "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+      "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
+      "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-31T19:18:54.000Z"
+      "publishedAt": "2026-08-01T03:33:38.000Z"
     },
     {
-      "title": "Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz",
-      "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-07-31T18:59:59.000Z"
-    },
-    {
-      "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
-      "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-07-31T18:52:10.000Z"
-    },
-    {
-      "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-      "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
+      "title": "Is Israel really ready to withdraw from Gaza?",
+      "link": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-31T18:51:50.000Z"
+      "publishedAt": "2026-08-01T03:21:52.000Z"
     },
     {
-      "title": "Trump says Hamas disarmament deal will be complex to deliver",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-01T02:21:29.000Z"
+    },
+    {
+      "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+      "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-31T18:44:33.000Z"
+      "publishedAt": "2026-08-01T02:06:00.000Z"
     }
   ],
   "markets": [
     {
+      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
+      "link": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-31T22:21:00.000Z"
+    },
+    {
+      "title": "The S&P 500 is making a change by adding this little-known industrial stock",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-31T21:53:00.000Z"
+    },
+    {
       "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
       "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
       "source": "CNBC Finance",
-      "publishedAt": "2026-07-31T21:45:36.000Z"
+      "publishedAt": "2026-07-31T21:49:40.000Z"
     },
     {
       "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
@@ -76,12 +88,6 @@
       "publishedAt": "2026-07-31T18:46:45.000Z"
     },
     {
-      "title": "AI stocks may have bottomed out. What investors should watch for next.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-may-have-bottomed-out-what-investors-should-watch-for-next-bda034c5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-07-31T18:29:00.000Z"
-    },
-    {
       "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
       "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
       "source": "CNBC Markets",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-07-31T16:14:54.000Z"
-    },
-    {
-      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-      "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-07-31T14:35:52.000Z"
     }
   ]
 }
