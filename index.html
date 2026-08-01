@@ -720,6 +720,117 @@
     </div>
   </sc-if>
 
+  <sc-if value="{{ warEconomyOpen }}" hint-placeholder-val="{{ false }}">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeWarEconomyBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeWarEconomy }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Global Politics &amp; Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Russia's War Economy, Four Years In</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 1 Aug 2026 · 7 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>In 2022, the verdict on Western sanctions against Russia was blunt: they weren't working. GDP shrank a modest 6% that year against IMF forecasts of 15%, and energy exports even produced a $265 billion current-account surplus — the world's second-largest after China's. Four years later, that early verdict has aged badly. The numbers now increasingly resemble the ones everyone originally expected. They just arrived years late.</p>
+              <p><strong>The headline number.</strong> Russia's Central Bank cut its 2026 growth forecast twice this year, most recently in late July, down to a range of just 0.0–1.0%. That's a sharp deceleration from the 4%-plus wartime growth spurt of 2023–24, and officials now describe an economy that contracted outright at points in 2026 — its first such contraction since 2023.</p>
+              <p><strong>What the war costs, as a share of everything.</strong> Pre-invasion in 2021, Russian military spending ran about 3.6% of GDP. By 2025, defense and security spending exceeded 8% of GDP and consumed roughly 40% of total federal expenditure — a share not seen since the Soviet Union's Cold War peak.</p>
+              <p><strong>What that looks like in real money.</strong> That works out to roughly 15.86 trillion rubles, or about $198 billion, in 2025 alone — well above the figures the Kremlin has published. None of that spending expands the supply of consumer goods available to ordinary Russians; all of it adds to inflationary pressure while crowding out whatever else the budget might otherwise fund.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"The numbers now increasingly resemble the ones everyone originally expected. They just arrived years late."</blockquote>
+              <p><strong>The inflation gap nobody official talks about.</strong> Headline inflation sits officially around 5.5–7%, with the central bank's own target pushed back to mid-2026 and still not reached. Real inflation for many ordinary households is estimated to run above 20%. That gap matters because pensions, public-sector wages, and benefits are indexed to the official figure, not the lived one — meaning it falls hardest on the Kremlin's own core constituency: teachers, doctors, police, and pensioners, whose real purchasing power is quietly eroding even as the state insists prices are under control.</p>
+              <p><strong>The buffer Russia didn't actually have.</strong> Russia entered this war with less cushion than commonly assumed. At the end of 2021, its National Wealth Fund — built for exactly this kind of shock — held assets equal to just 10% of GDP, against roughly 85% of GDP for Saudi Arabia's equivalent fund and around 400% for Norway's. The central bank has since liquidated an estimated 71% of the country's gold reserves to help cover budget gaps.</p>
+              <p><strong>A budget now hostage to someone else's war.</strong> Oil and gas revenue, roughly a quarter of the federal budget, halved in a single month in January 2026 as crude drifted toward $40 a barrel. Then the separate Iran war disrupted Gulf supply, and Urals crude averaged $106.30 a barrel in early April — well above the $59 the Russian budget had assumed. Moscow responded by ramping March spending 44% above the year-earlier level, betting the windfall would hold. A budget that swings that hard on a war Russia isn't even fighting isn't stability. It's exposure that happened to get lucky timing, for now — and won't necessarily again.</p>
+              <p><strong>What's genuinely unresolved.</strong> This is not a story with a clean verdict either way. The economy hasn't collapsed, and four years of confident predictions that it would have proven wrong repeatedly. But it also isn't the resilient, sanctions-proof machine Moscow claims: growth is stalling, the inflation gap is real and politically uncomfortable, and the fiscal cushion built before the war is most of the way gone. Whether 2026's numbers mark a floor or an early stage of a longer slide is the actual open question — and anyone claiming certainty on that right now is reading the same incomplete picture we are.</p>
+              <p style="margin-top:30px; padding-top:20px; border-top:1px solid #DAD7CE; font-size:15px; line-height:1.65; color:#52565C;"><strong style="color:#14171A;">Related:</strong> see <a href="index.html?read=russian-oil" style="color:#24463B; text-decoration:none; border-bottom:1px solid #24463B;">Who's Actually Buying Russian Oil Now</a> for how the export side of this budget squeeze is actually being financed — and our Overwatch project for the defense-equities side of the same story.</p>
+            </div>
+          </article>
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">GDP growth, 2026 (revised)</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">0.0–1.0%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Defense spending, 2025</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">&gt;8% GDP</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Real vs. official inflation</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">20%+ vs. 5.5–7%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Wealth Fund, end-2021</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">10% GDP</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Gold reserves liquidated</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">~71%</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:10px;">Defense spend, % of GDP</div>
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:13px; color:#14171A;">3.6% <span style="color:#8A8D91;">(2021)</span> <span style="color:#8A8D91;">→</span> &gt;8% <span style="color:#8A8D91;">(2025)</span></div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ russianOilOpen }}" hint-placeholder-val="{{ false }}">
+    <div class="tgm-modal-scroll" style="position:fixed; inset:0; z-index:100; background:rgba(20,23,26,0.55); display:flex; justify-content:center; padding:48px 24px; overflow-y:auto;" onClick="{{ closeRussianOilBackdrop }}">
+      <div class="tgm-modal" style="background:#F6F5F1; max-width:1040px; width:100%; height:fit-content; padding:56px; position:relative; border:1px solid #C3BFB2;" onClick="{{ stopPropagation }}">
+        <button onClick="{{ closeRussianOil }}" aria-label="Close article" class="tgm-modal-close" style="position:absolute; top:24px; right:24px; width:36px; height:36px; border:1px solid #DAD7CE; background:#EFEDE6; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:16px; color:#14171A;">×</button>
+        <div class="tgm-modal-grid" style="display:grid; grid-template-columns:1fr 300px; gap:56px; align-items:start;">
+          <article>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:14px;">Policy &amp; Markets</div>
+            <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:34px; line-height:1.12; margin:0 0 10px; text-wrap:pretty;">Who's Actually Buying Russian Oil Now</h2>
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#8A8D91; letter-spacing:0.03em; margin-bottom:24px;">The Global Monitor · 1 Aug 2026 · 7 min read</div>
+            <div style="font-size:17px; line-height:1.75; color:#14171A; max-width:660px;">
+              <p>In January 2026, the Eventin — a Panamanian-flagged tanker, sanctioned, carrying roughly 100,000 tons of Russian oil — lost control off the German island of Rügen. It's still there. Not a metaphor: an actual sanctioned ship, stuck on Europe's doorstep, a physical reminder that the fleet built to move Russian oil around Western sanctions is aging, opaque, and increasingly accident-prone. That fleet is the real story of how the price cap on Russian oil has actually played out.</p>
+              <p><strong>The mechanism, and why it was clever.</strong> Rather than banning Russian oil outright and spiking global prices, the G7 built a price cap in December 2022 that let Russian crude keep flowing — just cheaply. Any Western shipping or insurance company could only handle Russian oil sold at or below a set price, currently $44.10 a barrel under a formula that automatically resets every six months to 15% below the average market rate. Cut Moscow's margin without cutting global supply — that was the theory. Four years on, the mechanism technically still exists. Its actual grip on the trade is a different story.</p>
+              <p><strong>How Russia built its way around it.</strong> The cap only binds companies that rely on Western shipping and insurance. Russia's answer was to stop relying on them: an entirely parallel "shadow fleet" of tankers, opaque ownership, alternative insurance, and transponders switched off mid-voyage. By some European estimates, shadow-fleet vessels were already handling more than 80% of Russian seaborne crude out of the Baltic and Black Sea by mid-2024; broader 2026 tallies put the figure at 60–70% of all Russian oil exports globally. As of early 2026, Ukrainian intelligence tracked 138 active tankers in the network — 96 of them already under some sanction, a number that keeps climbing without meaningfully grounding the fleet.</p>
+              <blockquote style="margin:36px 0; padding:22px 26px; border-left:3px solid #8C3324; background:#EFEDE6; font-family:'Fraunces',serif; font-size:22px; line-height:1.4; font-style:italic; color:#14171A;">"A sanction restricts who can legally deal with a ship. It doesn't restrict whether that ship can still physically move oil."</blockquote>
+              <p><strong>Who's actually buying — and it isn't one clean story.</strong> India and China are the two buyers that matter, and neither has moved in a single direction. As of the most recent tracked data, India's Russian oil imports hit a record 33% of its total seaborne intake in 2025, dipped sharply in January 2026, then rose again — up 23% month-over-month to 1.9 million barrels a day by June. China moved the opposite way over the same stretch: increasing shadow-fleet purchases in January, then cutting 10% to 1.2 million barrels a day by June. Turkey wound down to just 130,000 barrels a day — its lowest level since the invasion began. Even the G7's own unity has cracks: Japan has continued receiving Russian crude via the Sakhalin-2 project, in which Mitsui and Mitsubishi hold stakes, while formally backing the same coalition trying to choke off that trade elsewhere.</p>
+              <p><strong>The discount, and its limits.</strong> Russian crude sells at a persistent discount to Brent — $10 to $35 a barrel below market, depending on the month — because buyers are pricing in sanctions risk. China alone reportedly saved as much as $28.8 million a day at peak discount levels. Despite the markdown, Russia compensates with volume: total energy export revenue still runs an estimated $100–150 billion a year.</p>
+              <p><strong>The counterintuitive twist.</strong> Enforcement has produced an odd side effect, based on the most recent data available. Directly sanctioned Russian producers — Rosneft, Lukoil, Gazpromneft, Surgutneftegaz — saw their share of crude exports collapse to just 4–8% in the first quarter of 2026, before rebounding to 61% by May as trading structures adapted. But Russia's overall reliance on Western-linked maritime and insurance services — the exact dependency the shadow fleet exists to escape — actually rose to 42% in May, as a shrinking pool of shadow tankers forced more cargo back through conventional channels. The workaround is holding up in aggregate. Underneath, it's showing real strain.</p>
+              <p><strong>What's genuinely unresolved.</strong> Whether that strain compounds into a real capacity crunch, or whether the shadow fleet simply keeps absorbing new vessels faster than old ones wreck or get sanctioned, is not something the current data settles either way. Nor is it clear whether reported U.S.–India trade talks aimed at ending India's Russian purchases will produce a durable cut — the Kremlin says it's heard nothing official — or whether China's inconsistent buying pattern is a genuine hedge or just noise in a market this opaque. The honest position is that this system is fraying in specific, measurable places while still moving the bulk of the oil it was built to move. Both things are true at once, and which one wins out is the actual open question.</p>
+              <p style="margin-top:30px; padding-top:20px; border-top:1px solid #DAD7CE; font-size:15px; line-height:1.65; color:#52565C;"><strong style="color:#14171A;">Related:</strong> see <a href="index.html?read=war-economy" style="color:#24463B; text-decoration:none; border-bottom:1px solid #24463B;">Russia's War Economy, Four Years In</a> for what this export squeeze is doing to the Kremlin's budget — and our Overwatch project for how energy-price swings feed through to defense-adjacent equities.</p>
+            </div>
+          </article>
+          <aside class="tgm-modal-aside" style="border:1px solid #DAD7CE; background:#EFEDE6; padding:24px; position:sticky; top:0;">
+            <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; color:#8A8D91; text-transform:uppercase; margin-bottom:16px;">Signal Readout</div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">G7/EU price cap</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">$44.10/bbl</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Shadow fleet share of exports</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">60–70%</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">Sanctioned tankers still active</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">96+ of 138</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid #DAD7CE; padding-bottom:10px;">
+                <span style="font-size:13px; color:#52565C;">India imports, Jun 2026</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600;">1.9 mb/d</span>
+              </div>
+              <div style="display:flex; justify-content:space-between; align-items:baseline;">
+                <span style="font-size:13px; color:#52565C;">Producers' direct export share</span>
+                <span style="font-family:'IBM Plex Mono',monospace; font-size:14px; font-weight:600; color:#8C3324;">4–8% → 61%</span>
+              </div>
+            </div>
+            <div style="margin-top:22px; padding-top:18px; border-top:1px solid #DAD7CE;">
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8A8D91; text-transform:uppercase; margin-bottom:10px;">Discount to Brent</div>
+              <div style="font-family:'IBM Plex Mono',monospace; font-size:13px; color:#14171A;">$10 <span style="color:#8A8D91;">to</span> $35 <span style="color:#8A8D91;">below market</span></div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
   <!-- GEOPOLITICS -->
   <section id="geopolitics" data-reveal="true" style="{{ revealStyle }}" ref="{{ revealRef }}">
     <div style="background:#14171A; color:#F6F5F1;">
@@ -810,6 +921,18 @@
         <a href="news.html" style="text-decoration:none; font-family:'IBM Plex Mono',monospace; font-size:13px; color:#24463B; letter-spacing:0.03em; border-bottom:1px solid #24463B; padding-bottom:2px;">View all articles →</a>
       </div>
       <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:28px;">
+        <button onClick="{{ openWarEconomy }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8C3324; text-transform:uppercase; margin-bottom:12px;">Global Politics &amp; Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Russia's War Economy, Four Years In</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">Defense spending hasn't been this large a share of the economy since the Cold War. Growth has nearly stalled. And the gap between official inflation and what households actually feel is widening.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
+        <button onClick="{{ openRussianOil }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #24463B; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
+          <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#24463B; text-transform:uppercase; margin-bottom:12px;">Policy &amp; Markets</div>
+          <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Who's Actually Buying Russian Oil Now</div>
+          <p style="font-size:14px; line-height:1.55; color:#52565C; margin:0 0 12px;">A sanctioned tanker has been wrecked off the German coast for over a year. It's a fitting image for a price cap meant to starve the Kremlin's war chest — and the shadow fleet that grew to defeat it.</p>
+          <span style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:#24463B; letter-spacing:0.04em;">Read the full piece →</span>
+        </button>
         <button onClick="{{ openUkraine }}" style="display:block; width:100%; text-align:left; cursor:pointer; font-family:inherit; color:#14171A; border:1px solid #DAD7CE; border-top:2px solid #8C3324; padding:24px; background:#EFEDE6; transition:transform 0.2s, box-shadow 0.2s;" style-hover="transform:translateY(-3px); box-shadow:0 10px 24px rgba(20,23,26,0.08);">
           <div style="font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:0.06em; color:#8C3324; text-transform:uppercase; margin-bottom:12px;">Global Politics</div>
           <div style="font-family:'Fraunces',serif; font-size:19px; font-weight:600; line-height:1.3; margin-bottom:10px;">Russia, Ukraine, and the War That Goes Back to 1991</div>
@@ -901,7 +1024,7 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{}, &quot;signalStatus&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;ELEVATED&quot;,&quot;options&quot;:[&quot;STEADY&quot;,&quot;ELEVATED&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Signal&quot;}, &quot;sweepSpeed&quot;: {&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:6,&quot;min&quot;:3,&quot;max&quot;:14,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Signal&quot;}}">
 class Component extends DCLogic {
-  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, memoryOpen: false, hormuzOpen: false, ukraineOpen: false, ukraineEconOpen: false, newsData: null, newsLoaded: false, newsError: false };
+  state = { mobileOpen: false, isMobile: false, entryVisible: false, articleOpen: false, postOpen: false, tariffsOpen: false, metalsOpen: false, chipsOpen: false, memoryOpen: false, hormuzOpen: false, ukraineOpen: false, ukraineEconOpen: false, warEconomyOpen: false, russianOilOpen: false, newsData: null, newsLoaded: false, newsError: false };
 
   constructor(props) {
     super(props);
@@ -936,6 +1059,8 @@ class Component extends DCLogic {
     else if (_read === 'hormuz') this.openHormuz();
     else if (_read === 'ukraine') this.openUkraine();
     else if (_read === 'ukraine-economy') this.openUkraineEcon();
+    else if (_read === 'war-economy') this.openWarEconomy();
+    else if (_read === 'russian-oil') this.openRussianOil();
 
     // Real headlines, written by scripts/fetch-news.mjs and refreshed every
     // 6 hours by .github/workflows/update-news.yml — see NEWS-SETUP.md.
@@ -1102,6 +1227,36 @@ class Component extends DCLogic {
 
   closeUkraineEconBackdrop = () => this.closeUkraineEcon();
 
+  openWarEconomy = () => {
+    this.setState({ warEconomyOpen: true }); this._setRead('war-economy');
+    document.body.style.overflow = 'hidden';
+    this._onWarEconomyKeyDown = (e) => { if (e.key === 'Escape') this.closeWarEconomy(); };
+    window.addEventListener('keydown', this._onWarEconomyKeyDown);
+  };
+
+  closeWarEconomy = () => {
+    this.setState({ warEconomyOpen: false }); this._setRead(null);
+    document.body.style.overflow = '';
+    if (this._onWarEconomyKeyDown) window.removeEventListener('keydown', this._onWarEconomyKeyDown);
+  };
+
+  closeWarEconomyBackdrop = () => this.closeWarEconomy();
+
+  openRussianOil = () => {
+    this.setState({ russianOilOpen: true }); this._setRead('russian-oil');
+    document.body.style.overflow = 'hidden';
+    this._onRussianOilKeyDown = (e) => { if (e.key === 'Escape') this.closeRussianOil(); };
+    window.addEventListener('keydown', this._onRussianOilKeyDown);
+  };
+
+  closeRussianOil = () => {
+    this.setState({ russianOilOpen: false }); this._setRead(null);
+    document.body.style.overflow = '';
+    if (this._onRussianOilKeyDown) window.removeEventListener('keydown', this._onRussianOilKeyDown);
+  };
+
+  closeRussianOilBackdrop = () => this.closeRussianOil();
+
   closeHormuzBackdrop = () => this.closeHormuz();
 
   renderVals() {
@@ -1261,6 +1416,14 @@ class Component extends DCLogic {
       openUkraineEcon: this.openUkraineEcon,
       closeUkraineEcon: this.closeUkraineEcon,
       closeUkraineEconBackdrop: this.closeUkraineEconBackdrop,
+      warEconomyOpen: this.state.warEconomyOpen,
+      openWarEconomy: this.openWarEconomy,
+      closeWarEconomy: this.closeWarEconomy,
+      closeWarEconomyBackdrop: this.closeWarEconomyBackdrop,
+      russianOilOpen: this.state.russianOilOpen,
+      openRussianOil: this.openRussianOil,
+      closeRussianOil: this.closeRussianOil,
+      closeRussianOilBackdrop: this.closeRussianOilBackdrop,
       stopPropagation: this.stopPropagation,
       latestCards,
       revealStyle: { opacity: 0, transform: 'translateY(24px)', transition: 'opacity 0.7s ease, transform 0.7s ease' },
