@@ -42,6 +42,19 @@
   .intro p { font-size: 17px; line-height: 1.6; color: var(--muted); max-width: 620px; margin: 0; }
 
   .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 32px; padding: 44px 0 88px; }
+
+  .group { padding-top: 52px; }
+  .intro + .group { padding-top: 36px; }
+  .group-head { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; padding-bottom: 14px; border-bottom: 1px solid var(--line); }
+  .group-head > div { min-width: 0; }
+  .group-head h2 { font-family: 'IBM Plex Mono', monospace; font-weight: 500; font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--green); margin: 0 0 6px; }
+  .group-sub { font-size: 14.5px; line-height: 1.5; color: var(--muted); margin: 0; }
+  .group-count { flex: none; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--faint); }
+  .group .grid { padding: 32px 0 0; }
+  .group:last-of-type .grid { padding-bottom: 88px; }
+  @media (max-width: 620px) {
+    .group-head { flex-direction: column; align-items: flex-start; gap: 8px; }
+  }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 4px; overflow: hidden; display: flex; flex-direction: column; transition: transform .2s ease, box-shadow .2s ease; box-shadow: 0 1px 2px rgba(20,23,26,0.04); }
   .card:hover { transform: translateY(-4px); box-shadow: 0 16px 34px rgba(20,23,26,0.10); }
   .cover { display: block; width: 100%; aspect-ratio: 16 / 10; background: #eee; }
@@ -77,11 +90,15 @@
     <section class="intro">
       <div class="kicker">Global News</div>
       <h1>The full archive</h1>
-      <p>Every analysis published by the desk — geopolitics and markets read as one instrument. Newest first.</p>
+      <p>Every analysis published by the desk — geopolitics and markets read as one instrument. Grouped by theme, newest first within each.</p>
     </section>
 
-    <section class="grid">
-
+    <section class="group">
+      <div class="group-head">
+        <div><h2>Russia &amp; Ukraine</h2><p class="group-sub">The war, its economics, and who is financing it</p></div>
+        <span class="group-count">4 pieces</span>
+      </div>
+      <div class="grid">
       <!-- Russia's war economy -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A rising military spending bar overtaking a flattening growth line">
@@ -103,7 +120,6 @@
           <a class="more" href="index.html?read=war-economy">Read more →</a>
         </div>
       </article>
-
       <!-- Shadow fleet / Russian oil buyers -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Tankers moving on dark water with one vessel listing aground">
@@ -129,7 +145,6 @@
           <a class="more" href="index.html?read=russian-oil">Read more →</a>
         </div>
       </article>
-
       <!-- Russia / Ukraine, historical -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A contested territory split by a jagged, static front line">
@@ -152,7 +167,6 @@
           <a class="more" href="index.html?read=ukraine">Read more →</a>
         </div>
       </article>
-
       <!-- Ukraine war economics -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A gas flame beside grain stalks over a rising cost line">
@@ -177,7 +191,15 @@
           <a class="more" href="index.html?read=ukraine-economy">Read more →</a>
         </div>
       </article>
+      </div>
+    </section>
 
+    <section class="group">
+      <div class="group-head">
+        <div><h2>Iran &amp; the Gulf</h2><p class="group-sub">Hormuz, the oil complex, and the wider Middle East</p></div>
+        <span class="group-count">3 pieces</span>
+      </div>
+      <div class="grid">
       <!-- Hormuz -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Tankers funnelling through a narrow strait between two landmasses">
@@ -201,7 +223,51 @@
           <a class="more" href="index.html?read=hormuz">Read more →</a>
         </div>
       </article>
+      <!-- The Salvo -->
+      <article class="card">
+        <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Missile arcs over a rising oil-price chart">
+          <defs><linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1830"/><stop offset="1" stop-color="#1b2440"/></linearGradient></defs>
+          <rect width="400" height="250" fill="url(#night)"/>
+          <g fill="#eaf0f8" opacity="0.5"><circle cx="40" cy="34" r="1.6"/><circle cx="120" cy="24" r="1.4"/><circle cx="330" cy="30" r="1.6"/><circle cx="270" cy="20" r="1.2"/><circle cx="360" cy="60" r="1.4"/></g>
+          <g fill="none" stroke="#8C3324" stroke-width="2.2" stroke-dasharray="5 5" opacity="0.85"><path d="M-10,235 Q120,20 250,130"/><path d="M20,245 Q170,45 315,160"/></g>
+          <g fill="#e6a52e"><circle cx="250" cy="130" r="4.5"/><circle cx="315" cy="160" r="3.5"/></g>
+          <g stroke-width="7" opacity="0.95"><line x1="70" y1="205" x2="70" y2="172" stroke="#2e7d32"/><line x1="104" y1="210" x2="104" y2="160" stroke="#2e7d32"/><line x1="138" y1="196" x2="138" y2="150" stroke="#c0392b"/><line x1="172" y1="182" x2="172" y2="138" stroke="#2e7d32"/><line x1="206" y1="168" x2="206" y2="120" stroke="#2e7d32"/></g>
+          <polyline points="70,188 104,182 138,172 172,158 206,142 250,128 300,110 360,84" fill="none" stroke="#e6a52e" stroke-width="2.6"/>
+        </svg>
+        <div class="body">
+          <div class="tagrow"><span class="tag" style="color:#8C3324;">Global Politics &amp; Markets</span><span class="date">29 Jul 2026</span></div>
+          <h2>Iran's Surprise Strike and the Oil Spike</h2>
+          <p class="dek">Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</p>
+          <a class="more" href="index.html?read=salvo">Read more →</a>
+        </div>
+      </article>
+      <!-- Iran / Middle East -->
+      <article class="card">
+        <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Abstract US and Iran flags meeting at a fault line">
+          <rect x="0" y="0" width="400" height="84" fill="#2e7d32"/>
+          <rect x="0" y="84" width="400" height="82" fill="#f4f1ea"/>
+          <rect x="0" y="166" width="400" height="84" fill="#c0392b"/>
+          <path d="M0,0 L208,0 L192,125 L208,250 L0,250 Z" fill="#16294a"/>
+          <g opacity="0.85" fill="#b23b32"><rect x="0" y="128" width="150" height="10"/><rect x="0" y="150" width="150" height="10"/><rect x="0" y="172" width="150" height="10"/><rect x="0" y="194" width="150" height="10"/></g>
+          <g fill="#eaf0f8"><circle cx="28" cy="30" r="3.4"/><circle cx="58" cy="30" r="3.4"/><circle cx="88" cy="30" r="3.4"/><circle cx="43" cy="56" r="3.4"/><circle cx="73" cy="56" r="3.4"/><circle cx="28" cy="82" r="3.4"/><circle cx="58" cy="82" r="3.4"/><circle cx="88" cy="82" r="3.4"/></g>
+          <path d="M208,0 L192,125 L208,250" fill="none" stroke="#0e1a2e" stroke-width="3.5"/>
+        </svg>
+        <div class="body">
+          <div class="tagrow"><span class="tag" style="color:#8C3324;">Global Politics</span><span class="date">26 Jul 2026</span></div>
+          <h2>America, Iran, and the Middle East in Chaos</h2>
+          <p class="dek">Operation Epic Fury killed Iran's Supreme Leader within hours of launching and sent oil above $119 a barrel within a week. Five months on, the ceasefire it produced is still fraying.</p>
+          <a class="more" href="index.html?read=iran">Read more →</a>
+        </div>
+      </article>
+      </div>
+    </section>
 
+    <section class="group">
+      <div class="group-head">
+        <div><h2>Markets &amp; Trade</h2><p class="group-sub">Equities, metals, semiconductors and tariff policy</p></div>
+        <span class="group-count">4 pieces</span>
+      </div>
+      <div class="grid">
       <!-- Memory paradox -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Rising profit bars against a falling share-price line">
@@ -221,7 +287,6 @@
           <a class="more" href="index.html?read=memory">Read more →</a>
         </div>
       </article>
-
       <!-- Metals -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Gold and silver bars beside a volatile price line">
@@ -243,7 +308,6 @@
           <a class="more" href="index.html?read=metals">Read more →</a>
         </div>
       </article>
-
       <!-- Chips -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A microchip with a falling price line">
@@ -267,26 +331,6 @@
           <a class="more" href="index.html?read=chips">Read more →</a>
         </div>
       </article>
-
-      <!-- The Salvo -->
-      <article class="card">
-        <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Missile arcs over a rising oil-price chart">
-          <defs><linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1830"/><stop offset="1" stop-color="#1b2440"/></linearGradient></defs>
-          <rect width="400" height="250" fill="url(#night)"/>
-          <g fill="#eaf0f8" opacity="0.5"><circle cx="40" cy="34" r="1.6"/><circle cx="120" cy="24" r="1.4"/><circle cx="330" cy="30" r="1.6"/><circle cx="270" cy="20" r="1.2"/><circle cx="360" cy="60" r="1.4"/></g>
-          <g fill="none" stroke="#8C3324" stroke-width="2.2" stroke-dasharray="5 5" opacity="0.85"><path d="M-10,235 Q120,20 250,130"/><path d="M20,245 Q170,45 315,160"/></g>
-          <g fill="#e6a52e"><circle cx="250" cy="130" r="4.5"/><circle cx="315" cy="160" r="3.5"/></g>
-          <g stroke-width="7" opacity="0.95"><line x1="70" y1="205" x2="70" y2="172" stroke="#2e7d32"/><line x1="104" y1="210" x2="104" y2="160" stroke="#2e7d32"/><line x1="138" y1="196" x2="138" y2="150" stroke="#c0392b"/><line x1="172" y1="182" x2="172" y2="138" stroke="#2e7d32"/><line x1="206" y1="168" x2="206" y2="120" stroke="#2e7d32"/></g>
-          <polyline points="70,188 104,182 138,172 172,158 206,142 250,128 300,110 360,84" fill="none" stroke="#e6a52e" stroke-width="2.6"/>
-        </svg>
-        <div class="body">
-          <div class="tagrow"><span class="tag" style="color:#8C3324;">Global Politics &amp; Markets</span><span class="date">29 Jul 2026</span></div>
-          <h2>Iran's Surprise Strike and the Oil Spike</h2>
-          <p class="dek">Tehran fired a volley of ballistic missiles at US forces in the Gulf hours after traders had started pricing the war out — every missile intercepted, but the risk premium snapped straight back.</p>
-          <a class="more" href="index.html?read=salvo">Read more →</a>
-        </div>
-      </article>
-
       <!-- Tariffs -->
       <article class="card">
         <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Neoclassical courthouse facade">
@@ -306,26 +350,7 @@
           <a class="more" href="index.html?read=tariffs">Read more →</a>
         </div>
       </article>
-
-      <!-- Iran / Middle East -->
-      <article class="card">
-        <svg class="cover" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Abstract US and Iran flags meeting at a fault line">
-          <rect x="0" y="0" width="400" height="84" fill="#2e7d32"/>
-          <rect x="0" y="84" width="400" height="82" fill="#f4f1ea"/>
-          <rect x="0" y="166" width="400" height="84" fill="#c0392b"/>
-          <path d="M0,0 L208,0 L192,125 L208,250 L0,250 Z" fill="#16294a"/>
-          <g opacity="0.85" fill="#b23b32"><rect x="0" y="128" width="150" height="10"/><rect x="0" y="150" width="150" height="10"/><rect x="0" y="172" width="150" height="10"/><rect x="0" y="194" width="150" height="10"/></g>
-          <g fill="#eaf0f8"><circle cx="28" cy="30" r="3.4"/><circle cx="58" cy="30" r="3.4"/><circle cx="88" cy="30" r="3.4"/><circle cx="43" cy="56" r="3.4"/><circle cx="73" cy="56" r="3.4"/><circle cx="28" cy="82" r="3.4"/><circle cx="58" cy="82" r="3.4"/><circle cx="88" cy="82" r="3.4"/></g>
-          <path d="M208,0 L192,125 L208,250" fill="none" stroke="#0e1a2e" stroke-width="3.5"/>
-        </svg>
-        <div class="body">
-          <div class="tagrow"><span class="tag" style="color:#8C3324;">Global Politics</span><span class="date">26 Jul 2026</span></div>
-          <h2>America, Iran, and the Middle East in Chaos</h2>
-          <p class="dek">Operation Epic Fury killed Iran's Supreme Leader within hours of launching and sent oil above $119 a barrel within a week. Five months on, the ceasefire it produced is still fraying.</p>
-          <a class="more" href="index.html?read=iran">Read more →</a>
-        </div>
-      </article>
-
+      </div>
     </section>
   </main>
 
