@@ -619,7 +619,7 @@
           <div>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#8C3324; text-transform:uppercase; margin-bottom:16px;">Section 04</div>
             <h2 style="font-family:'Fraunces',serif; font-weight:600; font-size:38px; line-height:1.1; margin:0 0 20px;">Global Politics</h2>
-            <p style="font-size:16px; line-height:1.65; color:#C3BFB2; max-width:440px;">The five theatres this desk tracks most closely — where a political decision is most likely to show up in prices. Headlines below are pulled live from BBC, Al Jazeera and CNBC and refresh through the day.</p>
+            <p style="font-size:16px; line-height:1.65; color:#C3BFB2; max-width:440px;">Five regions where politics and prices are most tightly linked right now: Russia–Ukraine, Gaza–Israel, the U.S.–Iran standoff, the EU, and the Red Sea. Headlines below pull live from BBC, Al Jazeera and CNBC, refreshing through the day.</p>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.04em; color:#8A8D91; margin-top:16px;">{{ geoUpdatedLabel }}</div>
           </div>
           <div style="position:relative; aspect-ratio:1/1; max-width:420px; justify-self:center; width:100%;">
@@ -643,6 +643,7 @@
                 <circle cx="{{ spot.x }}" cy="{{ spot.y }}" r="5" fill="#8C3324" style="animation: tgm-pulse 2.4s ease-in-out infinite; animation-delay: {{ spot.delay }};"></circle>
                 <circle cx="{{ spot.x }}" cy="{{ spot.y }}" r="2" fill="#F6F5F1"></circle>
                 <text x="{{ spot.labelX }}" y="{{ spot.labelY }}" fill="#C3BFB2" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="0.04em">{{ spot.name }}</text>
+                <text x="{{ spot.labelX }}" y="{{ spot.statusY }}" fill="{{ spot.statusColor }}" font-family="IBM Plex Mono, monospace" font-size="8" letter-spacing="0.08em">{{ spot.status }}</text>
               </sc-for>
             </svg>
           </div>
@@ -1010,11 +1011,11 @@ class Component extends DCLogic {
       : FALLBACK_IN_BRIEF;
 
     const hotspots = [
-      { name: 'UKRAINE', x: 195, y: 90, labelX: 205, labelY: 78, delay: '0s' },
-      { name: 'EU / NATO', x: 200, y: 45, labelX: 210, labelY: 33, delay: '0.3s' },
-      { name: 'TAIWAN', x: 300, y: 205, labelX: 245, labelY: 210, delay: '0.6s' },
-      { name: 'HORMUZ', x: 250, y: 290, labelX: 195, labelY: 305, delay: '0.9s' },
-      { name: 'RED SEA', x: 155, y: 270, labelX: 90, labelY: 285, delay: '1.2s' },
+      { name: 'RUSSIA–UKRAINE', status: 'ACTIVE', statusColor: '#8C3324', x: 150, y: 108, labelX: 46, labelY: 96, statusY: 107, delay: '0s' },
+      { name: 'EU', status: 'WATCH', statusColor: '#8A8D91', x: 205, y: 62, labelX: 215, labelY: 52, statusY: 63, delay: '0.3s' },
+      { name: 'GAZA–ISRAEL', status: 'ACTIVE', statusColor: '#8C3324', x: 262, y: 140, labelX: 274, labelY: 130, statusY: 141, delay: '0.6s' },
+      { name: 'USA–IRAN', status: 'ELEVATED', statusColor: '#C3BFB2', x: 292, y: 226, labelX: 302, labelY: 216, statusY: 227, delay: '0.9s' },
+      { name: 'RED SEA', status: 'WATCH', statusColor: '#8A8D91', x: 155, y: 270, labelX: 90, labelY: 285, statusY: 296, delay: '1.2s' },
     ];
 
     const geoCards = hasLiveGeo
