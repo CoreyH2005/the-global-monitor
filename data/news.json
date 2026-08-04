@@ -1,79 +1,67 @@
 {
-  "updatedAt": "2026-08-03T21:49:57.146Z",
+  "updatedAt": "2026-08-04T10:15:07.957Z",
   "geopolitics": [
     {
-      "title": "EU calls for strengthening borders after migrants entered Spain's Ceuta from Morocco",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
+      "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-04T09:55:49.000Z"
+    },
+    {
+      "title": "What is Trump Media's Truth API and why is it controversial?",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-03T21:43:10.000Z"
+      "publishedAt": "2026-08-04T09:40:47.000Z"
     },
     {
-      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-03T21:05:11.000Z"
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-04T09:35:06.000Z"
     },
     {
-      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-03T20:58:19.000Z"
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-04T09:23:06.000Z"
     },
     {
-      "title": "Twenty five states sue Trump administration over latest global tariffs",
-      "link": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-04T09:11:39.000Z"
+    },
+    {
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-04T09:08:40.000Z"
+    },
+    {
+      "title": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+      "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-03T20:57:02.000Z"
+      "publishedAt": "2026-08-04T08:23:14.000Z"
     },
     {
-      "title": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
-      "link": "https://www.cnbc.com/2026/08/03/trump-pirro-reflecting-pool-vandalism-case.html",
+      "title": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
+      "link": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-03T20:30:54.000Z"
-    },
-    {
-      "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
-      "link": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-03T20:02:34.000Z"
-    },
-    {
-      "title": "Oil prices tumble after Trump calls off attack on Iran",
-      "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-03T19:59:55.000Z"
-    },
-    {
-      "title": "Clergy members arrested while protesting at Senate office",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-03T19:53:59.000Z"
+      "publishedAt": "2026-08-04T08:11:48.000Z"
     }
   ],
   "markets": [
     {
-      "title": "This indicator is giving the bull market another lease on life",
-      "link": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
+      "title": "Energy shock delivers 144% boost in profits for BP",
+      "link": "https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-03T20:44:00.000Z"
-    },
-    {
-      "title": "Boeing clears key hurdle and stock rallies to lead the Dow",
-      "link": "https://www.marketwatch.com/story/boeing-clears-key-hurdle-and-stock-rallies-leading-the-dow-ffd2dcbd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-03T20:17:00.000Z"
-    },
-    {
-      "title": "Palantir’s stock gains as AI drives turbocharged growth",
-      "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-03T20:07:00.000Z"
+      "publishedAt": "2026-08-04T09:25:00.000Z"
     },
     {
       "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
       "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-03T19:40:00.000Z"
+      "publishedAt": "2026-08-03T22:44:00.000Z"
     },
     {
       "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-07-31T16:51:30.000Z"
+    },
+    {
+      "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
+      "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-31T16:14:54.000Z"
+    },
+    {
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-07-31T14:35:52.000Z"
     }
   ]
 }
