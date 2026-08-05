@@ -1,56 +1,80 @@
 {
-  "updatedAt": "2026-08-04T18:13:36.671Z",
+  "updatedAt": "2026-08-05T10:05:59.662Z",
   "geopolitics": [
     {
-      "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-      "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-04T17:49:24.000Z"
-    },
-    {
-      "title": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
-      "link": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T17:27:26.000Z"
-    },
-    {
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-04T17:26:06.000Z"
+      "publishedAt": "2026-08-05T09:54:20.000Z"
     },
     {
-      "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
-      "link": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
+      "link": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-04T17:25:45.000Z"
+      "publishedAt": "2026-08-05T09:53:06.000Z"
     },
     {
-      "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-      "link": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T17:03:24.000Z"
+      "title": "Trump says Hormuz deal could be agreed Wednesday or Thursday as he hails ‘very good’ Iran talks",
+      "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-05T09:41:33.000Z"
     },
     {
-      "title": "EU offers emergency aid to Spain to strengthen Ceuta border",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss",
+      "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+      "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T16:41:30.000Z"
+      "publishedAt": "2026-08-05T09:16:39.000Z"
     },
     {
-      "title": "India denies involvement in ex-Bangladesh PM Hasina’s planned speech",
-      "link": "https://www.aljazeera.com/news/2026/8/4/india-denies-involvement-in-ex-bangladesh-pm-hasinas-planned-speech?traffic_source=rss",
+      "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
+      "link": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T16:34:54.000Z"
+      "publishedAt": "2026-08-05T09:14:41.000Z"
     },
     {
-      "title": "War on Iran: Trump says Iran has one ‘last chance’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss",
+      "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T16:13:49.000Z"
+      "publishedAt": "2026-08-05T09:05:46.000Z"
+    },
+    {
+      "title": "Trump's deportation agenda raised prices, contracted local economies, immigration group says",
+      "link": "https://www.cnbc.com/2026/08/05/trump-mass-deportation-prices.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-05T09:00:01.000Z"
+    },
+    {
+      "title": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
+      "link": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-05T08:55:42.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Elon Musk addresses memory-chip stock concerns with one simple observation",
+      "link": "https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-05T09:45:00.000Z"
+    },
+    {
+      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-04T22:40:00.000Z"
+    },
+    {
+      "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+      "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-04T22:22:00.000Z"
+    },
+    {
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+      "link": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-04T21:25:00.000Z"
+    },
     {
       "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
       "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
@@ -58,28 +82,10 @@
       "publishedAt": "2026-08-04T17:49:24.000Z"
     },
     {
-      "title": "Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance",
-      "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-04T16:25:00.000Z"
-    },
-    {
-      "title": "Stocks could soar in August. Here are six potential drivers.",
-      "link": "https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-04T15:33:00.000Z"
-    },
-    {
       "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
       "link": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-04T14:42:39.000Z"
-    },
-    {
-      "title": "Caterpillar’s stock gives the Dow a 200-point boost as data-center demand drives record revenue",
-      "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-04T14:36:00.000Z"
     },
     {
       "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-07-31T18:46:45.000Z"
-    },
-    {
-      "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
-      "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-07-31T16:51:30.000Z"
     }
   ]
 }
