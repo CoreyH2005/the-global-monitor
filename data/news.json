@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-07T05:53:16.092Z",
+  "updatedAt": "2026-08-07T09:36:05.084Z",
   "geopolitics": [
+    {
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-07T08:48:16.000Z"
+    },
+    {
+      "title": "Earthquake strikes as doctors perform surgery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-07T07:43:05.000Z"
+    },
     {
       "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
       "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
@@ -36,18 +48,6 @@
       "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
       "source": "CNBC World",
       "publishedAt": "2026-08-07T02:08:42.000Z"
-    },
-    {
-      "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-      "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-07T01:51:50.000Z"
-    },
-    {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-07T01:03:35.000Z"
     }
   ],
   "markets": [
@@ -68,12 +68,6 @@
       "link": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-06T22:59:00.000Z"
-    },
-    {
-      "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
-      "link": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-06T20:57:00.000Z"
     },
     {
       "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-06T13:25:12.000Z"
+    },
+    {
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-05T22:35:26.000Z"
     }
   ]
 }
