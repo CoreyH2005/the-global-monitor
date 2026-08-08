@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-08-08T08:06:15.065Z",
+  "updatedAt": "2026-08-08T14:05:32.742Z",
   "geopolitics": [
+    {
+      "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+      "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T13:52:40.000Z"
+    },
+    {
+      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-08T13:49:09.000Z"
+    },
+    {
+      "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+      "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T13:42:06.000Z"
+    },
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-08T06:12:56.000Z"
+      "publishedAt": "2026-08-08T13:29:38.000Z"
     },
     {
-      "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-      "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-08T13:23:16.000Z"
+    },
+    {
+      "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-08T05:21:12.000Z"
+      "publishedAt": "2026-08-08T13:06:30.000Z"
     },
     {
-      "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
+      "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+      "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T04:31:42.000Z"
+      "publishedAt": "2026-08-08T12:30:52.000Z"
     },
     {
-      "title": "Russian strikes near Ukrainian capital kill three, including child",
-      "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "title": "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T04:18:45.000Z"
-    },
-    {
-      "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T03:42:43.000Z"
-    },
-    {
-      "title": "US Senate passes Russia sanctions that could hurt India and China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T03:20:41.000Z"
-    },
-    {
-      "title": "Trump shifts blame to Republicans for waning support from public",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T01:28:39.000Z"
-    },
-    {
-      "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T01:15:53.000Z"
+      "publishedAt": "2026-08-08T11:46:53.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
+      "link": "https://www.marketwatch.com/story/berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-26982ecf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-08T13:43:00.000Z"
+    },
+    {
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-08T13:28:00.000Z"
+    },
     {
       "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
       "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
@@ -68,18 +80,6 @@
       "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-07T20:54:00.000Z"
-    },
-    {
-      "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
-      "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-07T20:41:00.000Z"
-    },
-    {
-      "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-07T20:38:00.000Z"
     },
     {
       "title": "Odds the Fed will hike in September tumble following big July jobs miss",
