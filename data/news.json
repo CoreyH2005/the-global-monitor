@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-08-07T20:04:09.566Z",
+  "updatedAt": "2026-08-08T04:17:29.414Z",
   "geopolitics": [
     {
-      "title": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-      "link": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-07T19:21:22.000Z"
-    },
-    {
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-07T18:54:55.000Z"
+      "publishedAt": "2026-08-08T03:42:43.000Z"
     },
     {
-      "title": "Trump revives effort to fire Fed's Lisa Cook",
-      "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-07T18:38:17.000Z"
-    },
-    {
-      "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-      "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
+      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-07T18:00:05.000Z"
+      "publishedAt": "2026-08-08T03:20:41.000Z"
     },
     {
-      "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-      "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-07T17:50:12.000Z"
-    },
-    {
-      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-      "link": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-07T16:55:42.000Z"
-    },
-    {
-      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "title": "Trump shifts blame to Republicans for waning support from public",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-07T16:42:35.000Z"
+      "publishedAt": "2026-08-08T01:28:39.000Z"
     },
     {
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-07T15:38:28.000Z"
+      "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T01:15:53.000Z"
+    },
+    {
+      "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+      "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T00:24:42.000Z"
+    },
+    {
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T00:06:22.000Z"
+    },
+    {
+      "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T00:00:00.000Z"
+    },
+    {
+      "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
+      "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-07T23:40:16.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with allies.",
+      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
       "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-07T19:47:00.000Z"
+      "publishedAt": "2026-08-07T22:05:00.000Z"
     },
     {
-      "title": "Palantir’s stock stages best week since 2024, showing it’s no longer an AI loser",
+      "title": "The smart way to invest in gold right now as the dollar slips",
+      "link": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-07T21:58:00.000Z"
+    },
+    {
+      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
       "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-07T19:41:00.000Z"
+      "publishedAt": "2026-08-07T20:54:00.000Z"
     },
     {
-      "title": "Some of the urgency is gone for a Fed rate hike in September after a soft jobs report",
-      "link": "https://www.marketwatch.com/story/some-of-the-urgency-is-gone-for-a-fed-rate-hike-in-september-after-the-soft-jobs-report-19bc5565?mod=mw_rss_topstories",
+      "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+      "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-07T19:36:00.000Z"
+      "publishedAt": "2026-08-07T20:41:00.000Z"
+    },
+    {
+      "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-07T20:38:00.000Z"
     },
     {
       "title": "Odds the Fed will hike in September tumble following big July jobs miss",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-06T20:07:51.000Z"
-    },
-    {
-      "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
-      "link": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-06T14:48:42.000Z"
-    },
-    {
-      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
-      "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-06T13:25:12.000Z"
     }
   ]
 }
