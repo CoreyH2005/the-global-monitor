@@ -1,79 +1,85 @@
 {
-  "updatedAt": "2026-08-11T15:30:22.598Z",
+  "updatedAt": "2026-08-11T20:11:30.131Z",
   "geopolitics": [
     {
-      "title": "Parents could put pretax paycheck money into Trump Accounts, with employers matching, Treasury says",
-      "link": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-11T15:29:22.000Z"
-    },
-    {
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-11T15:24:07.000Z"
-    },
-    {
-      "title": "Ukraine war sparked race for countries to build spy satellites, space-tech CEO says",
-      "link": "https://www.cnbc.com/2026/08/11/iceye-satellite-fleets-defense-europe.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-11T15:09:49.000Z"
-    },
-    {
-      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
-      "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-11T14:56:43.000Z"
-    },
-    {
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-11T14:47:28.000Z"
-    },
-    {
-      "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-11T14:30:23.000Z"
-    },
-    {
-      "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-      "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-11T13:47:50.000Z"
-    },
-    {
-      "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
+      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-11T13:35:57.000Z"
+      "publishedAt": "2026-08-11T19:27:17.000Z"
+    },
+    {
+      "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
+      "link": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-11T19:11:58.000Z"
+    },
+    {
+      "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
+      "link": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-11T19:08:16.000Z"
+    },
+    {
+      "title": "Venezuela and Israel restore consular ties as relations warm",
+      "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-11T18:58:33.000Z"
+    },
+    {
+      "title": "Tightened blockade on Gaza causes prices to soar",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-11T18:45:26.000Z"
+    },
+    {
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-11T18:34:39.000Z"
+    },
+    {
+      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-11T18:18:44.000Z"
+    },
+    {
+      "title": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
+      "link": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-11T18:10:10.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Is inflation really slowing? Fed rate hike hinges on July price report.",
-      "link": "https://www.marketwatch.com/story/is-inflation-really-slowing-fed-rate-hike-hinges-on-july-price-report-9d3c3a73?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-11T14:49:00.000Z"
+      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-11T18:34:41.000Z"
     },
     {
-      "title": "Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
-      "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
+      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+      "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-11T18:09:08.000Z"
+    },
+    {
+      "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
+      "link": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-11T14:21:00.000Z"
+      "publishedAt": "2026-08-11T17:17:00.000Z"
+    },
+    {
+      "title": "A historically strong stretch for the U.S. stock market is about to begin",
+      "link": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-11T15:40:00.000Z"
     },
     {
       "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
       "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-11T14:11:05.000Z"
-    },
-    {
-      "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
-      "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-11T13:39:00.000Z"
     },
     {
       "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-08T13:28:00.000Z"
-    },
-    {
-      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-      "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-07T13:34:44.000Z"
     }
   ]
 }
