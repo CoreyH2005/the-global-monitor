@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-08-11T20:11:30.131Z",
+  "updatedAt": "2026-08-12T05:44:53.109Z",
   "geopolitics": [
     {
-      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-11T19:27:17.000Z"
-    },
-    {
-      "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
-      "link": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-11T19:11:58.000Z"
-    },
-    {
-      "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
-      "link": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-11T19:08:16.000Z"
-    },
-    {
-      "title": "Venezuela and Israel restore consular ties as relations warm",
-      "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+      "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+      "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-11T18:58:33.000Z"
+      "publishedAt": "2026-08-12T05:26:26.000Z"
     },
     {
-      "title": "Tightened blockade on Gaza causes prices to soar",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-11T18:45:26.000Z"
-    },
-    {
-      "title": "Former judge removed by Orbán elected Hungarian president",
-      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-11T18:34:39.000Z"
-    },
-    {
-      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
-      "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-11T18:18:44.000Z"
-    },
-    {
-      "title": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
-      "link": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership",
+      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-11T18:10:10.000Z"
+      "publishedAt": "2026-08-12T05:10:36.000Z"
+    },
+    {
+      "title": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T05:01:43.000Z"
+    },
+    {
+      "title": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T04:59:19.000Z"
+    },
+    {
+      "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T04:52:26.000Z"
+    },
+    {
+      "title": "Trump says secret plane switch ‘up to the Secret Service’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T04:15:51.000Z"
+    },
+    {
+      "title": "Drone strikes power station near Libya’s largest oil refinery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T04:13:34.000Z"
+    },
+    {
+      "title": "Russia frees ex-US marine Gilman jailed since 2022",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T03:57:01.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-12T00:17:00.000Z"
+    },
+    {
+      "title": "Super Micro’s earnings report brings more good news, and the stock is climbing",
+      "link": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-12T00:16:00.000Z"
+    },
+    {
+      "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+      "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-11T20:32:00.000Z"
+    },
     {
       "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
       "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
@@ -62,18 +80,6 @@
       "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-11T18:09:08.000Z"
-    },
-    {
-      "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
-      "link": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-11T17:17:00.000Z"
-    },
-    {
-      "title": "A historically strong stretch for the U.S. stock market is about to begin",
-      "link": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-11T15:40:00.000Z"
     },
     {
       "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-08T15:00:01.000Z"
-    },
-    {
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-08T13:28:00.000Z"
     }
   ]
 }
