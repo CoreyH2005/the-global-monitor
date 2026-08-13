@@ -1,56 +1,80 @@
 {
-  "updatedAt": "2026-08-12T20:10:48.563Z",
+  "updatedAt": "2026-08-13T05:50:25.478Z",
   "geopolitics": [
     {
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "title": "Japan protests against Putin visit to disputed islands",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-12T20:09:37.000Z"
+      "publishedAt": "2026-08-13T05:34:04.000Z"
     },
     {
-      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
-      "link": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+      "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+      "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-13T05:26:05.000Z"
+    },
+    {
+      "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+      "link": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-12T20:09:15.000Z"
+      "publishedAt": "2026-08-13T05:19:50.000Z"
     },
     {
-      "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
-      "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+      "title": "Leavitt to leave as White House press secretary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T19:11:03.000Z"
+      "publishedAt": "2026-08-13T04:58:49.000Z"
     },
     {
-      "title": "Lebanese families demand release of detainees held by Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-13T04:55:58.000Z"
+    },
+    {
+      "title": "Three Palestinian families besieged in their homes by Israeli settlers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T18:15:03.000Z"
+      "publishedAt": "2026-08-13T04:34:46.000Z"
+    },
+    {
+      "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+      "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-13T03:54:09.000Z"
     },
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-12T17:47:01.000Z"
-    },
-    {
-      "title": "White House construction project to cost almost $1bn",
-      "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T17:23:45.000Z"
-    },
-    {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-12T16:34:01.000Z"
-    },
-    {
-      "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
-      "link": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-12T16:33:35.000Z"
+      "publishedAt": "2026-08-13T03:28:56.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+      "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-13T02:59:50.000Z"
+    },
+    {
+      "title": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
+      "link": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-13T01:16:00.000Z"
+    },
+    {
+      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+      "link": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-12T22:34:00.000Z"
+    },
+    {
+      "title": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-12T22:31:00.000Z"
+    },
     {
       "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
       "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
@@ -58,28 +82,10 @@
       "publishedAt": "2026-08-12T19:15:54.000Z"
     },
     {
-      "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
-      "link": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T18:19:00.000Z"
-    },
-    {
-      "title": "SpaceX’s stock is getting a Grok-fueled boost",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T17:26:00.000Z"
-    },
-    {
       "title": "Here are five key takeaways from the July CPI inflation report",
       "link": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-12T17:14:09.000Z"
-    },
-    {
-      "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
-      "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T16:00:00.000Z"
     },
     {
       "title": "AI’s costly build-out complicates the Fed’s inflation fight",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-12T14:27:35.000Z"
-    },
-    {
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-12T14:14:10.000Z"
     }
   ]
 }
