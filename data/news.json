@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-08-13T05:50:25.478Z",
+  "updatedAt": "2026-08-13T09:46:28.151Z",
   "geopolitics": [
     {
-      "title": "Japan protests against Putin visit to disputed islands",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-13T05:34:04.000Z"
+      "publishedAt": "2026-08-13T09:40:18.000Z"
     },
     {
-      "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-      "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+      "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+      "link": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-13T05:26:05.000Z"
+      "publishedAt": "2026-08-13T09:30:24.000Z"
+    },
+    {
+      "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+      "link": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-13T08:38:13.000Z"
     },
     {
       "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
       "link": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-13T05:19:50.000Z"
+      "publishedAt": "2026-08-13T08:28:14.000Z"
     },
     {
-      "title": "Leavitt to leave as White House press secretary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-13T04:58:49.000Z"
-    },
-    {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-13T04:55:58.000Z"
+      "publishedAt": "2026-08-13T08:13:55.000Z"
     },
     {
-      "title": "Three Palestinian families besieged in their homes by Israeli settlers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-13T04:34:46.000Z"
-    },
-    {
-      "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
-      "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-13T03:54:09.000Z"
-    },
-    {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-13T03:28:56.000Z"
+      "publishedAt": "2026-08-13T08:12:53.000Z"
+    },
+    {
+      "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-13T07:58:31.000Z"
+    },
+    {
+      "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+      "link": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-13T07:20:28.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "The latest rally has energized the stock market but left the credit market concerned",
+      "link": "https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-13T09:01:00.000Z"
+    },
+    {
+      "title": "Lenovo profits soar past expectations on AI computers, servers and services",
+      "link": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-13T07:20:00.000Z"
+    },
     {
       "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
       "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
@@ -62,18 +74,6 @@
       "link": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-13T01:16:00.000Z"
-    },
-    {
-      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
-      "link": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T22:34:00.000Z"
-    },
-    {
-      "title": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
-      "link": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-12T22:31:00.000Z"
     },
     {
       "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
