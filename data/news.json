@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-08-14T15:07:20.520Z",
+  "updatedAt": "2026-08-14T20:00:24.494Z",
   "geopolitics": [
+    {
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-14T19:10:18.000Z"
+    },
+    {
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-14T19:05:22.000Z"
+    },
+    {
+      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-14T19:02:49.000Z"
+    },
+    {
+      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+      "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-14T18:55:24.000Z"
+    },
     {
       "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
       "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-14T14:43:30.000Z"
+      "publishedAt": "2026-08-14T18:43:56.000Z"
     },
     {
-      "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
-      "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-14T13:24:54.000Z"
-    },
-    {
-      "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+      "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T13:07:19.000Z"
+      "publishedAt": "2026-08-14T18:43:36.000Z"
     },
     {
-      "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T13:04:23.000Z"
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-14T17:03:17.000Z"
     },
     {
-      "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
-      "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T12:45:11.000Z"
-    },
-    {
-      "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
-      "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-14T12:28:54.000Z"
-    },
-    {
-      "title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
-      "link": "https://www.cnbc.com/2026/08/14/nato-drone-latvia.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-14T12:21:44.000Z"
-    },
-    {
-      "title": "Israeli soldiers prevent aid delivery to besieged Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T12:11:56.000Z"
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-14T17:00:46.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
+      "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-14T19:09:00.000Z"
+    },
+    {
+      "title": "Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-14T18:24:00.000Z"
+    },
+    {
+      "title": "Think interest rates are high now? These charts offers a different perspective.",
+      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-14T17:51:00.000Z"
+    },
     {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
       "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-14T14:53:13.000Z"
-    },
-    {
-      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-14T14:30:00.000Z"
-    },
-    {
-      "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
-      "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-14T13:31:00.000Z"
     },
     {
       "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-13T02:59:50.000Z"
-    },
-    {
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-12T19:15:54.000Z"
     }
   ]
 }
