@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-08-14T20:00:24.494Z",
+  "updatedAt": "2026-08-15T03:02:44.038Z",
   "geopolitics": [
     {
-      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "title": "US President Trump says he will declare Strait of Hormuz US territory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T02:25:09.000Z"
+    },
+    {
+      "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T02:03:22.000Z"
+    },
+    {
+      "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+      "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T00:32:56.000Z"
+    },
+    {
+      "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T00:00:00.000Z"
+    },
+    {
+      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-14T19:10:18.000Z"
+      "publishedAt": "2026-08-14T23:41:50.000Z"
     },
     {
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-14T19:05:22.000Z"
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+      "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+      "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T19:02:49.000Z"
+      "publishedAt": "2026-08-14T23:02:55.000Z"
     },
     {
-      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-      "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T18:55:24.000Z"
+      "publishedAt": "2026-08-14T22:58:58.000Z"
     },
     {
-      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-      "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-14T18:43:56.000Z"
-    },
-    {
-      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-      "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+      "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T18:43:36.000Z"
-    },
-    {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-14T17:03:17.000Z"
-    },
-    {
-      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-14T17:00:46.000Z"
+      "publishedAt": "2026-08-14T22:45:19.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-14T21:34:00.000Z"
+    },
     {
       "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
       "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-13T13:18:36.000Z"
-    },
-    {
-      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-      "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-13T02:59:50.000Z"
     }
   ]
 }
