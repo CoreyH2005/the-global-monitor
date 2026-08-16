@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-08-15T19:00:50.004Z",
+  "updatedAt": "2026-08-16T03:15:49.393Z",
   "geopolitics": [
     {
-      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-15T18:11:12.000Z"
+      "publishedAt": "2026-08-16T02:26:54.000Z"
     },
     {
-      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-      "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-15T17:35:09.000Z"
-    },
-    {
-      "title": "UK PM Burnham reacts to death of former Cambridge professor",
-      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-15T17:19:12.000Z"
+      "publishedAt": "2026-08-16T00:50:12.000Z"
     },
     {
-      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-15T16:39:52.000Z"
+      "publishedAt": "2026-08-16T00:44:59.000Z"
     },
     {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-16T00:00:45.000Z"
+    },
+    {
+      "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+      "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T23:27:10.000Z"
+    },
+    {
+      "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+      "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T23:04:47.000Z"
+    },
+    {
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T22:22:46.000Z"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-15T16:02:49.000Z"
-    },
-    {
-      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-      "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-15T15:50:06.000Z"
-    },
-    {
-      "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-15T15:48:07.000Z"
-    },
-    {
-      "title": "South Korea proposes talks to officially end war with North",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-15T14:40:15.000Z"
+      "publishedAt": "2026-08-15T21:03:57.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Think interest rates are high now? These charts offer a different perspective.",
+      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-15T19:01:00.000Z"
+    },
     {
       "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
       "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-15T18:05:00.000Z"
-    },
-    {
-      "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
-      "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-15T15:07:00.000Z"
     },
     {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
