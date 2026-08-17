@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-08-17T08:07:32.749Z",
+  "updatedAt": "2026-08-17T13:55:58.217Z",
   "geopolitics": [
     {
-      "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
-      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-17T08:06:38.000Z"
-    },
-    {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-17T07:41:24.000Z"
-    },
-    {
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-17T06:24:31.000Z"
-    },
-    {
-      "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
-      "link": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-17T05:18:44.000Z"
-    },
-    {
-      "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T05:16:18.000Z"
-    },
-    {
-      "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T04:58:47.000Z"
-    },
-    {
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-17T04:50:56.000Z"
+      "publishedAt": "2026-08-17T13:50:06.000Z"
     },
     {
-      "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
+      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-17T13:17:15.000Z"
+    },
+    {
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-17T13:16:50.000Z"
+    },
+    {
+      "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+      "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T03:41:30.000Z"
+      "publishedAt": "2026-08-17T13:07:19.000Z"
+    },
+    {
+      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+      "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T12:44:01.000Z"
+    },
+    {
+      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-17T12:34:07.000Z"
+    },
+    {
+      "title": "Trump scales down war games with South Korea: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T12:20:47.000Z"
+    },
+    {
+      "title": "Will Europe hear a landmark Russian climate change case?",
+      "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T12:19:40.000Z"
     }
   ],
   "markets": [
     {
-      "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-      "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+      "title": "The stock market is driving the economy in one major way",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T03:02:00.000Z"
+      "publishedAt": "2026-08-17T13:35:00.000Z"
     },
     {
-      "title": "Here’s the real reason oil prices aren’t moving higher",
-      "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
+      "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-16T13:00:00.000Z"
+      "publishedAt": "2026-08-17T13:30:00.000Z"
     },
     {
-      "title": "Think interest rates are high now? These charts offer a different perspective.",
-      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up",
+      "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-15T19:01:00.000Z"
+      "publishedAt": "2026-08-17T12:08:00.000Z"
+    },
+    {
+      "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
+      "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-17T11:33:00.000Z"
     },
     {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-13T13:18:36.000Z"
-    },
-    {
-      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-      "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-13T02:59:50.000Z"
     }
   ]
 }
