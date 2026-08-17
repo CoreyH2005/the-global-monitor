@@ -1,79 +1,79 @@
 {
-  "updatedAt": "2026-08-17T13:55:58.217Z",
+  "updatedAt": "2026-08-17T19:17:21.318Z",
   "geopolitics": [
     {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-17T13:50:06.000Z"
-    },
-    {
-      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "title": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
       "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-17T13:17:15.000Z"
+      "publishedAt": "2026-08-17T19:12:55.000Z"
     },
     {
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T18:53:06.000Z"
+    },
+    {
+      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T18:46:12.000Z"
+    },
+    {
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-17T13:16:50.000Z"
+      "publishedAt": "2026-08-17T18:45:59.000Z"
     },
     {
-      "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-      "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-17T18:39:39.000Z"
+    },
+    {
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-17T18:00:55.000Z"
+    },
+    {
+      "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T13:07:19.000Z"
+      "publishedAt": "2026-08-17T17:42:02.000Z"
     },
     {
-      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-      "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+      "title": "Britain deploys military as wildfires spread across Europe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T12:44:01.000Z"
-    },
-    {
-      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-17T12:34:07.000Z"
-    },
-    {
-      "title": "Trump scales down war games with South Korea: Why it matters",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T12:20:47.000Z"
-    },
-    {
-      "title": "Will Europe hear a landmark Russian climate change case?",
-      "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T12:19:40.000Z"
+      "publishedAt": "2026-08-17T17:25:37.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The stock market is driving the economy in one major way",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
+      "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T13:35:00.000Z"
+      "publishedAt": "2026-08-17T18:58:00.000Z"
     },
     {
-      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
-      "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
+      "title": "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley",
+      "link": "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T13:30:00.000Z"
+      "publishedAt": "2026-08-17T17:57:00.000Z"
     },
     {
-      "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up",
+      "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
       "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T12:08:00.000Z"
+      "publishedAt": "2026-08-17T16:31:00.000Z"
     },
     {
-      "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
-      "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
+      "title": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
+      "link": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T11:33:00.000Z"
+      "publishedAt": "2026-08-17T16:00:00.000Z"
     },
     {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
