@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-08-18T07:58:00.549Z",
+  "updatedAt": "2026-08-18T14:05:14.326Z",
   "geopolitics": [
     {
-      "title": "Israeli settler children attack ambulance in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+      "title": "Yemeni government escalates attacks against Houthis: What’s next?",
+      "link": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T07:20:35.000Z"
+      "publishedAt": "2026-08-18T13:51:33.000Z"
     },
     {
-      "title": "Russia says more than 600 drones targeted Moscow region",
-      "link": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T06:47:40.000Z"
-    },
-    {
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-18T06:40:00.000Z"
-    },
-    {
-      "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
-      "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T05:44:05.000Z"
-    },
-    {
-      "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T05:23:54.000Z"
-    },
-    {
-      "title": "South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drills",
-      "link": "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-18T05:16:51.000Z"
-    },
-    {
-      "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
+      "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
       "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-18T04:34:22.000Z"
+      "publishedAt": "2026-08-18T13:45:46.000Z"
     },
     {
-      "title": "Hichilema wins second term as president of copper-rich Zambia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+      "title": "Primary election season rolls into Alaska, Florida and Wyoming",
+      "link": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-18T13:34:30.000Z"
+    },
+    {
+      "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T04:07:13.000Z"
+      "publishedAt": "2026-08-18T13:12:56.000Z"
+    },
+    {
+      "title": "Palestinian-American confronts Israeli settler at his besieged home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T13:11:21.000Z"
+    },
+    {
+      "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+      "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T13:06:20.000Z"
+    },
+    {
+      "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T12:47:41.000Z"
+    },
+    {
+      "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+      "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T12:39:43.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
-      "link": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
+      "title": "Why it’s better to buy stocks at record highs than wait for the next crash",
+      "link": "https://www.marketwatch.com/story/why-its-better-to-buy-stocks-at-record-highs-than-wait-for-the-next-crash-2bf5610e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T22:33:00.000Z"
+      "publishedAt": "2026-08-18T13:54:00.000Z"
     },
     {
-      "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
-      "link": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+      "title": "Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.",
+      "link": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T21:22:00.000Z"
+      "publishedAt": "2026-08-18T13:06:00.000Z"
     },
     {
-      "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
-      "link": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+      "title": "Home Depot revenue rises even as customers turn away from bigger projects",
+      "link": "https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T21:15:00.000Z"
+      "publishedAt": "2026-08-18T12:32:00.000Z"
     },
     {
-      "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+      "title": "Fund managers have rarely been this bullish about stocks, Bank of America survey finds",
+      "link": "https://www.marketwatch.com/story/fund-manager-have-rarely-been-this-bullish-about-stocks-says-bank-of-america-survey-dccd304a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-17T20:43:00.000Z"
-    },
-    {
-      "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
-      "link": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-17T20:28:00.000Z"
-    },
-    {
-      "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-17T20:18:00.000Z"
-    },
-    {
-      "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
-      "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-17T19:48:00.000Z"
+      "publishedAt": "2026-08-18T12:07:00.000Z"
     },
     {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
       "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-14T14:53:13.000Z"
+    },
+    {
+      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+      "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-13T20:21:51.000Z"
+    },
+    {
+      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
+      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-13T15:59:16.000Z"
+    },
+    {
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+      "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-13T13:18:36.000Z"
     }
   ]
 }
