@@ -1,67 +1,79 @@
 {
-  "updatedAt": "2026-08-18T19:18:16.952Z",
+  "updatedAt": "2026-08-19T03:13:34.113Z",
   "geopolitics": [
     {
-      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-      "link": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-18T18:54:58.000Z"
-    },
-    {
-      "title": "Israeli strike on Gaza City cafe kills six, including child",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T18:32:24.000Z"
-    },
-    {
-      "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
-      "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-18T18:28:37.000Z"
-    },
-    {
-      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
+      "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
       "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-18T18:05:05.000Z"
+      "publishedAt": "2026-08-19T02:50:31.000Z"
     },
     {
-      "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-      "link": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-19T02:41:36.000Z"
+    },
+    {
+      "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T17:51:46.000Z"
+      "publishedAt": "2026-08-19T02:35:15.000Z"
     },
     {
-      "title": "US announces new sanctions on top ICC figures",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-18T17:40:09.000Z"
+      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-19T01:57:05.000Z"
     },
     {
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-18T17:00:29.000Z"
+      "publishedAt": "2026-08-19T01:31:15.000Z"
     },
     {
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-18T16:22:54.000Z"
+      "title": "US ambassador to Israel calls settler violence ‘terror’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T00:49:10.000Z"
+    },
+    {
+      "title": "Quebec separatist says no independence referendum while Trump in office",
+      "link": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T00:17:01.000Z"
+    },
+    {
+      "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T00:00:00.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The Fed minutes are coming —and they’re more crucial now as Warsh limits his communication",
-      "link": "https://www.marketwatch.com/story/the-fed-minutes-are-coming-and-theyre-more-crucial-now-as-warsh-limits-his-communication-fd780695?mod=mw_rss_topstories",
+      "title": "Trump holds off on new 50% tariffs for Canadian goods",
+      "link": "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-18T18:19:00.000Z"
+      "publishedAt": "2026-08-19T02:42:00.000Z"
     },
     {
-      "title": "Here’s the case for Nvidia’s stock to climb 55%, according to BofA",
-      "link": "https://www.marketwatch.com/story/heres-the-case-for-nvidias-stock-to-climb-55-from-here-according-to-bofa-f5483409?mod=mw_rss_topstories",
+      "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
+      "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-18T17:26:00.000Z"
+      "publishedAt": "2026-08-19T00:00:00.000Z"
+    },
+    {
+      "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+      "link": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-18T21:59:00.000Z"
+    },
+    {
+      "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
+      "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-18T21:08:00.000Z"
     },
     {
       "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
@@ -70,34 +82,22 @@
       "publishedAt": "2026-08-18T16:49:55.000Z"
     },
     {
-      "title": "Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’",
-      "link": "https://www.marketwatch.com/story/wall-street-wants-to-turn-sports-betting-into-etfs-critics-call-it-dangerous-nonsense-a83db946?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T16:48:00.000Z"
-    },
-    {
       "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
       "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-18T16:48:00.000Z"
     },
     {
-      "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
-      "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T16:45:00.000Z"
-    },
-    {
-      "title": "Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.",
-      "link": "https://www.marketwatch.com/story/can-you-get-a-piece-of-state-farms-5-billion-cash-back-dividend-heres-how-to-check-027d1c21?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-18T16:21:00.000Z"
-    },
-    {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
       "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-14T14:53:13.000Z"
+    },
+    {
+      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+      "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-13T20:21:51.000Z"
     }
   ]
 }
