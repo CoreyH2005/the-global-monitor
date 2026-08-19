@@ -1,79 +1,85 @@
 {
-  "updatedAt": "2026-08-19T07:58:01.299Z",
+  "updatedAt": "2026-08-19T14:06:00.350Z",
   "geopolitics": [
     {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-19T07:14:50.000Z"
+      "publishedAt": "2026-08-19T13:53:51.000Z"
     },
     {
-      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
-      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-19T07:08:19.000Z"
-    },
-    {
-      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-      "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-19T07:06:09.000Z"
-    },
-    {
-      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
-      "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+      "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-19T06:27:30.000Z"
+      "publishedAt": "2026-08-19T13:20:08.000Z"
     },
     {
-      "title": "Ukraine’s ousted defence minister calls for elections during war",
-      "link": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "title": "Why aid entering Gaza may not reach those who need it",
+      "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-19T05:59:44.000Z"
+      "publishedAt": "2026-08-19T13:01:39.000Z"
     },
     {
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "title": "War on Iran: Iran allegedly targets the UAE",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T13:01:05.000Z"
+    },
+    {
+      "title": "Palestinian factions explore broad alliance for November elections",
+      "link": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T13:00:43.000Z"
+    },
+    {
+      "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+      "link": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T12:59:57.000Z"
+    },
+    {
+      "title": "US war on Iran puts Cambodian children’s education at risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T12:56:52.000Z"
+    },
+    {
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-19T05:53:53.000Z"
-    },
-    {
-      "title": "Lebanon no longer a safe haven for former Syrian regime officials",
-      "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-19T05:23:03.000Z"
-    },
-    {
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-19T05:04:00.000Z"
+      "publishedAt": "2026-08-19T12:47:53.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Trump holds off on new 50% tariffs for Canadian goods",
-      "link": "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
+      "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
+      "link": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-19T02:42:00.000Z"
+      "publishedAt": "2026-08-19T13:58:00.000Z"
     },
     {
-      "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-      "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+      "title": "The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn",
+      "link": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-19T00:00:00.000Z"
+      "publishedAt": "2026-08-19T13:35:00.000Z"
     },
     {
-      "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
-      "link": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+      "title": "Marvell’s stock surges on news of Google chip deal — and Broadcom’s falls",
+      "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-18T21:59:00.000Z"
+      "publishedAt": "2026-08-19T13:05:00.000Z"
     },
     {
-      "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
-      "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+      "title": "SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback",
+      "link": "https://www.marketwatch.com/story/sk-hynix-suggests-its-stock-is-too-cheap-as-it-embarks-on-29-billion-buyback-c8b35d4f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-18T21:08:00.000Z"
+      "publishedAt": "2026-08-19T12:46:00.000Z"
+    },
+    {
+      "title": "Moderna’s stock doubles on promising cancer-vaccine results",
+      "link": "https://www.marketwatch.com/story/modernas-stock-doubles-on-promising-cancer-vaccine-results-896b1f2c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-19T12:40:00.000Z"
     },
     {
       "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-14T14:53:13.000Z"
-    },
-    {
-      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-      "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-13T20:21:51.000Z"
     }
   ]
 }
