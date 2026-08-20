@@ -1,56 +1,92 @@
 {
-  "updatedAt": "2026-08-20T06:35:11.111Z",
+  "updatedAt": "2026-08-20T12:34:53.946Z",
   "geopolitics": [
     {
-      "title": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
-      "link": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
+      "title": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
+      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-20T05:56:27.000Z"
+      "publishedAt": "2026-08-20T12:28:13.000Z"
     },
     {
-      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
+      "title": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse",
+      "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-20T11:59:29.000Z"
+    },
+    {
+      "title": "Bangladesh’s government under pressure as youth demand jobs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T05:43:01.000Z"
+      "publishedAt": "2026-08-20T11:49:36.000Z"
     },
     {
-      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
-      "link": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-20T05:29:50.000Z"
+      "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+      "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T11:48:18.000Z"
     },
     {
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "title": "Israel is betting on Islamophobia to save its standing in the West",
+      "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T11:44:15.000Z"
+    },
+    {
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-20T11:08:19.000Z"
+    },
+    {
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-20T05:25:23.000Z"
+      "publishedAt": "2026-08-20T11:06:54.000Z"
     },
     {
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-20T05:10:09.000Z"
-    },
-    {
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-20T05:01:24.000Z"
-    },
-    {
-      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+      "title": "How Myanmar’s war drives the Rohingya crisis",
+      "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T04:59:22.000Z"
-    },
-    {
-      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T04:31:10.000Z"
+      "publishedAt": "2026-08-20T11:00:00.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
+      "link": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T12:27:00.000Z"
+    },
+    {
+      "title": "Walmart shares slide as U.S. sales hit by falling drug prices",
+      "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T11:37:00.000Z"
+    },
+    {
+      "title": "Oil prices jump after Trump declares economic war on Iran",
+      "link": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T11:06:00.000Z"
+    },
+    {
+      "title": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
+      "link": "https://www.marketwatch.com/story/amd-is-betting-on-dirt-cheap-ai-chips-but-financing-them-is-a-major-question-mark-986afa99?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "title": "Why Bessent’s Treasury operations have breathed life back into the gold trade",
+      "link": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T10:19:00.000Z"
+    },
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?",
+      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T09:15:00.000Z"
+    },
     {
       "title": "China is defying the global bond yield surge, boosting its diversification appeal",
       "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
@@ -58,46 +94,10 @@
       "publishedAt": "2026-08-20T02:39:14.000Z"
     },
     {
-      "title": "The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful",
-      "link": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T22:02:00.000Z"
-    },
-    {
-      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T21:50:00.000Z"
-    },
-    {
       "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
       "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-19T21:29:38.000Z"
-    },
-    {
-      "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-      "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T21:26:00.000Z"
-    },
-    {
-      "title": "Why the Treasury market’s newfound calm could break down in September",
-      "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-19T21:10:00.000Z"
-    },
-    {
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-19T18:54:50.000Z"
-    },
-    {
-      "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
-      "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-18T16:49:55.000Z"
     }
   ]
 }
