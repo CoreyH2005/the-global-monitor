@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-21T00:56:12.233Z",
+  "updatedAt": "2026-08-21T06:34:58.714Z",
   "geopolitics": [
+    {
+      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+      "link": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-21T04:32:59.000Z"
+    },
+    {
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-21T04:27:13.000Z"
+    },
+    {
+      "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+      "link": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-21T03:59:53.000Z"
+    },
+    {
+      "title": "US sanctions more Cuban companies and officials",
+      "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-21T02:06:28.000Z"
+    },
     {
       "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
@@ -24,30 +48,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-20T23:01:15.000Z"
-    },
-    {
-      "title": "The cost of rebuilding family homes in war-ravaged Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T22:51:51.000Z"
-    },
-    {
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-20T22:43:42.000Z"
-    },
-    {
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-20T22:01:26.000Z"
-    },
-    {
-      "title": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
-      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T21:18:10.000Z"
     }
   ],
   "markets": [
