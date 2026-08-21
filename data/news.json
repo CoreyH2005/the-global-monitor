@@ -1,91 +1,79 @@
 {
-  "updatedAt": "2026-08-20T18:28:59.624Z",
+  "updatedAt": "2026-08-21T00:56:12.233Z",
   "geopolitics": [
     {
-      "title": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
-      "link": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-20T18:20:58.000Z"
-    },
-    {
-      "title": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-      "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-20T18:19:22.000Z"
-    },
-    {
-      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
-      "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T18:13:49.000Z"
+      "publishedAt": "2026-08-21T00:00:00.000Z"
     },
     {
-      "title": "Bangladesh elects ruling party veteran Alamgir as president",
-      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T17:35:34.000Z"
+      "publishedAt": "2026-08-20T23:19:56.000Z"
     },
     {
-      "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-      "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-20T17:19:03.000Z"
-    },
-    {
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-20T17:14:55.000Z"
+      "publishedAt": "2026-08-20T23:16:45.000Z"
     },
     {
-      "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-      "link": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+      "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+      "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T17:02:43.000Z"
+      "publishedAt": "2026-08-20T23:01:15.000Z"
     },
     {
-      "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-      "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+      "title": "The cost of rebuilding family homes in war-ravaged Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T17:00:12.000Z"
+      "publishedAt": "2026-08-20T22:51:51.000Z"
+    },
+    {
+      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-20T22:43:42.000Z"
+    },
+    {
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-20T22:01:26.000Z"
+    },
+    {
+      "title": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
+      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T21:18:10.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T22:00:00.000Z"
+    },
+    {
+      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+      "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-20T21:13:14.000Z"
+    },
+    {
+      "title": "The bond market is going to burst the stock-market bubble",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-20T19:06:00.000Z"
+    },
     {
       "title": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
       "link": "https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-20T18:20:00.000Z"
-    },
-    {
-      "title": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
-      "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T18:09:00.000Z"
-    },
-    {
-      "title": "If rising rates were enough to end a bull market, we’d have entered a bear market long ago",
-      "link": "https://www.marketwatch.com/story/if-rising-rates-were-enough-to-end-a-bull-market-wed-have-entered-a-bear-market-long-ago-0c6790a0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T18:03:00.000Z"
-    },
-    {
-      "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
-      "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T17:44:00.000Z"
-    },
-    {
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T17:30:00.000Z"
-    },
-    {
-      "title": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
-      "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-20T16:48:00.000Z"
     },
     {
       "title": "Bessent says Treasury buyback operation could be more than $4 billion",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-20T02:39:14.000Z"
+    },
+    {
+      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-19T21:29:38.000Z"
+    },
+    {
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-19T18:54:50.000Z"
     }
   ]
 }
