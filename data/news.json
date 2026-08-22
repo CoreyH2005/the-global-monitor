@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-22T00:52:38.633Z",
+  "updatedAt": "2026-08-22T06:28:41.511Z",
   "geopolitics": [
+    {
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-22T05:15:58.000Z"
+    },
+    {
+      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+      "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T03:19:58.000Z"
+    },
+    {
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-22T02:39:10.000Z"
+    },
+    {
+      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T00:59:37.000Z"
+    },
+    {
+      "title": "California lawmaker overcomes pro-Israel spending to win special election",
+      "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T00:38:06.000Z"
+    },
     {
       "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
@@ -18,36 +48,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-21T23:52:28.000Z"
-    },
-    {
-      "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-      "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T23:51:40.000Z"
-    },
-    {
-      "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-      "link": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-21T23:12:26.000Z"
-    },
-    {
-      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
-      "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T22:52:40.000Z"
-    },
-    {
-      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-21T22:35:17.000Z"
-    },
-    {
-      "title": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
-      "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-21T21:31:24.000Z"
     }
   ],
   "markets": [
