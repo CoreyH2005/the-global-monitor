@@ -1,91 +1,73 @@
 {
-  "updatedAt": "2026-08-21T18:27:35.420Z",
+  "updatedAt": "2026-08-22T00:52:38.633Z",
   "geopolitics": [
     {
-      "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
-      "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-21T18:23:43.000Z"
+      "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T00:06:48.000Z"
     },
     {
-      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-      "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-21T18:11:41.000Z"
+      "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T00:00:00.000Z"
+    },
+    {
+      "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+      "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-21T23:52:28.000Z"
+    },
+    {
+      "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
+      "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-21T23:51:40.000Z"
     },
     {
       "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
       "link": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-21T18:03:24.000Z"
+      "publishedAt": "2026-08-21T23:12:26.000Z"
     },
     {
-      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-      "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+      "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T17:29:17.000Z"
-    },
-    {
-      "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-      "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T17:17:55.000Z"
-    },
-    {
-      "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T16:53:57.000Z"
+      "publishedAt": "2026-08-21T22:52:40.000Z"
     },
     {
       "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
       "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-21T16:42:13.000Z"
+      "publishedAt": "2026-08-21T22:35:17.000Z"
     },
     {
-      "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-      "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T16:38:15.000Z"
+      "title": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
+      "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-21T21:31:24.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The Treasury, the Fed and the threat to your money",
-      "link": "https://www.marketwatch.com/story/the-treasury-the-fed-and-the-threat-to-your-money-774442ad?mod=mw_rss_topstories",
+      "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+      "link": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-21T18:15:00.000Z"
+      "publishedAt": "2026-08-21T20:34:00.000Z"
+    },
+    {
+      "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+      "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-21T20:11:00.000Z"
     },
     {
       "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
       "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-21T17:51:10.000Z"
-    },
-    {
-      "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
-      "link": "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-21T17:09:00.000Z"
-    },
-    {
-      "title": "Tesla’s stock jumps as the company gets ready for a robotaxi push",
-      "link": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-21T17:07:00.000Z"
-    },
-    {
-      "title": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it.",
-      "link": "https://www.marketwatch.com/story/the-u-s-and-canada-are-scrambling-to-avoid-new-tariffs-and-seal-a-trade-deal-heres-what-could-be-in-it-f01dd61c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-21T16:38:00.000Z"
-    },
-    {
-      "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst",
-      "link": "https://www.marketwatch.com/story/6-ai-hardware-stocks-to-own-for-the-remainder-of-the-year-according-to-an-analyst-ec0bad4e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-21T16:27:00.000Z"
     },
     {
       "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
@@ -98,6 +80,24 @@
       "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-21T09:08:18.000Z"
+    },
+    {
+      "title": "Bessent says Treasury buyback operation could be more than $4 billion",
+      "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-20T15:35:33.000Z"
+    },
+    {
+      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+      "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-20T02:39:14.000Z"
+    },
+    {
+      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-19T21:29:38.000Z"
     }
   ]
 }
