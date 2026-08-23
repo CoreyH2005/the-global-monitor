@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-08-22T18:19:32.958Z",
+  "updatedAt": "2026-08-23T00:56:53.286Z",
   "geopolitics": [
     {
-      "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
+      "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-22T17:54:52.000Z"
+      "publishedAt": "2026-08-23T00:00:00.000Z"
     },
     {
-      "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
-      "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+      "title": "Iran threatens countries that join US ‘economic D-Day’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-22T17:52:42.000Z"
+      "publishedAt": "2026-08-22T23:56:32.000Z"
     },
     {
-      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-      "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-22T17:33:53.000Z"
+      "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T23:26:15.000Z"
     },
     {
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-22T16:57:19.000Z"
+      "publishedAt": "2026-08-22T21:42:42.000Z"
+    },
+    {
+      "title": "Israeli army and settlers injure several Palestinians across West Bank",
+      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T21:02:29.000Z"
+    },
+    {
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T20:49:17.000Z"
     },
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-22T16:45:02.000Z"
+      "publishedAt": "2026-08-22T20:10:00.000Z"
     },
     {
-      "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-22T16:41:43.000Z"
-    },
-    {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-22T16:20:51.000Z"
-    },
-    {
-      "title": "How is the pro-Israel lobby influencing US elections?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-22T16:17:54.000Z"
+      "publishedAt": "2026-08-22T20:05:52.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+      "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-22T20:31:00.000Z"
+    },
     {
       "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
@@ -62,12 +68,6 @@
       "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-22T13:00:00.000Z"
-    },
-    {
-      "title": "Here’s some surprisingly good news for the stock market this midterm election year",
-      "link": "https://www.marketwatch.com/story/heres-some-surprisingly-good-news-for-the-stock-market-this-midterm-election-year-d492d3a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-22T12:00:00.000Z"
     },
     {
       "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
