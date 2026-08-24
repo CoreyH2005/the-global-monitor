@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-24T00:54:54.773Z",
+  "updatedAt": "2026-08-24T06:42:45.705Z",
   "geopolitics": [
+    {
+      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
+      "link": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-24T04:59:42.000Z"
+    },
+    {
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "link": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-24T04:58:03.000Z"
+    },
+    {
+      "title": "‘We know this movie’: Iran mocks latest US sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-24T04:02:14.000Z"
+    },
+    {
+      "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+      "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-24T03:56:59.000Z"
+    },
+    {
+      "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-24T01:51:40.000Z"
+    },
     {
       "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
@@ -8,54 +38,30 @@
       "publishedAt": "2026-08-24T00:12:21.000Z"
     },
     {
-      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
-      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-23T22:39:41.000Z"
     },
     {
       "title": "Will Donald Trump’s new sanctions against Iran work?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-23T21:34:53.000Z"
-    },
-    {
-      "title": "Is Israel about to split the occupied West Bank in half?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T20:23:01.000Z"
-    },
-    {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-23T20:19:36.000Z"
-    },
-    {
-      "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T19:40:11.000Z"
-    },
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-23T19:11:30.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+      "link": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-24T05:24:43.000Z"
+    },
+    {
       "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
       "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-24T00:35:00.000Z"
+      "publishedAt": "2026-08-24T03:02:00.000Z"
     },
     {
       "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-21T09:08:18.000Z"
-    },
-    {
-      "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-      "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-20T15:35:33.000Z"
     }
   ]
 }
