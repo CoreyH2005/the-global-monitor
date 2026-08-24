@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-08-23T18:19:44.756Z",
+  "updatedAt": "2026-08-24T00:54:54.773Z",
   "geopolitics": [
     {
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-24T00:12:21.000Z"
+    },
+    {
+      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-23T22:39:41.000Z"
+    },
+    {
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-23T21:34:53.000Z"
+    },
+    {
+      "title": "Is Israel about to split the occupied West Bank in half?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-23T20:23:01.000Z"
+    },
+    {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-23T18:17:34.000Z"
+      "publishedAt": "2026-08-23T20:19:36.000Z"
     },
     {
-      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-      "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+      "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T17:53:31.000Z"
+      "publishedAt": "2026-08-23T19:40:11.000Z"
     },
     {
-      "title": "Photos: Ukraine celebrates National Flag Day",
-      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T17:18:25.000Z"
-    },
-    {
-      "title": "Can Nigeria cash in on Iran war?",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T16:07:01.000Z"
-    },
-    {
-      "title": "Gaza families search for children missing after years of war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T15:42:04.000Z"
-    },
-    {
-      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-      "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T15:38:16.000Z"
-    },
-    {
-      "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T15:25:47.000Z"
-    },
-    {
-      "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
-      "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T14:17:18.000Z"
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-23T19:11:30.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+      "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-24T00:35:00.000Z"
+    },
     {
       "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
       "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
@@ -68,12 +74,6 @@
       "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-23T12:00:00.000Z"
-    },
-    {
-      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-      "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-22T20:31:00.000Z"
     },
     {
       "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
