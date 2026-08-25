@@ -1,85 +1,61 @@
 {
-  "updatedAt": "2026-08-25T12:35:24.374Z",
+  "updatedAt": "2026-08-25T18:30:21.640Z",
   "geopolitics": [
     {
-      "title": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
-      "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+      "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-25T12:23:32.000Z"
+      "publishedAt": "2026-08-25T18:21:55.000Z"
     },
     {
-      "title": "China warns it will protect its interests after US widens sanctions against Iran",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-08-25T11:53:36.000Z"
-    },
-    {
-      "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
-      "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+      "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+      "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-25T11:53:03.000Z"
+      "publishedAt": "2026-08-25T18:01:37.000Z"
     },
     {
-      "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-      "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+      "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+      "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-25T11:52:40.000Z"
+      "publishedAt": "2026-08-25T17:39:22.000Z"
     },
     {
-      "title": "How the US sanctions on Iran impact China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
+      "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+      "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-25T11:30:08.000Z"
+      "publishedAt": "2026-08-25T17:31:09.000Z"
     },
     {
-      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-      "link": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+      "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+      "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-25T17:27:01.000Z"
+    },
+    {
+      "title": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
+      "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-25T11:21:09.000Z"
+      "publishedAt": "2026-08-25T16:46:49.000Z"
     },
     {
-      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-      "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
+      "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-25T10:22:00.000Z"
+      "publishedAt": "2026-08-25T16:39:24.000Z"
     },
     {
-      "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
-      "link": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
+      "title": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
+      "link": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-25T10:20:17.000Z"
+      "publishedAt": "2026-08-25T16:15:06.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
-      "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
+      "title": "These growth stocks are still cheap, despite the S&P 500 being near a record high price-to-sales valuation",
+      "link": "https://www.marketwatch.com/story/these-growth-stocks-are-still-cheap-despite-the-s-p-500-being-near-a-record-high-price-to-sales-valuation-03602260?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-25T12:33:00.000Z"
-    },
-    {
-      "title": "Major Alibaba figures make purchases as Chinese giant sells $10 billion of stock",
-      "link": "https://www.marketwatch.com/story/major-alibaba-figures-make-purchases-as-chinese-giant-sells-10-billion-of-stock-879b52ec?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-25T12:22:00.000Z"
-    },
-    {
-      "title": "Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ threat against Iran",
-      "link": "https://www.marketwatch.com/story/oil-prices-decline-as-investors-brush-aside-bessents-economic-d-day-for-iran-f318b614?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-25T12:14:00.000Z"
-    },
-    {
-      "title": "Stick with value stocks until everyone starts talking about them — and they are still under the radar, this Wall Street firm says",
-      "link": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-25T11:43:00.000Z"
-    },
-    {
-      "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.",
-      "link": "https://www.marketwatch.com/story/one-wall-street-measure-of-market-fragility-just-hit-its-highest-possible-level-the-last-time-it-did-volatility-spiked-c5441009?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-25T09:49:00.000Z"
+      "publishedAt": "2026-08-25T16:04:00.000Z"
     },
     {
       "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
@@ -98,6 +74,30 @@
       "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-24T13:35:08.000Z"
+    },
+    {
+      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+      "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-24T13:17:35.000Z"
+    },
+    {
+      "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+      "link": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-24T05:24:43.000Z"
+    },
+    {
+      "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+      "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-21T17:51:10.000Z"
+    },
+    {
+      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+      "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-21T12:43:04.000Z"
     }
   ]
 }
