@@ -1,61 +1,67 @@
 {
-  "updatedAt": "2026-08-26T06:36:52.101Z",
+  "updatedAt": "2026-08-26T12:38:49.662Z",
   "geopolitics": [
     {
-      "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T06:02:13.000Z"
-    },
-    {
-      "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T05:20:17.000Z"
-    },
-    {
-      "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T04:54:38.000Z"
-    },
-    {
-      "title": "Oil falls as the U.S. pivots to economic pressure on Iran",
-      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
+      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-26T04:35:22.000Z"
+      "publishedAt": "2026-08-26T12:26:08.000Z"
     },
     {
-      "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-26T12:17:12.000Z"
+    },
+    {
+      "title": "Iran, Oman agree on temporary Hormuz route: What we know",
+      "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T02:54:12.000Z"
+      "publishedAt": "2026-08-26T12:05:09.000Z"
     },
     {
-      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
-      "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-26T02:34:28.000Z"
-    },
-    {
-      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-26T02:06:21.000Z"
-    },
-    {
-      "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-      "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+      "title": "Why India is sharing missile secrets with its private sector",
+      "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T01:43:50.000Z"
+      "publishedAt": "2026-08-26T11:32:35.000Z"
+    },
+    {
+      "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+      "link": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-26T10:28:52.000Z"
+    },
+    {
+      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-26T10:00:05.000Z"
+    },
+    {
+      "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-26T09:36:08.000Z"
+    },
+    {
+      "title": "The Bulgarian village that fears becoming an Iranian target",
+      "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-26T09:20:33.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+      "title": "Wall Street’s biggest optimist says ‘I wouldn’t jump into the AI trade right now’",
+      "link": "https://www.marketwatch.com/story/wall-streets-biggest-optimist-says-i-wouldnt-jump-into-the-ai-trade-right-now-18110306?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-25T21:01:00.000Z"
+      "publishedAt": "2026-08-26T12:16:00.000Z"
+    },
+    {
+      "title": "Customers are fleeing TurboTax over price, and Intuit’s stock is sliding",
+      "link": "https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-26T09:50:00.000Z"
     },
     {
       "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-21T17:51:10.000Z"
-    },
-    {
-      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-      "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-21T12:43:04.000Z"
     }
   ]
 }
