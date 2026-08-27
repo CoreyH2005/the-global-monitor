@@ -1,61 +1,79 @@
 {
-  "updatedAt": "2026-08-26T19:41:55.506Z",
+  "updatedAt": "2026-08-27T06:40:27.455Z",
   "geopolitics": [
     {
-      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-      "link": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
+      "title": "Palestinian children return to school under threat of Israel demolition",
+      "link": "https://www.aljazeera.com/features/2026/8/27/palestinian-children-return-to-school-under-threat-of-israel-demolition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-27T06:01:17.000Z"
+    },
+    {
+      "title": "Sunken ship sparks fight on Israel’s right over militia’s violent legacy",
+      "link": "https://www.aljazeera.com/news/2026/8/27/sunken-ship-sparks-fight-on-israels-right-over-militias-violent-legacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-27T06:00:18.000Z"
+    },
+    {
+      "title": "Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait'",
+      "link": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-26T19:15:45.000Z"
+      "publishedAt": "2026-08-27T05:29:52.000Z"
     },
     {
-      "title": "Israeli forces install new gate, isolating Palestinian village",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss",
+      "title": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
+      "link": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T19:09:38.000Z"
+      "publishedAt": "2026-08-27T04:25:44.000Z"
     },
     {
-      "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
-      "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "link": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T18:19:14.000Z"
+      "publishedAt": "2026-08-27T02:54:04.000Z"
     },
     {
-      "title": "US imposes sanctions on Palestine Action and other left-wing groups",
-      "link": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
+      "title": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+      "link": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T18:08:50.000Z"
+      "publishedAt": "2026-08-27T02:33:08.000Z"
     },
     {
-      "title": "Trump says Iran war will continue for as long as necessary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
+      "title": "Pro-Israel Democrats picked for top roles on key US House committee",
+      "link": "https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T18:07:37.000Z"
+      "publishedAt": "2026-08-27T01:24:33.000Z"
     },
     {
-      "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-      "link": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-26T18:07:15.000Z"
-    },
-    {
-      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-26T17:54:01.000Z"
-    },
-    {
-      "title": "Iran emphasises self-sufficiency in battle against US economic war",
-      "link": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
+      "title": "Syria’s president makes first Visa payment after sanctions removal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T16:53:20.000Z"
+      "publishedAt": "2026-08-27T01:08:19.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The biggest risk to retirement plans may no longer be a stock market crash or inflation",
-      "link": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-27T05:34:13.000Z"
+    },
+    {
+      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-26T17:32:00.000Z"
+      "publishedAt": "2026-08-27T00:43:00.000Z"
+    },
+    {
+      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-27T00:14:00.000Z"
+    },
+    {
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-26T22:50:00.000Z"
     },
     {
       "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-24T13:35:08.000Z"
-    },
-    {
-      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-      "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-24T13:17:35.000Z"
-    },
-    {
-      "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
-      "link": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-24T05:24:43.000Z"
-    },
-    {
-      "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
-      "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-21T17:51:10.000Z"
     }
   ]
 }
