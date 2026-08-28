@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-08-28T08:30:30.564Z",
+  "updatedAt": "2026-08-28T21:38:45.932Z",
   "geopolitics": [
     {
-      "title": "Trump signs order to rename Lake Ontario as Lake America",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump loses bid to transfer New York hush money case to federal court",
+      "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-08-28T20:56:24.000Z"
+    },
+    {
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-28T08:26:09.000Z"
+      "publishedAt": "2026-08-28T19:45:39.000Z"
     },
     {
-      "title": "Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz",
-      "link": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+      "title": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
+      "link": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-28T19:26:15.000Z"
+    },
+    {
+      "title": "President Donald Trump signs order creating US Space Academy",
+      "link": "https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-order-creating-us-space-academy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-28T19:23:32.000Z"
+    },
+    {
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-28T19:05:23.000Z"
+    },
+    {
+      "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+      "link": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-28T19:03:02.000Z"
+    },
+    {
+      "title": "Deadly Russian strikes hit civilian targets in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-28T18:37:17.000Z"
+    },
+    {
+      "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+      "link": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-28T07:20:34.000Z"
-    },
-    {
-      "title": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
-      "link": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-28T07:07:12.000Z"
-    },
-    {
-      "title": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers",
-      "link": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-28T06:45:10.000Z"
-    },
-    {
-      "title": "Six months on, Iran is still standing, but survival is becoming more costly",
-      "link": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-28T06:35:08.000Z"
-    },
-    {
-      "title": "Six months on, Trump’s Iran strategy is starting to pay off",
-      "link": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-28T06:31:47.000Z"
-    },
-    {
-      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
-      "link": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-28T05:37:45.000Z"
-    },
-    {
-      "title": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
-      "link": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-28T05:02:16.000Z"
+      "publishedAt": "2026-08-28T18:13:13.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
-      "link": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+      "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-28T00:20:00.000Z"
+      "publishedAt": "2026-08-28T21:34:00.000Z"
     },
     {
-      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that’s possible.",
-      "link": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+      "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-27T23:05:00.000Z"
+      "publishedAt": "2026-08-28T20:58:00.000Z"
+    },
+    {
+      "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
+      "link": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-28T20:10:00.000Z"
+    },
+    {
+      "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+      "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-28T16:11:51.000Z"
+    },
+    {
+      "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+      "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-28T15:22:10.000Z"
     },
     {
       "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
       "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
       "source": "CNBC Finance",
-      "publishedAt": "2026-08-27T22:58:01.000Z"
-    },
-    {
-      "title": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
-      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:53:00.000Z"
-    },
-    {
-      "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
-      "link": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:51:00.000Z"
-    },
-    {
-      "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T22:12:00.000Z"
-    },
-    {
-      "title": "20 stocks likely to lose money even if the bull market continues",
-      "link": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-27T20:48:00.000Z"
+      "publishedAt": "2026-08-28T11:39:47.000Z"
     },
     {
       "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
       "link": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-27T17:31:09.000Z"
+    },
+    {
+      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+      "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-27T14:11:29.000Z"
     }
   ]
 }
