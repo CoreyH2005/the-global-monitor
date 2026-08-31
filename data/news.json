@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-08-30T20:22:41.146Z",
+  "updatedAt": "2026-08-31T02:55:48.788Z",
   "geopolitics": [
     {
-      "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
-      "link": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
+      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
+      "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-30T19:40:52.000Z"
+      "publishedAt": "2026-08-31T02:48:30.000Z"
     },
     {
-      "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
+      "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
+      "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T19:33:18.000Z"
+      "publishedAt": "2026-08-31T02:15:35.000Z"
     },
     {
-      "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
+      "title": "US plans to sanction another bank to keep economic pressure on Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T19:06:11.000Z"
+      "publishedAt": "2026-08-31T02:08:46.000Z"
     },
     {
-      "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
-      "link": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+      "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
+      "link": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-30T18:06:41.000Z"
+      "publishedAt": "2026-08-31T00:46:46.000Z"
     },
     {
-      "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
-      "link": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
+      "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T17:22:06.000Z"
+      "publishedAt": "2026-08-31T00:00:00.000Z"
     },
     {
-      "title": "Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’",
-      "link": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T16:57:21.000Z"
-    },
-    {
-      "title": "Rival Libya factions sign deal to hold national elections within two years",
-      "link": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T16:38:01.000Z"
-    },
-    {
-      "title": "Russia says it helped to repel Niger attempted coup",
-      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-30T16:33:17.000Z"
+      "publishedAt": "2026-08-30T23:53:03.000Z"
+    },
+    {
+      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-30T23:08:01.000Z"
+    },
+    {
+      "title": "Israeli strike kills 3-year-old child in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-30T21:02:45.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-31T02:20:00.000Z"
+    },
     {
       "title": "These charts show how leverage-happy investors are transforming the stock market",
       "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-08-27T05:34:13.000Z"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-26T13:35:50.000Z"
     }
   ]
 }
