@@ -1,67 +1,79 @@
 {
-  "updatedAt": "2026-08-31T02:55:48.788Z",
+  "updatedAt": "2026-08-31T12:24:29.120Z",
   "geopolitics": [
     {
-      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
+      "title": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
       "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-08-31T02:48:30.000Z"
+      "publishedAt": "2026-08-31T11:52:58.000Z"
     },
     {
-      "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
-      "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss",
+      "title": "UAE intercepts drone after US and Iran exchange attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T02:15:35.000Z"
+      "publishedAt": "2026-08-31T11:25:43.000Z"
     },
     {
-      "title": "US plans to sanction another bank to keep economic pressure on Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+      "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-08-31T10:54:01.000Z"
+    },
+    {
+      "title": "Spain’s Sanchez says Russia, Israel spread disinformation on Ceuta crisis",
+      "link": "https://www.aljazeera.com/news/2026/8/31/spains-sanchez-condemns-russia-israel-disinformation-during-ceuta-crisis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T02:08:46.000Z"
+      "publishedAt": "2026-08-31T09:56:34.000Z"
     },
     {
-      "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-      "link": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-31T00:46:46.000Z"
-    },
-    {
-      "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "title": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T00:00:00.000Z"
+      "publishedAt": "2026-08-31T09:19:40.000Z"
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "title": "Kazakhstan’s Tokayev appoints longtime adviser as vice president",
+      "link": "https://www.aljazeera.com/news/2026/8/31/kazakhstans-president-taps-longtime-adviser-for-vice-president-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-31T09:07:15.000Z"
+    },
+    {
+      "title": "Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?",
+      "link": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-31T08:47:03.000Z"
+    },
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-30T23:53:03.000Z"
-    },
-    {
-      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
-      "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T23:08:01.000Z"
-    },
-    {
-      "title": "Israeli strike kills 3-year-old child in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-30T21:02:45.000Z"
+      "publishedAt": "2026-08-31T08:34:25.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+      "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-31T12:21:00.000Z"
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
+      "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-08-31T11:28:03.000Z"
+    },
+    {
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-08-31T10:18:59.000Z"
+    },
+    {
       "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
       "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-08-31T02:20:00.000Z"
-    },
-    {
-      "title": "These charts show how leverage-happy investors are transforming the stock market",
-      "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-30T13:00:00.000Z"
+      "publishedAt": "2026-08-31T03:03:00.000Z"
     },
     {
       "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-08-27T17:31:09.000Z"
-    },
-    {
-      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-      "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-27T14:11:29.000Z"
-    },
-    {
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-27T05:34:13.000Z"
     }
   ]
 }
