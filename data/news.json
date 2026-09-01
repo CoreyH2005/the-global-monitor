@@ -1,61 +1,91 @@
 {
-  "updatedAt": "2026-09-01T10:56:06.144Z",
+  "updatedAt": "2026-09-01T15:55:07.778Z",
   "geopolitics": [
-    {
-      "title": "Zambia's president sworn in for second term while opponent detained",
-      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-01T10:51:23.000Z"
-    },
-    {
-      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-01T10:40:55.000Z"
-    },
-    {
-      "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
-      "link": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T10:27:40.000Z"
-    },
-    {
-      "title": "India rejects court order to uphold decades-old water-sharing treaty with Pakistan",
-      "link": "https://www.cnbc.com/2026/09/01/india-hague-ruling-pakistan-water-treaty.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-01T09:56:26.000Z"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least four, including children",
-      "link": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T09:48:07.000Z"
-    },
     {
       "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
       "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-01T09:40:28.000Z"
+      "publishedAt": "2026-09-01T15:51:49.000Z"
     },
     {
-      "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-      "link": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T08:57:48.000Z"
+      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-01T15:51:40.000Z"
     },
     {
-      "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-      "link": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
+      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+      "link": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-01T15:50:47.000Z"
+    },
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-01T15:50:46.000Z"
+    },
+    {
+      "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T08:14:07.000Z"
+      "publishedAt": "2026-09-01T15:29:48.000Z"
+    },
+    {
+      "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
+      "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-01T15:19:46.000Z"
+    },
+    {
+      "title": "U.S. House aims to avoid government shutdown amid GOP hard-liner resistance",
+      "link": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-01T14:56:44.000Z"
+    },
+    {
+      "title": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinian-farmers-inspect-olive-trees-bulldozed-by-israeli-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-01T14:55:56.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Are rising bond rates really so bad? Maybe not, say these experts",
+      "title": "There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor",
+      "link": "https://www.marketwatch.com/story/theres-a-disconnect-between-ai-valuations-and-revenue-growth-forecasts-observes-this-investor-1350d9f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-01T14:52:00.000Z"
+    },
+    {
+      "title": "Are rising bond rates really so bad? Maybe not, say these experts.",
       "link": "https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-01T10:53:00.000Z"
+      "publishedAt": "2026-09-01T14:42:00.000Z"
+    },
+    {
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-01T14:01:27.000Z"
+    },
+    {
+      "title": "Global oil prices surge above $92 a barrel after report of strikes on two tankers in the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-01T13:56:00.000Z"
+    },
+    {
+      "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get a piece of the market",
+      "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-01T13:30:00.000Z"
+    },
+    {
+      "title": "As U.S. bond prices tumble, yields are jumping globally — from Japan to the U.K. and beyond",
+      "link": "https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-01T13:05:00.000Z"
     },
     {
       "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
@@ -64,40 +94,10 @@
       "publishedAt": "2026-09-01T10:50:27.000Z"
     },
     {
-      "title": "Suddenly Wall Street is getting a bit nervous. Here are two ways to prepare for potential turbulence.",
-      "link": "https://www.marketwatch.com/story/suddenly-wall-street-is-getting-a-bit-nervous-here-are-two-ways-to-prepare-for-potential-turbulence-a5c0e430?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-01T10:49:00.000Z"
-    },
-    {
-      "title": "Global oil prices extend move over $90 after report of two tankers struck in Hormuz",
-      "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-01T09:55:00.000Z"
-    },
-    {
-      "title": "From the U.K. to Japan, bond yields are jumping as U.S. bonds tumble",
-      "link": "https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-01T09:20:00.000Z"
-    },
-    {
       "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
       "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-01T07:30:49.000Z"
-    },
-    {
-      "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-      "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-31T22:24:00.000Z"
-    },
-    {
-      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
-      "link": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-31T19:38:38.000Z"
     }
   ]
 }
