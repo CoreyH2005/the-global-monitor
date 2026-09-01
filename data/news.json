@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-08-31T22:16:32.753Z",
+  "updatedAt": "2026-09-01T03:03:43.928Z",
   "geopolitics": [
+    {
+      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+      "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-01T02:23:03.000Z"
+    },
+    {
+      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+      "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-01T02:05:20.000Z"
+    },
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "link": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-01T01:56:53.000Z"
+    },
+    {
+      "title": "Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-01T01:51:28.000Z"
+    },
+    {
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-08-31T21:38:42.000Z"
+      "publishedAt": "2026-08-31T22:38:24.000Z"
     },
     {
-      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-      "link": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-31T21:23:41.000Z"
-    },
-    {
-      "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
-      "link": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-31T21:22:08.000Z"
-    },
-    {
-      "title": "Putin and Xi affirm strategic alliance amid ‘unpredictable’ world",
-      "link": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+      "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
+      "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T21:14:47.000Z"
+      "publishedAt": "2026-08-31T22:08:37.000Z"
     },
     {
-      "title": "Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says",
-      "link": "https://www.cnbc.com/2026/08/31/trump-account-holders-to-start-receiving-250-dell-grant-spokesperson.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-31T21:10:05.000Z"
-    },
-    {
-      "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-      "link": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-08-31T20:50:01.000Z"
-    },
-    {
-      "title": "Israeli outposts expand as Palestinian homes are demolished",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
+      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+      "link": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T20:48:36.000Z"
-    },
-    {
-      "title": "Lebanon asks Greece to help enforce agreement with Israel",
-      "link": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T20:24:41.000Z"
+      "publishedAt": "2026-08-31T21:24:15.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
+      "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-31T22:24:00.000Z"
+    },
     {
       "title": "The S&P 500 usually falls in September. Why this year should be different.",
       "link": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
@@ -86,12 +92,6 @@
       "link": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-08-31T20:55:00.000Z"
-    },
-    {
-      "title": "How to profit from September stock-market weakness",
-      "link": "https://www.marketwatch.com/story/how-to-profit-from-september-stock-market-weakness-34f69ef4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-31T20:50:00.000Z"
     },
     {
       "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
