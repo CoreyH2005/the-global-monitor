@@ -1,73 +1,91 @@
 {
-  "updatedAt": "2026-09-02T10:23:21.483Z",
+  "updatedAt": "2026-09-02T15:47:46.605Z",
   "geopolitics": [
     {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-02T10:00:08.000Z"
-    },
-    {
-      "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations",
-      "link": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
+      "title": "Trump to meet with travel industry CEOs as White House touts World Cup tourism boost",
+      "link": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-02T09:56:26.000Z"
+      "publishedAt": "2026-09-02T15:16:25.000Z"
     },
     {
-      "title": "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup",
-      "link": "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-02T09:30:09.000Z"
-    },
-    {
-      "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
-      "link": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+      "title": "Nepal PM links deadly floods to climate change",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T08:55:20.000Z"
+      "publishedAt": "2026-09-02T15:11:19.000Z"
+    },
+    {
+      "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
+      "link": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T14:55:16.000Z"
+    },
+    {
+      "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T14:45:26.000Z"
     },
     {
       "title": "Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes",
       "link": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-02T08:51:33.000Z"
+      "publishedAt": "2026-09-02T14:44:38.000Z"
     },
     {
-      "title": "U.S. crude tops $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain",
-      "link": "https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-02T08:50:20.000Z"
-    },
-    {
-      "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
-      "link": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T08:27:35.000Z"
-    },
-    {
-      "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-      "link": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-02T07:48:39.000Z"
+      "publishedAt": "2026-09-02T14:34:22.000Z"
+    },
+    {
+      "title": "Bank of Canada mulls Trump tariff shock as it holds interest rates",
+      "link": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-02T14:15:58.000Z"
+    },
+    {
+      "title": "How Trumpism is changing the world",
+      "link": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T14:15:17.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Dell shares rise as demand jumps for AI servers — here’s what Wall Street analysts are saying happens next",
-      "link": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories",
+      "title": "Fed’s Williams ‘is opening options’ to interest-rate hikes. Why that could be ‘a bad trade.’",
+      "link": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-02T09:03:00.000Z"
+      "publishedAt": "2026-09-02T15:38:00.000Z"
     },
     {
-      "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-      "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "title": "Chevron stock on track for record high as oil giant outlines $7 billion plan to expand in Venezuela",
+      "link": "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-02T00:19:00.000Z"
+      "publishedAt": "2026-09-02T15:16:00.000Z"
     },
     {
-      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
+      "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-02T00:18:00.000Z"
+      "publishedAt": "2026-09-02T14:58:00.000Z"
+    },
+    {
+      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+      "link": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-02T14:30:10.000Z"
+    },
+    {
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-02T13:45:54.000Z"
+    },
+    {
+      "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+      "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-02T11:09:15.000Z"
     },
     {
       "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-01T14:01:27.000Z"
-    },
-    {
-      "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
-      "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-01T10:50:27.000Z"
-    },
-    {
-      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
-      "link": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-08-31T19:38:38.000Z"
-    },
-    {
-      "title": "Bank of England chief warns new AI models threaten global financial stability",
-      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-08-31T13:35:11.000Z"
     }
   ]
 }
