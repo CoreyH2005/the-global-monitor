@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-01T20:23:16.823Z",
+  "updatedAt": "2026-09-02T02:23:58.491Z",
   "geopolitics": [
-    {
-      "title": "Guinea-Bissau referendum nods to expansion of presidential powers",
-      "link": "https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T19:59:30.000Z"
-    },
-    {
-      "title": "US launches more strikes on Iran as state media reports explosions",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-01T19:50:05.000Z"
-    },
-    {
-      "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
-      "link": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T19:33:22.000Z"
-    },
-    {
-      "title": "Hakainde Hichilema returns as Zambia’s president following disputed vote",
-      "link": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T19:18:29.000Z"
-    },
     {
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-01T19:13:03.000Z"
+      "publishedAt": "2026-09-02T01:59:54.000Z"
     },
     {
-      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
-      "link": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+      "title": "Brent rises more than 2% following tit-for-tat strikes by the U.S. and Iran",
+      "link": "https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-01T18:54:51.000Z"
+      "publishedAt": "2026-09-02T01:53:25.000Z"
     },
     {
-      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-      "link": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-01T18:52:11.000Z"
-    },
-    {
-      "title": "Belgian mayor blocks club from hosting Israeli opponent in Europa League",
-      "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss",
+      "title": "What to know about Germany’s drone attack accusations against Russia",
+      "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T18:35:29.000Z"
+      "publishedAt": "2026-09-02T01:40:01.000Z"
+    },
+    {
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+      "link": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-02T01:34:27.000Z"
+    },
+    {
+      "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T01:06:19.000Z"
+    },
+    {
+      "title": "US pushes looser approach to AI regulation, while EU pushes new law",
+      "link": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T01:05:28.000Z"
+    },
+    {
+      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-01T23:52:21.000Z"
     }
   ],
   "markets": [
@@ -55,31 +55,37 @@
       "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
       "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-01T20:16:00.000Z"
+      "publishedAt": "2026-09-02T00:19:00.000Z"
+    },
+    {
+      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-02T00:18:00.000Z"
+    },
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-02T00:11:14.000Z"
+    },
+    {
+      "title": "Dow drops below a key chart level, warning of more trouble ahead",
+      "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-01T21:56:00.000Z"
+    },
+    {
+      "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
+      "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-01T20:36:00.000Z"
     },
     {
       "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
       "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-01T20:13:00.000Z"
-    },
-    {
-      "title": "Broadcom earnings need to answer these questions for the stock to rally again",
-      "link": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-01T18:54:00.000Z"
-    },
-    {
-      "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
-      "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-01T18:36:00.000Z"
-    },
-    {
-      "title": "Buy these stocks to ride the next big AI wave — connectivity, analyst says",
-      "link": "https://www.marketwatch.com/story/buy-these-stocks-to-ride-the-next-big-ai-wave-connectivity-analyst-says-196241b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-01T17:47:00.000Z"
     },
     {
       "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-01T10:50:27.000Z"
-    },
-    {
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-01T07:30:49.000Z"
     }
   ]
 }
