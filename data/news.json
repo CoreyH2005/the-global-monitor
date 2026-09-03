@@ -1,79 +1,91 @@
 {
-  "updatedAt": "2026-09-03T15:37:06.991Z",
+  "updatedAt": "2026-09-03T20:22:55.015Z",
   "geopolitics": [
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-03T15:35:47.000Z"
-    },
-    {
-      "title": "Iranian drone damages residential building in Kuwait City",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
+      "title": "Serbia welcomes return of war criminal Mladic’s body with military honours",
+      "link": "https://www.aljazeera.com/news/2026/9/3/serbia-welcomes-return-of-war-criminal-mladics-body-with-military-honours?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T14:47:52.000Z"
+      "publishedAt": "2026-09-03T19:27:34.000Z"
     },
     {
-      "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-      "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+      "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
+      "link": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-03T14:32:47.000Z"
+      "publishedAt": "2026-09-03T19:18:59.000Z"
     },
     {
-      "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
-      "link": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T13:54:02.000Z"
-    },
-    {
-      "title": "Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?",
-      "link": "https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T13:49:02.000Z"
-    },
-    {
-      "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait",
+      "title": "Oil prices little changed after Iran fires missiles at Kuwait",
       "link": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-03T13:40:13.000Z"
+      "publishedAt": "2026-09-03T19:14:06.000Z"
     },
     {
-      "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
-      "link": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss",
+      "title": "Advocates decry US House vote to defund universities that boycott Israel",
+      "link": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T13:30:28.000Z"
+      "publishedAt": "2026-09-03T19:14:05.000Z"
     },
     {
-      "title": "Victims sue South African government over 1960 Sharpeville massacre",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/victims-sue-south-african-governed-over-1960-sharpeville-massacre?traffic_source=rss",
+      "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+      "link": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T13:07:13.000Z"
+      "publishedAt": "2026-09-03T18:45:37.000Z"
+    },
+    {
+      "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
+      "link": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T18:13:55.000Z"
+    },
+    {
+      "title": "Gaza farmers restore seed bank to preserve local crops",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T17:50:48.000Z"
+    },
+    {
+      "title": "Spain’s PM says no evidence Morocco planned Ceuta border rush",
+      "link": "https://www.aljazeera.com/news/2026/9/3/spains-pm-says-no-evidence-morocco-planned-ceuta-border-rush?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T17:32:26.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "title": "An old stock-market adage applies this month — how you should play it in 2026",
+      "link": "https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-03T15:20:00.000Z"
+      "publishedAt": "2026-09-03T19:55:00.000Z"
     },
     {
-      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
-      "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+      "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-03T19:38:09.000Z"
+    },
+    {
+      "title": "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-on-fed-chair-kevin-warsh-to-keep-a-manic-bond-market-from-unraveling-03bbd093?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-03T14:57:00.000Z"
+      "publishedAt": "2026-09-03T19:09:00.000Z"
+    },
+    {
+      "title": "Is the stock market open on Labor Day? Does the post office deliver mail?",
+      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-03T18:30:00.000Z"
+    },
+    {
+      "title": "New doubts emerge about whether Fed will raise interest rates this month",
+      "link": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-03T18:24:00.000Z"
     },
     {
       "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
       "link": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-03T14:06:52.000Z"
-    },
-    {
-      "title": "As Broadcom’s stock falls, Wall Street focuses on the company’s forecast",
-      "link": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-03T13:46:00.000Z"
     },
     {
       "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-02T17:21:59.000Z"
-    },
-    {
-      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
-      "link": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-02T14:30:10.000Z"
-    },
-    {
-      "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
-      "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-02T11:09:15.000Z"
     }
   ]
 }
