@@ -1,85 +1,79 @@
 {
-  "updatedAt": "2026-09-03T20:22:55.015Z",
+  "updatedAt": "2026-09-04T02:29:52.021Z",
   "geopolitics": [
     {
-      "title": "Serbia welcomes return of war criminal Mladic’s body with military honours",
-      "link": "https://www.aljazeera.com/news/2026/9/3/serbia-welcomes-return-of-war-criminal-mladics-body-with-military-honours?traffic_source=rss",
+      "title": "US continues to squeeze Cuban economy with new round of sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T19:27:34.000Z"
+      "publishedAt": "2026-09-04T01:45:56.000Z"
     },
     {
-      "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
-      "link": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+      "title": "Haitian government calls for renewal of international anti-gang task force",
+      "link": "https://www.aljazeera.com/news/2026/9/4/haitian-government-calls-for-renewal-of-international-anti-gang-task-force?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T00:41:28.000Z"
+    },
+    {
+      "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "title": "Are Trump’s AI videos just memes or psychological warfare?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T23:36:20.000Z"
+    },
+    {
+      "title": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
+      "link": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-03T19:18:59.000Z"
+      "publishedAt": "2026-09-03T23:21:28.000Z"
     },
     {
-      "title": "Oil prices little changed after Iran fires missiles at Kuwait",
-      "link": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+      "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+      "link": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T21:40:42.000Z"
+    },
+    {
+      "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+      "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T21:07:56.000Z"
+    },
+    {
+      "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+      "link": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-03T19:14:06.000Z"
-    },
-    {
-      "title": "Advocates decry US House vote to defund universities that boycott Israel",
-      "link": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T19:14:05.000Z"
-    },
-    {
-      "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
-      "link": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T18:45:37.000Z"
-    },
-    {
-      "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
-      "link": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T18:13:55.000Z"
-    },
-    {
-      "title": "Gaza farmers restore seed bank to preserve local crops",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T17:50:48.000Z"
-    },
-    {
-      "title": "Spain’s PM says no evidence Morocco planned Ceuta border rush",
-      "link": "https://www.aljazeera.com/news/2026/9/3/spains-pm-says-no-evidence-morocco-planned-ceuta-border-rush?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T17:32:26.000Z"
+      "publishedAt": "2026-09-03T21:00:21.000Z"
     }
   ],
   "markets": [
     {
-      "title": "An old stock-market adage applies this month — how you should play it in 2026",
-      "link": "https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories",
+      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-03T19:55:00.000Z"
+      "publishedAt": "2026-09-04T00:35:00.000Z"
+    },
+    {
+      "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+      "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-04T00:25:00.000Z"
+    },
+    {
+      "title": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
+      "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-03T21:49:00.000Z"
     },
     {
       "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
       "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-03T19:38:09.000Z"
-    },
-    {
-      "title": "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling",
-      "link": "https://www.marketwatch.com/story/wall-street-is-betting-on-fed-chair-kevin-warsh-to-keep-a-manic-bond-market-from-unraveling-03bbd093?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-03T19:09:00.000Z"
-    },
-    {
-      "title": "Is the stock market open on Labor Day? Does the post office deliver mail?",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-03T18:30:00.000Z"
-    },
-    {
-      "title": "New doubts emerge about whether Fed will raise interest rates this month",
-      "link": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-03T18:24:00.000Z"
     },
     {
       "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-02T17:21:59.000Z"
+    },
+    {
+      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+      "link": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-02T14:30:10.000Z"
     }
   ]
 }
