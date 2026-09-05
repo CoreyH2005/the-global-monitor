@@ -1,79 +1,67 @@
 {
-  "updatedAt": "2026-09-05T09:48:28.753Z",
+  "updatedAt": "2026-09-05T14:23:13.776Z",
   "geopolitics": [
     {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "title": "Why has the Trump administration ordered staff to take polygraph tests?",
+      "link": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T13:54:33.000Z"
+    },
+    {
+      "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+      "link": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T13:07:36.000Z"
+    },
+    {
+      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+      "link": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T12:54:15.000Z"
+    },
+    {
+      "title": "Yemen government launches own air attacks on Houthis: What that means",
+      "link": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T12:43:38.000Z"
+    },
+    {
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-05T09:12:48.000Z"
+      "publishedAt": "2026-09-05T12:23:00.000Z"
     },
     {
-      "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
-      "link": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T09:11:58.000Z"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-05T08:41:38.000Z"
-    },
-    {
-      "title": "Pentagon polygraphs dozens of US military staff over media leaks: Report",
-      "link": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T08:37:34.000Z"
-    },
-    {
-      "title": "Niger accuses France of orchestrating failed military mutiny",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T07:42:59.000Z"
-    },
-    {
-      "title": "Bolivian military barracks explosion kills at least 10",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T06:11:05.000Z"
-    },
-    {
-      "title": "US imposes sanctions on Turkish bank, prompting legal threat",
-      "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T05:19:05.000Z"
-    },
-    {
-      "title": "From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland",
-      "link": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
+      "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+      "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-05T05:00:01.000Z"
+      "publishedAt": "2026-09-05T12:14:38.000Z"
+    },
+    {
+      "title": "Costa Rica’s president says US ground forces would boost national security",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T12:09:56.000Z"
+    },
+    {
+      "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
+      "link": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T12:04:52.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get a piece of the market",
+      "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-05T13:35:00.000Z"
+    },
     {
       "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
       "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-04T21:46:00.000Z"
-    },
-    {
-      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
-      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-04T20:18:00.000Z"
-    },
-    {
-      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
-      "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-04T20:12:00.000Z"
-    },
-    {
-      "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
-      "link": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-04T19:59:00.000Z"
     },
     {
       "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-03T01:11:41.000Z"
+    },
+    {
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-02T17:21:59.000Z"
+    },
+    {
+      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+      "link": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-02T14:30:10.000Z"
     }
   ]
 }
