@@ -1,67 +1,79 @@
 {
-  "updatedAt": "2026-09-04T20:08:43.205Z",
+  "updatedAt": "2026-09-05T02:27:39.462Z",
   "geopolitics": [
     {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-04T20:03:52.000Z"
-    },
-    {
-      "title": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
-      "link": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-04T19:57:35.000Z"
-    },
-    {
-      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
-      "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
+      "title": "EU official Marta Kos cancels Serbia trip over planned Mladic tribute",
+      "link": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-04T19:48:25.000Z"
+      "publishedAt": "2026-09-05T00:19:17.000Z"
     },
     {
-      "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-      "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-04T19:48:08.000Z"
-    },
-    {
-      "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
-      "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+      "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-04T18:52:28.000Z"
+      "publishedAt": "2026-09-05T00:00:00.000Z"
     },
     {
-      "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-      "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-04T18:08:16.000Z"
+      "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T23:55:50.000Z"
+    },
+    {
+      "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+      "link": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T21:58:47.000Z"
+    },
+    {
+      "title": "Costa Rican president signals openness to domestic US military operations",
+      "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T21:45:56.000Z"
+    },
+    {
+      "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+      "link": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T21:19:05.000Z"
+    },
+    {
+      "title": "Will Europe pay the US to provide military aid to Ukraine?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T20:52:55.000Z"
     },
     {
       "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
       "link": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-04T17:34:08.000Z"
-    },
-    {
-      "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
-      "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-04T17:29:20.000Z"
+      "publishedAt": "2026-09-04T20:39:54.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-04T21:46:00.000Z"
+    },
+    {
+      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-04T20:18:00.000Z"
+    },
+    {
+      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+      "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-04T20:12:00.000Z"
+    },
     {
       "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
       "link": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-04T19:59:00.000Z"
-    },
-    {
-      "title": "Trump’s latest threat — to stop trading with some countries unless there’s a rate cut — risks shock to U.S. economy",
-      "link": "https://www.marketwatch.com/story/trumps-threat-to-stop-trade-unless-theres-a-rate-cut-risks-shock-to-u-s-economy-2e6b9798?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-04T18:59:00.000Z"
     },
     {
       "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-03T01:11:41.000Z"
-    },
-    {
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-02T17:21:59.000Z"
-    },
-    {
-      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
-      "link": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-02T14:30:10.000Z"
     }
   ]
 }
