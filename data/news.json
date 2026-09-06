@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-09-06T10:04:42.799Z",
+  "updatedAt": "2026-09-06T14:45:16.529Z",
   "geopolitics": [
     {
-      "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
-      "link": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
+      "title": "How significant are the Yemeni government’s military gains against Houthis?",
+      "link": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T09:40:06.000Z"
+      "publishedAt": "2026-09-06T13:41:25.000Z"
     },
     {
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T09:15:20.000Z"
-    },
-    {
-      "title": "Israel bombards several towns in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T08:44:03.000Z"
-    },
-    {
-      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T06:52:23.000Z"
-    },
-    {
-      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
-      "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T05:02:17.000Z"
-    },
-    {
-      "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T04:59:28.000Z"
-    },
-    {
-      "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
-      "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T02:56:31.000Z"
-    },
-    {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-06T02:24:16.000Z"
+      "publishedAt": "2026-09-06T13:16:21.000Z"
+    },
+    {
+      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+      "link": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T13:15:46.000Z"
+    },
+    {
+      "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T13:13:36.000Z"
+    },
+    {
+      "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
+      "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-06T12:02:47.000Z"
+    },
+    {
+      "title": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+      "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T11:13:50.000Z"
+    },
+    {
+      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T10:49:22.000Z"
+    },
+    {
+      "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+      "link": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T10:42:14.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+      "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-06T13:19:01.000Z"
+    },
+    {
+      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+      "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-06T13:00:00.000Z"
+    },
     {
       "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
       "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
@@ -62,12 +74,6 @@
       "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-05T18:09:00.000Z"
-    },
-    {
-      "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
-      "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-05T16:34:00.000Z"
     },
     {
       "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-03T01:11:41.000Z"
-    },
-    {
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-02T17:21:59.000Z"
     }
   ]
 }
