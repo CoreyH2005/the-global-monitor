@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-09-08T15:49:05.008Z",
+  "updatedAt": "2026-09-08T20:34:27.107Z",
   "geopolitics": [
     {
-      "title": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
-      "link": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-08T15:47:26.000Z"
-    },
-    {
-      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T15:36:34.000Z"
-    },
-    {
-      "title": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+      "title": "Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships",
       "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-08T15:30:21.000Z"
+      "publishedAt": "2026-09-08T20:28:09.000Z"
     },
     {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+      "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-08T20:17:07.000Z"
+    },
+    {
+      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+      "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-08T20:15:28.000Z"
+    },
+    {
+      "title": "What’s happening in the Yemen war?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-hosted-yemen-explainer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-08T20:13:23.000Z"
+    },
+    {
+      "title": "New Hampshire goes to the polls in primary for key open Senate seat",
+      "link": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-08T19:25:59.000Z"
+    },
+    {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-08T15:19:40.000Z"
+      "publishedAt": "2026-09-08T19:11:39.000Z"
     },
     {
-      "title": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss",
+      "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+      "link": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T15:12:42.000Z"
+      "publishedAt": "2026-09-08T18:31:30.000Z"
     },
     {
-      "title": "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
-      "link": "https://www.aljazeera.com/news/2026/9/8/eu-condemns-serbias-ministers-for-attending-funeral-of-war-criminal-mladic?traffic_source=rss",
+      "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T15:01:36.000Z"
-    },
-    {
-      "title": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T15:00:20.000Z"
-    },
-    {
-      "title": "UK bans goods from Israeli West Bank settlements: What that really means",
-      "link": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T14:52:00.000Z"
+      "publishedAt": "2026-09-08T18:18:17.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
-      "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
+      "link": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T15:44:00.000Z"
-    },
-    {
-      "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
-      "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T15:20:00.000Z"
-    },
-    {
-      "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
-      "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T14:53:00.000Z"
+      "publishedAt": "2026-09-08T20:28:00.000Z"
     },
     {
       "title": "Novartis’s failed trial for cholesterol drug leads to broad biopharma stock selloff",
       "link": "https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T14:37:00.000Z"
+      "publishedAt": "2026-09-08T20:23:00.000Z"
     },
     {
-      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
-      "link": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-08T14:15:38.000Z"
+      "title": "A contrarian case for stock-market gains through the midterm election",
+      "link": "https://www.marketwatch.com/story/a-contrarian-case-for-further-stock-market-gains-through-the-midterm-election-6f1bf8a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T20:23:00.000Z"
+    },
+    {
+      "title": "Stocks are stumbling after Labor Day. This year’s easy gains may be over.",
+      "link": "https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T18:58:00.000Z"
+    },
+    {
+      "title": "Why a stronger Japanese currency could spell trouble for AI and technology stocks",
+      "link": "https://www.marketwatch.com/story/why-a-stronger-japanese-currency-could-spell-trouble-for-ai-and-technology-stocks-6441f782?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T18:33:00.000Z"
+    },
+    {
+      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
+      "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T18:16:00.000Z"
     },
     {
       "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
       "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T14:10:00.000Z"
+      "publishedAt": "2026-09-08T17:39:00.000Z"
     },
     {
-      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
       "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-09-08T08:21:33.000Z"
-    },
-    {
-      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-      "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-07T23:23:10.000Z"
+      "publishedAt": "2026-09-08T17:11:11.000Z"
     }
   ]
 }
