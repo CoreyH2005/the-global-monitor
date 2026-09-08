@@ -1,85 +1,91 @@
 {
-  "updatedAt": "2026-09-08T02:33:33.701Z",
+  "updatedAt": "2026-09-08T10:25:13.508Z",
   "geopolitics": [
     {
-      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
-      "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+      "title": "How South Korea finds itself trapped in the US-Iran war",
+      "link": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-08T10:00:52.000Z"
+    },
+    {
+      "title": "UK to announce trade ban on goods from illegal Israeli settlements",
+      "link": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-08T09:31:28.000Z"
+    },
+    {
+      "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-08T08:42:42.000Z"
+    },
+    {
+      "title": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities",
+      "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-08T02:05:30.000Z"
+      "publishedAt": "2026-09-08T08:23:17.000Z"
     },
     {
-      "title": "EU pledges more than $200m to Greenland amid Trump threats",
-      "link": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
+      "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+      "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T01:52:45.000Z"
+      "publishedAt": "2026-09-08T08:15:29.000Z"
     },
     {
-      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
-      "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+      "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T01:50:37.000Z"
+      "publishedAt": "2026-09-08T07:40:56.000Z"
     },
     {
-      "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
-      "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+      "title": "Global shipping authorities warn of maritime trade breakdown amid geopolitical turmoil",
+      "link": "https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-08T01:50:07.000Z"
+      "publishedAt": "2026-09-08T07:28:41.000Z"
     },
     {
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T01:07:47.000Z"
-    },
-    {
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T00:48:43.000Z"
-    },
-    {
-      "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+      "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-      "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-07T23:50:53.000Z"
+      "publishedAt": "2026-09-08T05:34:30.000Z"
     }
   ],
   "markets": [
     {
+      "title": "U.S. stocks usually stumble after Fed hikes, but these markets tend to climb, says Citi",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-usually-stumble-after-fed-hikes-but-these-markets-tend-to-climb-says-citi-f031ca37?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T09:12:00.000Z"
+    },
+    {
+      "title": "Goldman Sachs flips on oil-price forecasts and says $120 Brent could be next.",
+      "link": "https://www.marketwatch.com/story/goldman-sachs-reverses-engines-on-oil-price-forecasts-and-raises-the-specter-of-120-per-barrel-crude-d8da110c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T09:02:00.000Z"
+    },
+    {
+      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+      "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-08T08:21:33.000Z"
+    },
+    {
+      "title": "Why the Dow is being dragged down by a Swiss company’s bad news",
+      "link": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-08T08:15:00.000Z"
+    },
+    {
       "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
       "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-08T00:23:00.000Z"
+      "publishedAt": "2026-09-08T03:09:00.000Z"
     },
     {
       "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
       "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-07T23:23:10.000Z"
-    },
-    {
-      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
-      "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-07T16:00:00.000Z"
-    },
-    {
-      "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
-      "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-07T11:36:00.000Z"
-    },
-    {
-      "title": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-07T11:16:00.000Z"
     },
     {
       "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-06T13:19:01.000Z"
-    },
-    {
-      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-      "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-05T19:12:53.000Z"
     }
   ]
 }
