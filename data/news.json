@@ -1,56 +1,92 @@
 {
-  "updatedAt": "2026-09-09T02:34:51.820Z",
+  "updatedAt": "2026-09-09T10:35:27.398Z",
   "geopolitics": [
     {
-      "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T02:06:02.000Z"
-    },
-    {
-      "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
-      "link": "https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-09T01:52:10.000Z"
-    },
-    {
-      "title": "‘Energiser’ or ‘circus’: US voters weigh in on Trump’s midterm convention",
-      "link": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T01:50:35.000Z"
-    },
-    {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T01:45:15.000Z"
-    },
-    {
-      "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
+      "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
       "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-09T01:36:49.000Z"
+      "publishedAt": "2026-09-09T10:35:02.000Z"
     },
     {
-      "title": "Jordanian air defences intercept Iranian missile barrage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
+      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+      "link": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T01:08:15.000Z"
+      "publishedAt": "2026-09-09T10:09:06.000Z"
     },
     {
-      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
-      "link": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-09T00:52:55.000Z"
+      "title": "The war in the Gulf will have to end in compromise",
+      "link": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-09T10:09:04.000Z"
     },
     {
-      "title": "Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries",
-      "link": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
+      "link": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-09T00:33:31.000Z"
+      "publishedAt": "2026-09-09T10:00:01.000Z"
+    },
+    {
+      "title": "Which countries banned goods from settlements but trade with Israel?",
+      "link": "https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-09T09:52:50.000Z"
+    },
+    {
+      "title": "Israeli parties submit slates for October Knesset elections",
+      "link": "https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-09T09:51:01.000Z"
+    },
+    {
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T09:47:39.000Z"
+    },
+    {
+      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-09T09:21:28.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "GameStop now generates more revenue from collectibles than video games",
+      "link": "https://www.marketwatch.com/story/gamestop-now-generates-more-revenue-from-collectibles-than-video-games-9f3451f4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-09T10:06:00.000Z"
+    },
+    {
+      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-09T09:21:28.000Z"
+    },
+    {
+      "title": "Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.",
+      "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-09T08:31:00.000Z"
+    },
+    {
+      "title": "Brent crude passes $100 threshold as war in Iran intensifies",
+      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-09T08:27:00.000Z"
+    },
+    {
+      "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
+      "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-09T07:42:00.000Z"
+    },
+    {
+      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+      "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-09T06:26:59.000Z"
+    },
     {
       "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
       "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
@@ -58,46 +94,10 @@
       "publishedAt": "2026-09-09T00:17:00.000Z"
     },
     {
-      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
-      "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T22:50:00.000Z"
-    },
-    {
-      "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
-      "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T21:51:00.000Z"
-    },
-    {
-      "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
-      "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T21:38:00.000Z"
-    },
-    {
-      "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
-      "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T21:32:00.000Z"
-    },
-    {
-      "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
-      "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-08T21:30:00.000Z"
-    },
-    {
       "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
       "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-08T17:11:11.000Z"
-    },
-    {
-      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
-      "link": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-08T14:15:38.000Z"
     }
   ]
 }
