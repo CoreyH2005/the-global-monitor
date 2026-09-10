@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-09-10T10:23:27.940Z",
+  "updatedAt": "2026-09-10T15:40:07.040Z",
   "geopolitics": [
     {
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T10:07:19.000Z"
-    },
-    {
-      "title": "Qatar beat Iran in men’s basketball as Asian Games begin in Japan",
-      "link": "https://www.aljazeera.com/sports/2026/9/10/qatar-beat-iran-in-mens-basketball-as-asian-games-begin-in-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T10:06:58.000Z"
-    },
-    {
-      "title": "Israeli checkpoints in the West Bank are choking the Palestinian economy",
-      "link": "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T09:48:03.000Z"
-    },
-    {
-      "title": "Benjamin Netanyahu has overseen a genocide: In his telling, he’s a victim",
-      "link": "https://www.aljazeera.com/news/2026/9/10/benjamin-netanyahu-has-overseen-a-genocide-in-his-telling-hes-a-victim?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T09:38:58.000Z"
-    },
-    {
-      "title": "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval",
-      "link": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+      "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-10T09:25:34.000Z"
+      "publishedAt": "2026-09-10T15:39:03.000Z"
     },
     {
-      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
+      "title": "Houthis capture Yemeni town of Mocha: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T09:05:39.000Z"
+      "publishedAt": "2026-09-10T14:53:11.000Z"
+    },
+    {
+      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+      "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-10T14:52:50.000Z"
+    },
+    {
+      "title": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-outside-israeli-embassy-in-bangkok-over-badly-behaved-tourists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-10T14:42:38.000Z"
+    },
+    {
+      "title": "Who is Trump trying to exclude from 2030 US census and why does it matter?",
+      "link": "https://www.aljazeera.com/news/2026/9/10/who-is-trump-trying-to-exclude-from-2030-us-census-and-why-does-it-matter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-10T14:37:27.000Z"
+    },
+    {
+      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+      "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-10T14:33:00.000Z"
     },
     {
       "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
       "link": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-10T09:03:53.000Z"
+      "publishedAt": "2026-09-10T14:20:15.000Z"
     },
     {
-      "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
-      "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-10T08:39:10.000Z"
+      "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+      "link": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-10T14:16:42.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
-      "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+      "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
+      "link": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-10T09:27:00.000Z"
+      "publishedAt": "2026-09-10T15:34:00.000Z"
     },
     {
-      "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
-      "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+      "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
+      "link": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-10T08:47:00.000Z"
+      "publishedAt": "2026-09-10T15:25:00.000Z"
     },
     {
-      "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
-      "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+      "title": "Meta is winning over Wall Street with its new Muse AI agent",
+      "link": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-10T07:29:00.000Z"
+      "publishedAt": "2026-09-10T15:23:00.000Z"
     },
     {
-      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
-      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-10T03:00:00.000Z"
+      "publishedAt": "2026-09-10T15:21:00.000Z"
     },
     {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
+      "link": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T15:13:00.000Z"
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-09-09T16:17:46.000Z"
+      "publishedAt": "2026-09-10T14:51:36.000Z"
     },
     {
-      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-      "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
       "source": "CNBC Finance",
-      "publishedAt": "2026-09-09T06:26:59.000Z"
+      "publishedAt": "2026-09-10T14:00:11.000Z"
     },
     {
-      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
-      "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "title": "Wholesale prices rose 0.4% in August, as expected",
+      "link": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-09-08T17:11:11.000Z"
-    },
-    {
-      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
-      "link": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-08T14:15:38.000Z"
+      "publishedAt": "2026-09-10T13:23:45.000Z"
     }
   ]
 }
