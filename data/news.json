@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-09-11T02:30:04.234Z",
+  "updatedAt": "2026-09-11T10:25:11.567Z",
   "geopolitics": [
     {
-      "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
-      "link": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
+      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+      "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-11T01:55:53.000Z"
+      "publishedAt": "2026-09-11T10:03:44.000Z"
+    },
+    {
+      "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+      "link": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-11T09:11:42.000Z"
+    },
+    {
+      "title": "What did 25 years of the “war on terror” leave behind?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-11T08:20:32.000Z"
+    },
+    {
+      "title": "How 9/11 helped Israel sell its war on Palestinians to America",
+      "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-11T08:18:18.000Z"
     },
     {
       "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
       "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-11T01:43:57.000Z"
+      "publishedAt": "2026-09-11T08:13:05.000Z"
     },
     {
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-      "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-11T01:07:44.000Z"
-    },
-    {
-      "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+      "title": "BRICS summit: Is the bloc truly challenging a Western-dominated world?",
+      "link": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T00:24:24.000Z"
+      "publishedAt": "2026-09-11T07:42:24.000Z"
     },
     {
-      "title": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
-      "link": "https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss",
+      "title": "Settlers, soldiers, and Israeli impunity in the West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T00:23:58.000Z"
+      "publishedAt": "2026-09-11T07:36:43.000Z"
     },
     {
-      "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-      "link": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T00:14:59.000Z"
-    },
-    {
-      "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-      "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T23:46:07.000Z"
+      "title": "Has Trump won over voters with his midterm convention?",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-11T06:16:54.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "U.S. oil price dips below $100 while diesel passes $6, marking fresh record",
+      "link": "https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T10:12:00.000Z"
+    },
+    {
+      "title": "Oracle shares are climbing after results. What Wall Street analysts are saying now.",
+      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T10:05:00.000Z"
+    },
     {
       "title": "Adobe’s latest earnings leave Wall Street wanting more",
       "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
@@ -62,12 +74,6 @@
       "link": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-10T22:02:00.000Z"
-    },
-    {
-      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
-      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T20:24:00.000Z"
     },
     {
       "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-10T14:00:11.000Z"
-    },
-    {
-      "title": "Wholesale prices rose 0.4% in August, as expected",
-      "link": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-10T13:23:45.000Z"
     }
   ]
 }
