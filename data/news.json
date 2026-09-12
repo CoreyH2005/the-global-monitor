@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-09-12T09:54:48.944Z",
+  "updatedAt": "2026-09-12T14:48:59.759Z",
   "geopolitics": [
     {
-      "title": "Trump meeting Irish leader Micheál Martin during visit",
+      "title": "Trump says a unified Ireland would be ‘fantastic’ during Irish visit",
+      "link": "https://www.aljazeera.com/news/2026/9/12/trump-says-a-unified-ireland-would-be-fantastic-during-irish-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T14:20:28.000Z"
+    },
+    {
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
       "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-12T09:52:19.000Z"
+      "publishedAt": "2026-09-12T13:56:20.000Z"
     },
     {
-      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-      "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+      "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+      "link": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T08:49:01.000Z"
+      "publishedAt": "2026-09-12T13:45:00.000Z"
     },
     {
-      "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
-      "link": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T08:47:19.000Z"
+      "title": "Trump's America-first world is pushing other powers to hedge their bets",
+      "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-12T13:24:33.000Z"
     },
     {
       "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
       "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-12T08:44:39.000Z"
+      "publishedAt": "2026-09-12T13:15:04.000Z"
     },
     {
-      "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-      "link": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+      "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "link": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T08:42:28.000Z"
+      "publishedAt": "2026-09-12T13:06:05.000Z"
     },
     {
-      "title": "Russia strikes cargo vessels, steel plants across Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T08:38:48.000Z"
+      "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
+      "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-12T13:02:15.000Z"
     },
     {
-      "title": "Trump may be BRICS’s best recruitment agent",
-      "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
+      "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T07:44:06.000Z"
-    },
-    {
-      "title": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
-      "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T07:40:50.000Z"
+      "publishedAt": "2026-09-12T12:19:56.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+      "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-12T12:49:15.000Z"
+    },
     {
       "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
       "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
@@ -68,12 +74,6 @@
       "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-11T20:44:00.000Z"
-    },
-    {
-      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
-      "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T20:30:00.000Z"
     },
     {
       "title": "Consumer outlook plunges in September as inflation outlook worsens",
