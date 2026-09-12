@@ -1,11 +1,41 @@
 {
-  "updatedAt": "2026-09-11T20:19:16.438Z",
+  "updatedAt": "2026-09-12T02:38:46.440Z",
   "geopolitics": [
+    {
+      "title": "How Canadians are bracing for the impact of Trump’s trade war",
+      "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T00:52:00.000Z"
+    },
+    {
+      "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T00:04:23.000Z"
+    },
+    {
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "link": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-11T22:57:51.000Z"
+    },
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-11T20:11:47.000Z"
+      "publishedAt": "2026-09-11T22:17:45.000Z"
+    },
+    {
+      "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
+      "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-11T21:53:34.000Z"
     },
     {
       "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
@@ -18,62 +48,32 @@
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-09-11T19:44:58.000Z"
-    },
-    {
-      "title": "Houthi advance in Yemen is about more than just the Red Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T19:01:07.000Z"
-    },
-    {
-      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-      "link": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T18:33:36.000Z"
-    },
-    {
-      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-      "link": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-11T17:40:46.000Z"
-    },
-    {
-      "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-      "link": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T17:16:00.000Z"
-    },
-    {
-      "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
-      "link": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-11T17:00:48.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The Houthis have opened a new front in the Middle East oil war that’s pushing up prices",
-      "link": "https://www.marketwatch.com/story/the-houthis-have-created-a-new-front-in-the-middle-east-oil-war-thats-pushing-up-prices-816a224a?mod=mw_rss_topstories",
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-11T19:58:00.000Z"
+      "publishedAt": "2026-09-11T23:54:00.000Z"
+    },
+    {
+      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-11T20:45:00.000Z"
     },
     {
       "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
       "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-11T19:30:00.000Z"
+      "publishedAt": "2026-09-11T20:44:00.000Z"
     },
     {
-      "title": "Oracle shook off fears about AI spending, but its stock still turns south",
-      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-11T19:21:00.000Z"
-    },
-    {
-      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-11T18:09:00.000Z"
+      "publishedAt": "2026-09-11T20:30:00.000Z"
     },
     {
       "title": "Consumer outlook plunges in September as inflation outlook worsens",
