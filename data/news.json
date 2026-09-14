@@ -1,61 +1,73 @@
 {
-  "updatedAt": "2026-09-14T02:52:45.781Z",
+  "updatedAt": "2026-09-14T11:28:34.139Z",
   "geopolitics": [
     {
-      "title": "Niger mutiny exposes growing reliance on Russia",
-      "link": "https://www.aljazeera.com/news/2026/9/14/niger-mutiny-exposes-growing-reliance-on-russia?traffic_source=rss",
+      "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T02:02:27.000Z"
+      "publishedAt": "2026-09-14T10:58:07.000Z"
     },
     {
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
-      "link": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
+      "title": "Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill",
+      "link": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-14T10:30:01.000Z"
+    },
+    {
+      "title": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies",
+      "link": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-14T10:07:29.000Z"
+    },
+    {
+      "title": "Why the election could make Washington's looming next fiscal crisis harder",
+      "link": "https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-14T10:00:01.000Z"
+    },
+    {
+      "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T01:59:01.000Z"
+      "publishedAt": "2026-09-14T09:21:56.000Z"
+    },
+    {
+      "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+      "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-14T09:11:59.000Z"
     },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-14T01:58:59.000Z"
+      "publishedAt": "2026-09-14T08:36:09.000Z"
     },
     {
-      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
-      "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-14T01:05:56.000Z"
-    },
-    {
-      "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+      "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
+      "link": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T00:14:09.000Z"
-    },
-    {
-      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "title": "Israeli quadcopter terrorises homes in Gaza City",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T23:33:23.000Z"
-    },
-    {
-      "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-      "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T23:31:56.000Z"
+      "publishedAt": "2026-09-14T05:56:36.000Z"
     }
   ],
   "markets": [
     {
+      "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-14T11:15:00.000Z"
+    },
+    {
       "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
       "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-13T19:00:00.000Z"
+      "publishedAt": "2026-09-14T10:35:00.000Z"
+    },
+    {
+      "title": "Here’s the big caveat to the report that Anthropic is profitable for a second straight quarter",
+      "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-14T09:04:00.000Z"
     },
     {
       "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-10T19:18:05.000Z"
-    },
-    {
-      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-10T16:55:17.000Z"
-    },
-    {
-      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-      "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-10T14:00:11.000Z"
     }
   ]
 }
