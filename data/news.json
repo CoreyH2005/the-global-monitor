@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-13T20:07:15.991Z",
+  "updatedAt": "2026-09-14T02:52:45.781Z",
   "geopolitics": [
     {
-      "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
+      "title": "Niger mutiny exposes growing reliance on Russia",
+      "link": "https://www.aljazeera.com/news/2026/9/14/niger-mutiny-exposes-growing-reliance-on-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T19:41:01.000Z"
+      "publishedAt": "2026-09-14T02:02:27.000Z"
     },
     {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
+      "link": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-14T01:59:01.000Z"
+    },
+    {
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-13T19:34:36.000Z"
+      "publishedAt": "2026-09-14T01:58:59.000Z"
     },
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-13T19:14:21.000Z"
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-14T01:05:56.000Z"
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-13T18:49:37.000Z"
-    },
-    {
-      "title": "​Bangsamoro’s parliamentary election is a turning point",
-      "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+      "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T18:39:28.000Z"
+      "publishedAt": "2026-09-14T00:14:09.000Z"
     },
     {
-      "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
-      "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T18:15:12.000Z"
+      "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
+      "title": "Israeli quadcopter terrorises homes in Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T16:11:43.000Z"
+      "publishedAt": "2026-09-13T23:33:23.000Z"
     },
     {
-      "title": "Kosovo approves new government after months of political deadlock",
-      "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss",
+      "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+      "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T16:11:41.000Z"
+      "publishedAt": "2026-09-13T23:31:56.000Z"
     }
   ],
   "markets": [
@@ -56,18 +56,6 @@
       "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-13T19:00:00.000Z"
-    },
-    {
-      "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
-      "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T14:00:00.000Z"
-    },
-    {
-      "title": "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
-      "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-13T13:00:00.000Z"
     },
     {
       "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-10T19:18:05.000Z"
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-10T16:55:17.000Z"
+    },
+    {
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-10T14:00:11.000Z"
     }
   ]
 }
