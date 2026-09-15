@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-09-14T21:17:23.910Z",
+  "updatedAt": "2026-09-15T02:55:19.952Z",
   "geopolitics": [
     {
-      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
-      "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-14T21:15:56.000Z"
-    },
-    {
-      "title": "What could stop the Houthis’ advance across Yemen?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
+      "title": "Trump administration suffers double legal setback over immigration rules",
+      "link": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T20:55:57.000Z"
+      "publishedAt": "2026-09-15T02:31:18.000Z"
     },
     {
-      "title": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
-      "link": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
+      "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
+      "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-14T20:54:48.000Z"
+      "publishedAt": "2026-09-15T01:55:53.000Z"
     },
     {
       "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
       "link": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-14T20:48:26.000Z"
+      "publishedAt": "2026-09-15T01:32:26.000Z"
     },
     {
-      "title": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
-      "link": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
+      "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-15T01:23:53.000Z"
+    },
+    {
+      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
+      "link": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-14T20:45:52.000Z"
+      "publishedAt": "2026-09-15T00:48:36.000Z"
     },
     {
-      "title": "Inside the Houthis’ expanding war economy in Yemen",
-      "link": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
+      "title": "Russia resupplies military bases in Syria for first time under new deal",
+      "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T20:41:47.000Z"
+      "publishedAt": "2026-09-15T00:43:47.000Z"
     },
     {
-      "title": "Austria denies entry to Iranian official after UN ruling",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
+      "title": "Sweden election is too close to call as far right loses ground",
+      "link": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T20:41:21.000Z"
+      "publishedAt": "2026-09-15T00:06:34.000Z"
     },
     {
-      "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
-      "link": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
+      "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-14T20:20:20.000Z"
+      "publishedAt": "2026-09-15T00:00:00.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-14T23:19:00.000Z"
+    },
+    {
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-14T21:31:00.000Z"
+    },
     {
       "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
       "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-14T20:34:23.000Z"
-    },
-    {
-      "title": "Saudi Arabia may be just days away from not being able to export much oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-14T20:05:00.000Z"
-    },
-    {
-      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-      "link": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-14T19:47:42.000Z"
     }
   ]
 }
