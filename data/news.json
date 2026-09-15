@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-09-15T16:02:14.885Z",
+  "updatedAt": "2026-09-15T20:44:55.110Z",
   "geopolitics": [
     {
-      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-      "link": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
+      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
+      "link": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-15T15:37:17.000Z"
+      "publishedAt": "2026-09-15T20:40:27.000Z"
     },
     {
-      "title": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
-      "link": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T20:34:12.000Z"
+    },
+    {
+      "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+      "link": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-15T15:33:11.000Z"
+      "publishedAt": "2026-09-15T20:16:31.000Z"
     },
     {
-      "title": "Who is Robert Kraft, pro-Israel billionaire who cancelled Macklemore?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/who-is-robert-kraft-pro-israel-billionaire-who-cancelled-macklemore?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T15:27:25.000Z"
+      "title": "Trump Account contributions have a Dec. 31 deadline — and employers can complicate the math",
+      "link": "https://www.cnbc.com/2026/09/15/trump-accounts-employer-benefits.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-15T20:10:47.000Z"
     },
     {
-      "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
-      "link": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T15:25:39.000Z"
+      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+      "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-15T20:08:00.000Z"
     },
     {
-      "title": "Russia warns Denmark after near miss in Baltic Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T14:51:22.000Z"
+      "publishedAt": "2026-09-15T19:59:00.000Z"
     },
     {
-      "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
+      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
+      "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T14:49:42.000Z"
+      "publishedAt": "2026-09-15T19:26:55.000Z"
     },
     {
-      "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
-      "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T14:33:29.000Z"
-    },
-    {
-      "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T14:28:31.000Z"
+      "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
+      "link": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-15T19:04:46.000Z"
     }
   ],
   "markets": [
     {
-      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
-      "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
+      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-15T15:16:00.000Z"
+      "publishedAt": "2026-09-15T20:31:00.000Z"
     },
     {
-      "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
-      "link": "https://www.marketwatch.com/story/inflation-is-sinking-your-high-yield-savings-accounts-returns-heres-one-way-to-fight-it-6aa798e9?mod=mw_rss_topstories",
+      "title": "Dow clinches its worst September start since 2008 as history repeats itself",
+      "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-15T14:32:00.000Z"
+      "publishedAt": "2026-09-15T20:20:00.000Z"
     },
     {
-      "title": "Why one Wall Street firm thinks this year’s stock-market rally is running out of road",
-      "link": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
+      "title": "The Fed’s expected interest-rate hike on Wednesday could be the start of something more troubling for investors",
+      "link": "https://www.marketwatch.com/story/a-fed-rate-hike-isnt-the-only-thing-investors-should-be-watching-for-on-wednesday-3157d12d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-15T14:14:00.000Z"
+      "publishedAt": "2026-09-15T19:50:00.000Z"
+    },
+    {
+      "title": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
+      "link": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T17:59:00.000Z"
+    },
+    {
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T17:18:00.000Z"
     },
     {
       "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-14T19:47:42.000Z"
-    },
-    {
-      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-      "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-12T12:49:15.000Z"
-    },
-    {
-      "title": "Consumer outlook plunges in September as inflation outlook worsens",
-      "link": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-11T16:53:23.000Z"
     }
   ]
 }
