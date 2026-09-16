@@ -1,56 +1,92 @@
 {
-  "updatedAt": "2026-09-15T20:44:55.110Z",
+  "updatedAt": "2026-09-16T02:50:51.859Z",
   "geopolitics": [
     {
-      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
-      "link": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "link": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-15T20:40:27.000Z"
+      "publishedAt": "2026-09-16T01:53:52.000Z"
     },
     {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T20:34:12.000Z"
-    },
-    {
-      "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
-      "link": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-15T20:16:31.000Z"
-    },
-    {
-      "title": "Trump Account contributions have a Dec. 31 deadline — and employers can complicate the math",
-      "link": "https://www.cnbc.com/2026/09/15/trump-accounts-employer-benefits.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-15T20:10:47.000Z"
-    },
-    {
-      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
-      "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-15T20:08:00.000Z"
-    },
-    {
-      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
-      "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+      "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+      "link": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T19:59:00.000Z"
+      "publishedAt": "2026-09-16T01:42:37.000Z"
     },
     {
-      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-      "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
+      "title": "Israel started an anti-Qatar campaign, then scrapped it",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T19:26:55.000Z"
+      "publishedAt": "2026-09-16T01:41:40.000Z"
     },
     {
-      "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
-      "link": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-15T19:04:46.000Z"
+      "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T01:35:14.000Z"
+    },
+    {
+      "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+      "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T01:09:54.000Z"
+    },
+    {
+      "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T00:42:33.000Z"
+    },
+    {
+      "title": "Iran war increasing inflation, straining US munitions: congressional report",
+      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T00:38:12.000Z"
+    },
+    {
+      "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T00:00:00.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T23:09:00.000Z"
+    },
+    {
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T21:40:00.000Z"
+    },
+    {
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T21:34:00.000Z"
+    },
+    {
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T21:15:00.000Z"
+    },
+    {
+      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T21:00:00.000Z"
+    },
+    {
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-15T20:47:00.000Z"
+    },
     {
       "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
       "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
@@ -58,46 +94,10 @@
       "publishedAt": "2026-09-15T20:31:00.000Z"
     },
     {
-      "title": "Dow clinches its worst September start since 2008 as history repeats itself",
-      "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-15T20:20:00.000Z"
-    },
-    {
-      "title": "The Fed’s expected interest-rate hike on Wednesday could be the start of something more troubling for investors",
-      "link": "https://www.marketwatch.com/story/a-fed-rate-hike-isnt-the-only-thing-investors-should-be-watching-for-on-wednesday-3157d12d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-15T19:50:00.000Z"
-    },
-    {
-      "title": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
-      "link": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-15T17:59:00.000Z"
-    },
-    {
-      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-15T17:18:00.000Z"
-    },
-    {
       "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
       "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-14T20:49:03.000Z"
-    },
-    {
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-14T20:34:23.000Z"
-    },
-    {
-      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-      "link": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-14T19:47:42.000Z"
     }
   ]
 }
