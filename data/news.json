@@ -1,79 +1,85 @@
 {
-  "updatedAt": "2026-09-16T10:39:35.080Z",
+  "updatedAt": "2026-09-16T15:55:38.160Z",
   "geopolitics": [
     {
-      "title": "EU chief opens door for Canada to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+      "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-16T15:38:40.000Z"
+    },
+    {
+      "title": "Senate is still a tossup, but Democrats now have slight edge, prediction market traders think",
+      "link": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-16T15:34:59.000Z"
+    },
+    {
+      "title": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T15:23:51.000Z"
+    },
+    {
+      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T15:00:20.000Z"
+    },
+    {
+      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T14:53:51.000Z"
+    },
+    {
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-16T10:28:45.000Z"
+      "publishedAt": "2026-09-16T14:50:26.000Z"
     },
     {
       "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
       "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-16T09:56:51.000Z"
+      "publishedAt": "2026-09-16T14:43:09.000Z"
     },
     {
-      "title": "Former Kosovo President Hashim Thaci convicted of war crimes",
-      "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-convicted-of-war-crimes?traffic_source=rss",
+      "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-16T09:46:24.000Z"
-    },
-    {
-      "title": "At least 20 killed after war-damaged Gaza building collapses",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T09:45:19.000Z"
-    },
-    {
-      "title": "At least five killed in Russian drone strike near Ukraine front line",
-      "link": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-16T09:32:52.000Z"
-    },
-    {
-      "title": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-16T09:19:50.000Z"
-    },
-    {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T08:36:17.000Z"
-    },
-    {
-      "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
-      "link": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-16T08:00:27.000Z"
+      "publishedAt": "2026-09-16T14:31:14.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T14:01:00.000Z"
+    },
+    {
+      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
+      "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T13:33:00.000Z"
+    },
+    {
+      "title": "What history says about longer-term bond yields after an initial Fed hike",
+      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-16T13:30:00.000Z"
+    },
+    {
       "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
       "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-16T10:30:00.000Z"
+      "publishedAt": "2026-09-16T13:03:00.000Z"
     },
     {
-      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
-      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-16T10:29:00.000Z"
-    },
-    {
-      "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
-      "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-16T09:34:00.000Z"
-    },
-    {
-      "title": "What history says about longer-term bond yields after the first Fed hike",
-      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-16T09:11:00.000Z"
+      "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "link": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-16T12:02:18.000Z"
     },
     {
       "title": "UK inflation jumps to 3.1% as energy costs soar",
@@ -82,22 +88,16 @@
       "publishedAt": "2026-09-16T07:18:23.000Z"
     },
     {
-      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-15T23:09:00.000Z"
-    },
-    {
-      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-15T21:40:00.000Z"
-    },
-    {
       "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
       "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-14T20:49:03.000Z"
+    },
+    {
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-14T20:34:23.000Z"
     }
   ]
 }
