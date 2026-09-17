@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-09-17T16:02:14.977Z",
+  "updatedAt": "2026-09-17T20:50:18.719Z",
   "geopolitics": [
     {
-      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-17T20:34:30.000Z"
+    },
+    {
+      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
+      "link": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-17T20:32:07.000Z"
+    },
+    {
+      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
       "link": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-17T16:01:18.000Z"
+      "publishedAt": "2026-09-17T20:22:20.000Z"
     },
     {
-      "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
-      "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
+      "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+      "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-17T15:10:12.000Z"
+      "publishedAt": "2026-09-17T19:54:46.000Z"
     },
     {
-      "title": "What are all the sanctions Iran is under?",
-      "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
+      "title": "Houthi leader denies targeting Mecca, vows to protect holy city",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/houthi-leader-denies-targeting-mecca-vows-to-protect-holy-city?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-17T15:01:27.000Z"
+      "publishedAt": "2026-09-17T19:31:03.000Z"
     },
     {
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
-      "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-17T14:28:39.000Z"
-    },
-    {
-      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
+      "title": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace",
+      "link": "https://www.aljazeera.com/news/2026/9/17/russia-sabotaging-power-supply-lines-at-zaporizhzhia-plant-greenpeace?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-17T14:10:41.000Z"
+      "publishedAt": "2026-09-17T19:30:12.000Z"
     },
     {
-      "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-17T13:46:14.000Z"
-    },
-    {
-      "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
-      "link": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
+      "title": "Serbia opens factory to assemble Israeli-made drones",
+      "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-17T13:11:10.000Z"
+      "publishedAt": "2026-09-17T18:54:42.000Z"
     },
     {
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T13:02:40.000Z"
+      "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-17T18:36:40.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-17T15:22:00.000Z"
+      "publishedAt": "2026-09-17T19:52:00.000Z"
+    },
+    {
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-17T18:46:00.000Z"
+    },
+    {
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-17T17:59:51.000Z"
+    },
+    {
+      "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
+      "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-17T17:16:00.000Z"
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
       "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-17T14:30:25.000Z"
-    },
-    {
-      "title": "The smartest money moves to make now that interest rates are going up",
-      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-17T14:04:00.000Z"
     },
     {
       "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-17T07:36:04.000Z"
-    },
-    {
-      "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-      "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-16T21:23:51.000Z"
-    },
-    {
-      "title": "Fed approves interest rate hike, signals one more to come this year",
-      "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-16T21:07:51.000Z"
     }
   ]
 }
