@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-09-18T20:16:06.052Z",
+  "updatedAt": "2026-09-19T02:40:29.690Z",
   "geopolitics": [
     {
-      "title": "Donald Trump says he is banning CNN and Politico from White House",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-18T20:12:55.000Z"
+      "title": "US court blocks Trump plan to deport migrants to third countries",
+      "link": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T02:16:45.000Z"
+    },
+    {
+      "title": "Iranian women defy law and run Tehran race without hijab",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T01:45:36.000Z"
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T00:46:04.000Z"
+    },
+    {
+      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T00:02:03.000Z"
+    },
+    {
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T00:00:26.000Z"
+    },
+    {
+      "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-18T23:56:09.000Z"
     },
     {
       "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
       "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-18T20:04:38.000Z"
+      "publishedAt": "2026-09-18T23:43:21.000Z"
     },
     {
-      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-      "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T19:39:16.000Z"
-    },
-    {
-      "title": "Lebanese artist turns Israeli missile debris into art",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T19:31:32.000Z"
-    },
-    {
-      "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
-      "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T19:25:04.000Z"
-    },
-    {
-      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T19:14:41.000Z"
-    },
-    {
-      "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
-      "link": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T18:46:51.000Z"
-    },
-    {
-      "title": "Do elections in Russia make a difference?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T18:45:30.000Z"
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+      "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-18T23:28:06.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-18T22:41:00.000Z"
+    },
+    {
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-18T21:14:00.000Z"
+    },
+    {
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-18T20:48:00.000Z"
+    },
     {
       "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
       "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-18T18:28:31.000Z"
-    },
-    {
-      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
-      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-18T17:41:00.000Z"
-    },
-    {
-      "title": "What’s really driving inflation and rising interest rates",
-      "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-18T16:50:00.000Z"
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-17T12:27:10.000Z"
-    },
-    {
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-17T09:00:01.000Z"
     }
   ]
 }
