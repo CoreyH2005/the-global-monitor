@@ -1,67 +1,61 @@
 {
-  "updatedAt": "2026-09-19T15:10:30.952Z",
+  "updatedAt": "2026-09-19T19:53:25.864Z",
   "geopolitics": [
     {
-      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-      "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-19T15:07:18.000Z"
+      "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+      "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T19:50:10.000Z"
+    },
+    {
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-19T19:13:49.000Z"
+    },
+    {
+      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-19T19:09:49.000Z"
     },
     {
       "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
       "link": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-19T13:48:04.000Z"
+      "publishedAt": "2026-09-19T19:08:27.000Z"
     },
     {
-      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
-      "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+      "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T13:21:52.000Z"
+      "publishedAt": "2026-09-19T18:32:30.000Z"
     },
     {
-      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T13:13:19.000Z"
+      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+      "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-19T18:12:15.000Z"
     },
     {
-      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
-      "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+      "title": "Israel targets paramedics in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T12:59:31.000Z"
+      "publishedAt": "2026-09-19T18:06:52.000Z"
     },
     {
-      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
-      "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+      "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+      "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T12:51:43.000Z"
-    },
-    {
-      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T12:34:37.000Z"
-    },
-    {
-      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T12:21:01.000Z"
+      "publishedAt": "2026-09-19T17:48:18.000Z"
     }
   ],
   "markets": [
     {
-      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
-      "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-19T14:57:00.000Z"
-    },
-    {
-      "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
-      "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
+      "publishedAt": "2026-09-19T16:19:00.000Z"
     },
     {
       "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-17T09:00:01.000Z"
+    },
+    {
+      "title": "UK inflation jumps to 3.1% as energy costs soar",
+      "link": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-17T07:36:04.000Z"
     }
   ]
 }
