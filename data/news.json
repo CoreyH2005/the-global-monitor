@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-09-21T17:39:03.705Z",
+  "updatedAt": "2026-09-21T21:33:30.676Z",
   "geopolitics": [
     {
       "title": "What is the White House press pool and why does it matter?",
       "link": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-21T17:27:40.000Z"
+      "publishedAt": "2026-09-21T21:01:26.000Z"
     },
     {
-      "title": "How is Europe dealing with ‘hybrid war’?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
+      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T17:12:32.000Z"
+      "publishedAt": "2026-09-21T20:57:43.000Z"
     },
     {
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T17:02:47.000Z"
-    },
-    {
-      "title": "China expels two top ‘disloyal’ military leaders from Communist Party",
-      "link": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss",
+      "title": "Trump speech inaudible as US networks boycott White House event",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T16:56:30.000Z"
+      "publishedAt": "2026-09-21T20:38:51.000Z"
     },
     {
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T16:54:56.000Z"
-    },
-    {
-      "title": "State of world getting worse as UN Security Council paralysed: Guterres",
-      "link": "https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T16:46:36.000Z"
-    },
-    {
-      "title": "Trump says DOJ will rein in AI 'if we have to'",
-      "link": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+      "title": "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
+      "link": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-21T16:46:24.000Z"
+      "publishedAt": "2026-09-21T20:34:33.000Z"
     },
     {
-      "title": "White House TV pool won't cover Trump after press ban: CNN",
-      "link": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-21T16:44:53.000Z"
+      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+      "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-21T20:17:39.000Z"
+    },
+    {
+      "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-21T19:22:15.000Z"
+    },
+    {
+      "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-21T19:10:52.000Z"
+    },
+    {
+      "title": "Photos: Gaza’s children return to class in tents and ruins",
+      "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-21T18:40:26.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-21T16:12:00.000Z"
+      "publishedAt": "2026-09-21T21:17:00.000Z"
+    },
+    {
+      "title": "These beaten-down stocks could bounce back in January, if history is any guide",
+      "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T21:06:00.000Z"
+    },
+    {
+      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T20:23:00.000Z"
     },
     {
       "title": "AMD hits a major milestone as AI stocks blaze higher",
       "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-21T15:58:00.000Z"
+      "publishedAt": "2026-09-21T20:19:00.000Z"
     },
     {
-      "title": "Many young adults can only afford to invest thanks to the bank of mom and dad",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "title": "America’s power grid is running out of juice — and these stocks stand to gain",
+      "link": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-21T15:22:00.000Z"
+      "publishedAt": "2026-09-21T20:02:00.000Z"
     },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-18T18:28:31.000Z"
-    },
-    {
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-18T08:41:11.000Z"
-    },
-    {
-      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
-      "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-17T17:59:51.000Z"
     }
   ]
 }
