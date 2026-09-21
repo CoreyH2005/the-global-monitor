@@ -1,67 +1,79 @@
 {
-  "updatedAt": "2026-09-21T02:49:43.669Z",
+  "updatedAt": "2026-09-21T11:42:40.521Z",
   "geopolitics": [
     {
-      "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-      "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T01:19:42.000Z"
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T11:15:41.000Z"
     },
     {
-      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
-      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "title": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
+      "link": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-21T00:45:26.000Z"
+      "publishedAt": "2026-09-21T11:05:14.000Z"
     },
     {
-      "title": "Ethiopian armed groups forge alliance against government",
-      "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+      "title": "Why is the US trying ‘regime change’ again?",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T00:34:30.000Z"
+      "publishedAt": "2026-09-21T11:00:49.000Z"
     },
     {
-      "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T00:00:47.000Z"
+      "title": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+      "link": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-21T10:52:13.000Z"
     },
     {
-      "title": "Polls close in Russian wartime election with ruling party set to dominate",
-      "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T22:54:00.000Z"
+      "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+      "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-21T10:50:45.000Z"
     },
     {
-      "title": "France to summon Iran envoy after language centre closure in Tehran",
-      "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+      "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T22:06:22.000Z"
+      "publishedAt": "2026-09-21T10:38:41.000Z"
     },
     {
-      "title": "Qatar PM urges Gulf security framework with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T21:00:15.000Z"
+      "title": "Seven Ethiopian rebel groups form new alliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T10:29:34.000Z"
     },
     {
-      "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T20:58:01.000Z"
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T10:00:31.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T11:30:00.000Z"
+    },
+    {
+      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
+      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T10:13:00.000Z"
+    },
+    {
+      "title": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-21T08:58:00.000Z"
+    },
     {
       "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
       "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-21T01:02:25.000Z"
-    },
-    {
-      "title": "Record diesel prices are exposing pain points in the stock market and economy",
-      "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-20T13:00:00.000Z"
     },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-17T17:59:51.000Z"
-    },
-    {
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
-      "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-17T12:27:10.000Z"
-    },
-    {
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-17T09:00:01.000Z"
     }
   ]
 }
