@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-09-22T02:50:28.804Z",
+  "updatedAt": "2026-09-22T10:45:53.218Z",
   "geopolitics": [
     {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-22T02:41:10.000Z"
-    },
-    {
-      "title": "Mamdani challenges Trump over White House press ban during meeting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T01:57:51.000Z"
-    },
-    {
-      "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+      "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
       "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-22T01:51:44.000Z"
+      "publishedAt": "2026-09-22T10:28:17.000Z"
     },
     {
-      "title": "Trump returns to the UN, what will he say?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T00:31:56.000Z"
-    },
-    {
-      "title": "UK to refuel Saudi jets to help counter Houthi attacks",
-      "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T00:29:28.000Z"
-    },
-    {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T00:16:06.000Z"
-    },
-    {
-      "title": "Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
-      "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+      "title": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy",
+      "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-21T23:18:30.000Z"
+      "publishedAt": "2026-09-22T10:25:16.000Z"
+    },
+    {
+      "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
+      "link": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-22T08:57:24.000Z"
+    },
+    {
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T08:57:08.000Z"
+    },
+    {
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T08:17:15.000Z"
+    },
+    {
+      "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
+      "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-22T08:07:13.000Z"
+    },
+    {
+      "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
+      "link": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-22T07:27:07.000Z"
+    },
+    {
+      "title": "Palestinians turn to communal ovens to bake bread in Gaza",
+      "link": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-22T07:26:16.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
+      "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-22T09:23:00.000Z"
+    },
     {
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
@@ -64,30 +70,6 @@
       "publishedAt": "2026-09-21T21:57:00.000Z"
     },
     {
-      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
-      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T21:17:00.000Z"
-    },
-    {
-      "title": "These beaten-down stocks could bounce back in January, if history is any guide",
-      "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T21:06:00.000Z"
-    },
-    {
-      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T20:23:00.000Z"
-    },
-    {
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-21T20:19:00.000Z"
-    },
-    {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "source": "CNBC Finance",
@@ -98,6 +80,24 @@
       "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-21T01:02:25.000Z"
+    },
+    {
+      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+      "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-18T18:28:31.000Z"
+    },
+    {
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-18T08:41:11.000Z"
+    },
+    {
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-17T17:59:51.000Z"
     }
   ]
 }
