@@ -1,67 +1,73 @@
 {
-  "updatedAt": "2026-09-22T20:44:57.422Z",
+  "updatedAt": "2026-09-23T02:50:48.190Z",
   "geopolitics": [
     {
-      "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-      "link": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-22T20:30:56.000Z"
-    },
-    {
-      "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-      "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "title": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T20:27:45.000Z"
+      "publishedAt": "2026-09-23T02:24:01.000Z"
     },
     {
-      "title": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
-      "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-22T20:24:20.000Z"
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T02:00:26.000Z"
     },
     {
-      "title": "Trump: US-Iran meeting at UN was ‘very good’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "title": "South Sudan’s Kiir dissolves government ahead of first national elections",
+      "link": "https://www.aljazeera.com/news/2026/9/23/south-sudan-dissolves-government-ahead-of-first-ever-national-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T20:23:48.000Z"
+      "publishedAt": "2026-09-23T02:00:11.000Z"
     },
     {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-22T20:07:24.000Z"
-    },
-    {
-      "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+      "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
+      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T19:59:36.000Z"
+      "publishedAt": "2026-09-23T01:20:39.000Z"
     },
     {
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-22T19:59:05.000Z"
-    },
-    {
-      "title": "Djibouti minister appeals for aid for Yemeni refugees",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+      "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T19:56:02.000Z"
+      "publishedAt": "2026-09-23T01:11:06.000Z"
+    },
+    {
+      "title": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-pm-burnham-condemns-repulsive-russian-electoral-interference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-23T01:01:17.000Z"
+    },
+    {
+      "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-22T23:46:06.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for this week in October.",
-      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-22T20:31:00.000Z"
+      "publishedAt": "2026-09-22T21:44:00.000Z"
     },
     {
-      "title": "The bond market is flashing a warning for stocks. These sectors are already wobbling.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
+      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-22T19:00:00.000Z"
+      "publishedAt": "2026-09-22T21:30:00.000Z"
+    },
+    {
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-22T21:27:00.000Z"
     },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-17T17:59:51.000Z"
-    },
-    {
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
-      "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-17T12:27:10.000Z"
     }
   ]
 }
