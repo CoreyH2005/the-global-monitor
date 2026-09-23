@@ -1,67 +1,61 @@
 {
-  "updatedAt": "2026-09-23T10:36:17.700Z",
+  "updatedAt": "2026-09-23T15:55:35.005Z",
   "geopolitics": [
     {
-      "title": "World leaders say UN Security Council failing to function",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/world-leaders-say-un-security-council-failing-to-function?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-23T10:04:35.000Z"
-    },
-    {
-      "title": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
-      "link": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+      "link": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-23T09:50:27.000Z"
+      "publishedAt": "2026-09-23T15:44:55.000Z"
     },
     {
-      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-23T09:48:50.000Z"
+      "publishedAt": "2026-09-23T15:37:20.000Z"
     },
     {
-      "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
-      "link": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-23T09:47:31.000Z"
-    },
-    {
-      "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-      "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
+      "title": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-23T09:40:20.000Z"
+      "publishedAt": "2026-09-23T15:24:13.000Z"
     },
     {
-      "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
-      "link": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
+      "title": "Affordability concerns loom large for advisors' clients ahead of midterm elections, survey finds",
+      "link": "https://www.cnbc.com/2026/09/23/social-security-medicare-affordability-cfp-survey.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-23T09:22:51.000Z"
+      "publishedAt": "2026-09-23T15:18:45.000Z"
     },
     {
-      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-      "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+      "link": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-23T09:14:32.000Z"
+      "publishedAt": "2026-09-23T15:11:28.000Z"
     },
     {
-      "title": "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
-      "link": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+      "link": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-23T09:05:23.000Z"
+      "publishedAt": "2026-09-23T15:01:56.000Z"
+    },
+    {
+      "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
+      "link": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-23T14:58:23.000Z"
+    },
+    {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T14:55:51.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
-      "link": "https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories",
+      "title": "These stocks are the ‘four horsemen of AI’ — and they’re not the ones you’d think",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-23T09:28:00.000Z"
-    },
-    {
-      "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
-      "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-23T08:24:00.000Z"
+      "publishedAt": "2026-09-23T13:58:00.000Z"
     },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-17T12:27:10.000Z"
+    },
+    {
+      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+      "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-17T09:00:01.000Z"
     }
   ]
 }
