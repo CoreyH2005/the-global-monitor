@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-09-25T02:58:01.511Z",
+  "updatedAt": "2026-09-25T10:56:58.932Z",
   "geopolitics": [
     {
-      "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T02:35:53.000Z"
-    },
-    {
-      "title": "Contrasting treatment of Israel and Palestine on display at the UN",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T02:26:16.000Z"
-    },
-    {
-      "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
-      "link": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T02:24:16.000Z"
-    },
-    {
-      "title": "Meloni government bans burqas, caps foreign students in Italian schools",
-      "link": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T02:07:29.000Z"
-    },
-    {
-      "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
-      "link": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T02:00:16.000Z"
-    },
-    {
-      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-      "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-25T01:12:19.000Z"
-    },
-    {
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-25T01:10:35.000Z"
+      "publishedAt": "2026-09-25T10:36:55.000Z"
     },
     {
-      "title": "Here's who is attending the Trump-Xi state dinner",
-      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+      "link": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-25T01:02:40.000Z"
+      "publishedAt": "2026-09-25T10:30:01.000Z"
+    },
+    {
+      "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+      "link": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-25T10:25:01.000Z"
+    },
+    {
+      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-25T10:10:33.000Z"
+    },
+    {
+      "title": "Iran pitches seven-day roadmap to end conflict with US",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-25T09:54:40.000Z"
+    },
+    {
+      "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
+      "link": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-25T09:46:18.000Z"
+    },
+    {
+      "title": "Nepal PM says global order is broken in fighting climate crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-25T09:11:52.000Z"
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+      "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-25T09:03:01.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T10:46:00.000Z"
+    },
+    {
+      "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
+      "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T09:11:00.000Z"
+    },
+    {
+      "title": "Akamai’s stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+      "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-25T08:42:00.000Z"
+    },
     {
       "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
       "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
@@ -62,18 +80,6 @@
       "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-24T23:26:00.000Z"
-    },
-    {
-      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T22:03:00.000Z"
-    },
-    {
-      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-24T21:23:00.000Z"
     },
     {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-24T11:34:56.000Z"
-    },
-    {
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-21T15:04:04.000Z"
     }
   ]
 }
