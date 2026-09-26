@@ -1,61 +1,73 @@
 {
-  "updatedAt": "2026-09-26T15:32:13.214Z",
+  "updatedAt": "2026-09-26T20:30:57.849Z",
   "geopolitics": [
     {
-      "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-      "link": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-26T19:43:03.000Z"
+    },
+    {
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-26T19:42:57.000Z"
+    },
+    {
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-26T19:40:14.000Z"
+    },
+    {
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T19:16:14.000Z"
+    },
+    {
+      "title": "White House moves to block $810 million in funding through pocket rescission",
+      "link": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-26T15:05:38.000Z"
+      "publishedAt": "2026-09-26T18:46:48.000Z"
     },
     {
-      "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T14:46:53.000Z"
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T18:17:12.000Z"
     },
     {
-      "title": "Israel-Ireland match to go ahead in Nations League after player vote",
-      "link": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
+      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T14:36:21.000Z"
+      "publishedAt": "2026-09-26T18:00:43.000Z"
     },
     {
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
-      "link": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
+      "title": "Trump rejects combining US-China AI efforts",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T14:00:43.000Z"
-    },
-    {
-      "title": "The intelligence war is turning against the Houthis",
-      "link": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T13:29:40.000Z"
-    },
-    {
-      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T13:22:33.000Z"
-    },
-    {
-      "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
-      "link": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T13:17:05.000Z"
-    },
-    {
-      "title": "The media battle behind Brazil’s election",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T13:01:26.000Z"
+      "publishedAt": "2026-09-26T17:39:18.000Z"
     }
   ],
   "markets": [
     {
-      "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-26T14:44:00.000Z"
+      "publishedAt": "2026-09-26T17:54:00.000Z"
+    },
+    {
+      "title": "A 10% risk-free yield? For some, yes.",
+      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-26T16:51:00.000Z"
+    },
+    {
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-26T15:48:00.000Z"
     },
     {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-24T11:34:56.000Z"
-    },
-    {
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-21T15:04:04.000Z"
-    },
-    {
-      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-      "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-21T01:02:25.000Z"
     }
   ]
 }
