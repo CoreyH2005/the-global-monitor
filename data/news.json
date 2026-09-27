@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-09-27T03:06:22.065Z",
+  "updatedAt": "2026-09-27T11:11:00.021Z",
   "geopolitics": [
     {
-      "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T01:59:17.000Z"
+      "publishedAt": "2026-09-27T10:01:33.000Z"
     },
     {
-      "title": "EU unlocks humanitarian aid for Africa and other crisis-hit regions",
-      "link": "https://www.aljazeera.com/news/2026/9/27/eu-unlocks-humanitarian-aid-for-africa-and-other-crisis-hit-regions?traffic_source=rss",
+      "title": "Yemen government forces widen attacks against Houthis: What we know",
+      "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T01:27:13.000Z"
+      "publishedAt": "2026-09-27T09:59:21.000Z"
     },
     {
-      "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
+      "title": "Plane carrying DR Congo military delegation crashes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T00:50:31.000Z"
+      "publishedAt": "2026-09-27T09:44:00.000Z"
     },
     {
-      "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T00:00:00.000Z"
+      "publishedAt": "2026-09-27T08:49:32.000Z"
     },
     {
-      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T23:49:30.000Z"
+      "publishedAt": "2026-09-27T08:35:25.000Z"
     },
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-27T08:10:22.000Z"
+    },
+    {
+      "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-27T08:05:09.000Z"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-26T22:15:59.000Z"
-    },
-    {
-      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-      "link": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T21:51:56.000Z"
-    },
-    {
-      "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-      "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-26T21:21:04.000Z"
+      "publishedAt": "2026-09-27T07:44:11.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-27T11:00:01.000Z"
+    },
+    {
+      "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+      "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-27T11:00:00.000Z"
+    },
     {
       "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
       "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-25T11:08:05.000Z"
-    },
-    {
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-24T17:12:04.000Z"
-    },
-    {
-      "title": "Switzerland is keeping rates at 0% — for now",
-      "link": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-24T11:34:56.000Z"
     }
   ]
 }
