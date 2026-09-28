@@ -1,85 +1,85 @@
 {
-  "updatedAt": "2026-09-28T03:03:17.998Z",
+  "updatedAt": "2026-09-28T12:37:52.087Z",
   "geopolitics": [
     {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
+      "link": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T12:09:23.000Z"
+    },
+    {
+      "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
+      "link": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-28T02:49:10.000Z"
+      "publishedAt": "2026-09-28T11:59:53.000Z"
     },
     {
-      "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+      "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
+      "link": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T01:39:02.000Z"
+      "publishedAt": "2026-09-28T11:43:27.000Z"
     },
     {
-      "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
+      "title": "Israeli football fans chant military slogans after defeat to Ireland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T01:33:52.000Z"
+      "publishedAt": "2026-09-28T11:10:03.000Z"
     },
     {
-      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "title": "Treasury yields edge higher amid pressure on global government bonds",
+      "link": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-28T11:00:19.000Z"
+    },
+    {
+      "title": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
       "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-28T00:32:09.000Z"
+      "publishedAt": "2026-09-28T10:39:22.000Z"
     },
     {
-      "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "title": "Palestinians denounce Israeli minister Ben-Gvir’s threats against prisoner",
+      "link": "https://www.aljazeera.com/news/2026/9/28/palestinians-denounce-israeli-minister-ben-gvirs-threats-against-prisoner?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T00:00:00.000Z"
+      "publishedAt": "2026-09-28T10:11:28.000Z"
     },
     {
-      "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-      "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+      "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T21:41:59.000Z"
-    },
-    {
-      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-      "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-27T21:38:59.000Z"
-    },
-    {
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-27T21:16:31.000Z"
+      "publishedAt": "2026-09-28T09:17:29.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-28T11:47:00.000Z"
+    },
+    {
+      "title": "How Muse and other AI agents could spark a bank run, according to an economist",
+      "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-28T10:47:00.000Z"
+    },
+    {
+      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-28T08:31:33.000Z"
+    },
+    {
       "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
       "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-09-28T02:15:15.000Z"
-    },
-    {
-      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
-      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-27T19:21:00.000Z"
+      "publishedAt": "2026-09-28T04:04:16.000Z"
     },
     {
       "title": "Debt-hungry AI companies face increased risk as bond yields spike",
       "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-27T15:35:34.000Z"
-    },
-    {
-      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-27T14:00:00.000Z"
-    },
-    {
-      "title": "Look closer, and Wall Street’s rally is showing cracks",
-      "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-27T13:00:00.000Z"
     },
     {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
