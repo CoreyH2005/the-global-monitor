@@ -1,67 +1,85 @@
 {
-  "updatedAt": "2026-09-28T12:37:52.087Z",
+  "updatedAt": "2026-09-28T22:51:00.145Z",
   "geopolitics": [
     {
-      "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
-      "link": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T12:09:23.000Z"
-    },
-    {
-      "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
-      "link": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+      "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "link": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-28T11:59:53.000Z"
+      "publishedAt": "2026-09-28T21:52:10.000Z"
     },
     {
-      "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
-      "link": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T11:43:27.000Z"
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-28T21:46:53.000Z"
     },
     {
-      "title": "Israeli football fans chant military slogans after defeat to Ireland",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T11:10:03.000Z"
-    },
-    {
-      "title": "Treasury yields edge higher amid pressure on global government bonds",
-      "link": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+      "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-28T11:00:19.000Z"
+      "publishedAt": "2026-09-28T21:20:00.000Z"
     },
     {
-      "title": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-      "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T20:45:52.000Z"
+    },
+    {
+      "title": "Slovenia’s U-turn towards Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T20:35:51.000Z"
+    },
+    {
+      "title": "Gaza’s young inventors build robots with what they have",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T20:34:22.000Z"
+    },
+    {
+      "title": "Senate tees up college sports bill aimed at regulating NIL deals",
+      "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-28T10:39:22.000Z"
+      "publishedAt": "2026-09-28T20:05:55.000Z"
     },
     {
-      "title": "Palestinians denounce Israeli minister Ben-Gvir’s threats against prisoner",
-      "link": "https://www.aljazeera.com/news/2026/9/28/palestinians-denounce-israeli-minister-ben-gvirs-threats-against-prisoner?traffic_source=rss",
+      "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T10:11:28.000Z"
-    },
-    {
-      "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T09:17:29.000Z"
+      "publishedAt": "2026-09-28T20:04:27.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-28T11:47:00.000Z"
+      "publishedAt": "2026-09-28T22:35:00.000Z"
     },
     {
-      "title": "How Muse and other AI agents could spark a bank run, according to an economist",
-      "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
+      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-28T10:47:00.000Z"
+      "publishedAt": "2026-09-28T21:23:00.000Z"
+    },
+    {
+      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
+      "link": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-28T20:43:00.000Z"
+    },
+    {
+      "title": "Before you invest in the Oura IPO, understand what you’re buying",
+      "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-28T20:04:00.000Z"
+    },
+    {
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-28T17:53:31.000Z"
     },
     {
       "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-27T15:35:34.000Z"
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-26T13:30:06.000Z"
-    },
-    {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "link": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-25T13:48:19.000Z"
-    },
-    {
-      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-25T11:08:05.000Z"
     }
   ]
 }
