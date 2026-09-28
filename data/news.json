@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-09-27T20:41:48.986Z",
+  "updatedAt": "2026-09-28T03:03:17.998Z",
   "geopolitics": [
     {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-28T02:49:10.000Z"
+    },
+    {
+      "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T01:39:02.000Z"
+    },
+    {
+      "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T01:33:52.000Z"
+    },
+    {
+      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-28T00:32:09.000Z"
+    },
+    {
+      "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "title": "Ireland defeats Israel in controversial UEFA Nations League match",
+      "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-27T21:41:59.000Z"
+    },
+    {
+      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+      "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-27T21:38:59.000Z"
+    },
+    {
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-27T20:04:21.000Z"
-    },
-    {
-      "title": "Why has Trump rejected Iran’s peace proposal?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T20:03:04.000Z"
-    },
-    {
-      "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-      "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T19:35:30.000Z"
-    },
-    {
-      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-      "link": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-27T19:13:27.000Z"
-    },
-    {
-      "title": "Stuck between Israeli military checkpoints",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T19:04:21.000Z"
-    },
-    {
-      "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
-      "link": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-27T18:45:27.000Z"
-    },
-    {
-      "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
-      "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T18:30:53.000Z"
-    },
-    {
-      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T17:46:04.000Z"
+      "publishedAt": "2026-09-27T21:16:31.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-28T02:15:15.000Z"
+    },
     {
       "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
       "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-25T11:08:05.000Z"
-    },
-    {
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-24T17:12:04.000Z"
     }
   ]
 }
