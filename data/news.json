@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-28T22:51:00.145Z",
+  "updatedAt": "2026-09-29T03:42:43.259Z",
   "geopolitics": [
+    {
+      "title": "Senate advances college sports bill aimed at regulating NIL deals",
+      "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-29T02:56:45.000Z"
+    },
+    {
+      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+      "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T02:36:25.000Z"
+    },
+    {
+      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T01:01:38.000Z"
+    },
+    {
+      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-28T23:00:01.000Z"
+    },
     {
       "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
       "link": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
@@ -18,39 +48,15 @@
       "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
       "source": "CNBC World",
       "publishedAt": "2026-09-28T21:20:00.000Z"
-    },
-    {
-      "title": "South Sudan calls for sanctions to be lifted at UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T20:45:52.000Z"
-    },
-    {
-      "title": "Slovenia’s U-turn towards Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T20:35:51.000Z"
-    },
-    {
-      "title": "Gaza’s young inventors build robots with what they have",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T20:34:22.000Z"
-    },
-    {
-      "title": "Senate tees up college sports bill aimed at regulating NIL deals",
-      "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-28T20:05:55.000Z"
-    },
-    {
-      "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T20:04:27.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-29T01:31:00.000Z"
+    },
     {
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
       "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
@@ -62,18 +68,6 @@
       "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-09-28T21:23:00.000Z"
-    },
-    {
-      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
-      "link": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-28T20:43:00.000Z"
-    },
-    {
-      "title": "Before you invest in the Oura IPO, understand what you’re buying",
-      "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-28T20:04:00.000Z"
     },
     {
       "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-27T15:35:34.000Z"
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-26T13:30:06.000Z"
     }
   ]
 }
