@@ -1,91 +1,85 @@
 {
-  "updatedAt": "2026-09-29T11:57:07.200Z",
+  "updatedAt": "2026-09-29T17:41:37.098Z",
   "geopolitics": [
     {
-      "title": "Ireland lost to Israel",
-      "link": "https://www.aljazeera.com/opinions/2026/9/29/ireland-lost-to-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T11:07:58.000Z"
-    },
-    {
-      "title": "Palestine weekly: Israeli politicians vie to look toughest before election",
-      "link": "https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T10:50:31.000Z"
-    },
-    {
-      "title": "Senate advances college sports bill aimed at regulating NIL deals",
-      "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+      "title": "Tech leaders arrive at White House for AI luncheon with Trump",
+      "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-29T10:40:07.000Z"
+      "publishedAt": "2026-09-29T17:25:58.000Z"
     },
     {
-      "title": "Lebanese are watching Israel’s upcoming election, but few expect change",
-      "link": "https://www.aljazeera.com/news/2026/9/29/lebanese-are-watching-israels-upcoming-election-but-few-expect-change?traffic_source=rss",
+      "title": "Trump government ads were funded by Homeland Security, WSJ reports",
+      "link": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-29T17:16:53.000Z"
+    },
+    {
+      "title": "First female prime minister named in Morocco after winning elections",
+      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T17:14:10.000Z"
+    },
+    {
+      "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T10:38:35.000Z"
+      "publishedAt": "2026-09-29T16:57:59.000Z"
     },
     {
-      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-      "link": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
+      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+      "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-29T10:21:33.000Z"
+      "publishedAt": "2026-09-29T16:55:13.000Z"
     },
     {
-      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-      "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
+      "title": "Hassett: 'We're still working our way out from' Biden Covid spending",
+      "link": "https://www.cnbc.com/2026/09/29/hassett-trump-economy-biden-covid.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-29T10:00:01.000Z"
+      "publishedAt": "2026-09-29T16:20:19.000Z"
     },
     {
-      "title": "Argentina’s Milei threatens legal action over Falklands oil project",
-      "link": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T16:09:26.000Z"
+    },
+    {
+      "title": "Russian nuclear-capable bomber plane crashes, killing six people",
+      "link": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T09:17:22.000Z"
-    },
-    {
-      "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
-      "link": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-29T08:44:42.000Z"
+      "publishedAt": "2026-09-29T16:03:39.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
-      "link": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
+      "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+      "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T11:03:00.000Z"
+      "publishedAt": "2026-09-29T16:45:00.000Z"
     },
     {
-      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
+      "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T11:02:00.000Z"
+      "publishedAt": "2026-09-29T16:44:00.000Z"
     },
     {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "title": "You might be shocked by how many stocks are in a bear market right now",
+      "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T10:15:00.000Z"
+      "publishedAt": "2026-09-29T16:24:00.000Z"
     },
     {
-      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
-      "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-29T09:26:00.000Z"
-    },
-    {
-      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T09:16:00.000Z"
+      "publishedAt": "2026-09-29T15:45:00.000Z"
     },
     {
-      "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
-      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-29T09:12:00.000Z"
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-29T12:00:33.000Z"
     },
     {
       "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-28T08:31:33.000Z"
+    },
+    {
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-28T04:04:16.000Z"
     }
   ]
 }
