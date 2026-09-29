@@ -1,73 +1,91 @@
 {
-  "updatedAt": "2026-09-29T03:42:43.259Z",
+  "updatedAt": "2026-09-29T11:57:07.200Z",
   "geopolitics": [
+    {
+      "title": "Ireland lost to Israel",
+      "link": "https://www.aljazeera.com/opinions/2026/9/29/ireland-lost-to-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T11:07:58.000Z"
+    },
+    {
+      "title": "Palestine weekly: Israeli politicians vie to look toughest before election",
+      "link": "https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T10:50:31.000Z"
+    },
     {
       "title": "Senate advances college sports bill aimed at regulating NIL deals",
       "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-29T02:56:45.000Z"
+      "publishedAt": "2026-09-29T10:40:07.000Z"
     },
     {
-      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
-      "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+      "title": "Lebanese are watching Israel’s upcoming election, but few expect change",
+      "link": "https://www.aljazeera.com/news/2026/9/29/lebanese-are-watching-israels-upcoming-election-but-few-expect-change?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T02:36:25.000Z"
+      "publishedAt": "2026-09-29T10:38:35.000Z"
     },
     {
-      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
-      "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
+      "link": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-29T10:21:33.000Z"
+    },
+    {
+      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-29T10:00:01.000Z"
+    },
+    {
+      "title": "Argentina’s Milei threatens legal action over Falklands oil project",
+      "link": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T01:01:38.000Z"
+      "publishedAt": "2026-09-29T09:17:22.000Z"
     },
     {
-      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
+      "link": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-28T23:00:01.000Z"
-    },
-    {
-      "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
-      "link": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-28T21:52:10.000Z"
-    },
-    {
-      "title": "French PM warns against escalation of school protests after 164 arrested",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-28T21:46:53.000Z"
-    },
-    {
-      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-      "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-28T21:20:00.000Z"
+      "publishedAt": "2026-09-29T08:44:42.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
-      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+      "title": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
+      "link": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T01:31:00.000Z"
+      "publishedAt": "2026-09-29T11:03:00.000Z"
+    },
+    {
+      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-29T11:02:00.000Z"
     },
     {
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
       "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-28T22:35:00.000Z"
+      "publishedAt": "2026-09-29T10:15:00.000Z"
     },
     {
-      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
-      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+      "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-28T21:23:00.000Z"
+      "publishedAt": "2026-09-29T09:26:00.000Z"
+    },
+    {
+      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-29T09:16:00.000Z"
+    },
+    {
+      "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
+      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-29T09:12:00.000Z"
     },
     {
       "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-28T08:31:33.000Z"
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-28T04:04:16.000Z"
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-27T15:35:34.000Z"
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-26T13:30:06.000Z"
     }
   ]
 }
