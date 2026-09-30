@@ -1,67 +1,91 @@
 {
-  "updatedAt": "2026-09-30T03:30:26.317Z",
+  "updatedAt": "2026-09-30T11:44:55.362Z",
   "geopolitics": [
     {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+      "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-30T11:09:16.000Z"
+    },
+    {
+      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
+      "link": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T11:03:01.000Z"
+    },
+    {
+      "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T10:29:39.000Z"
+    },
+    {
+      "title": "‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation",
+      "link": "https://www.aljazeera.com/news/2026/9/30/i-wanted-to-live-a-ukrainian-orphans-journey-through-russian-occupation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T09:54:07.000Z"
+    },
+    {
+      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
+      "link": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-30T09:45:54.000Z"
+    },
+    {
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-30T03:23:17.000Z"
+      "publishedAt": "2026-09-30T09:42:36.000Z"
     },
     {
-      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-      "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+      "title": "UK‘s PM Burnham sets out plans to reshape public services",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/uks-pm-burnham-sets-out-plans-to-reshape-public-services?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T08:48:59.000Z"
+    },
+    {
+      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+      "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-30T03:21:28.000Z"
-    },
-    {
-      "title": "Trump backs AI self-regulation at tech summit but is it enough?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T03:00:59.000Z"
-    },
-    {
-      "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T02:26:20.000Z"
-    },
-    {
-      "title": "King appoints Morocco’s first female prime minister",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T02:13:07.000Z"
-    },
-    {
-      "title": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
-      "link": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T01:46:53.000Z"
-    },
-    {
-      "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "title": "Trump says he plans to campaign for 32 days before midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T23:53:08.000Z"
+      "publishedAt": "2026-09-30T08:40:01.000Z"
     }
   ],
   "markets": [
     {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
+      "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-30T00:30:00.000Z"
+      "publishedAt": "2026-09-30T11:20:00.000Z"
     },
     {
-      "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-      "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
+      "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+      "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T21:56:00.000Z"
+      "publishedAt": "2026-09-30T11:12:00.000Z"
+    },
+    {
+      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+      "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T10:38:00.000Z"
+    },
+    {
+      "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T09:32:00.000Z"
+    },
+    {
+      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+      "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T09:20:00.000Z"
+    },
+    {
+      "title": "There’s a new Wall Street ‘TACO’ index — and this one is saying it’s time for Trump to strike a deal",
+      "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T09:16:00.000Z"
     },
     {
       "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -74,30 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-28T17:53:31.000Z"
-    },
-    {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-      "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-28T08:31:33.000Z"
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-28T04:04:16.000Z"
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-27T15:35:34.000Z"
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-26T13:30:06.000Z"
     }
   ]
 }
