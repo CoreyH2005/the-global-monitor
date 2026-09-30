@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-09-30T17:25:09.705Z",
+  "updatedAt": "2026-09-30T21:45:38.064Z",
   "geopolitics": [
     {
-      "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-      "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T17:13:05.000Z"
-    },
-    {
-      "title": "Trump's latest global tariffs face trade court challenge",
-      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-30T16:44:31.000Z"
-    },
-    {
-      "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T16:36:52.000Z"
-    },
-    {
-      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
-      "link": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-30T16:19:47.000Z"
-    },
-    {
-      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-      "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T16:18:11.000Z"
-    },
-    {
-      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-      "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-30T15:36:20.000Z"
-    },
-    {
-      "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
-      "link": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-30T15:19:39.000Z"
-    },
-    {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-30T14:53:02.000Z"
+      "publishedAt": "2026-09-30T21:36:31.000Z"
+    },
+    {
+      "title": "Trump administration files complaint against judges over media comments",
+      "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T21:28:43.000Z"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T20:12:22.000Z"
+    },
+    {
+      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T19:49:21.000Z"
+    },
+    {
+      "title": "How does Trump’s White House AI accord work?",
+      "link": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T19:44:42.000Z"
+    },
+    {
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T19:43:47.000Z"
+    },
+    {
+      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+      "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T19:39:50.000Z"
+    },
+    {
+      "title": "Senators clinch construction permitting deal before election jet-set",
+      "link": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-30T19:35:53.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
-      "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T16:51:00.000Z"
-    },
-    {
-      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
-      "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T16:29:00.000Z"
-    },
-    {
       "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
       "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-30T15:28:00.000Z"
+      "publishedAt": "2026-09-30T21:22:00.000Z"
+    },
+    {
+      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T20:59:00.000Z"
+    },
+    {
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T20:32:00.000Z"
+    },
+    {
+      "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+      "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-30T19:42:00.000Z"
     },
     {
       "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-28T04:04:16.000Z"
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-27T15:35:34.000Z"
     }
   ]
 }
