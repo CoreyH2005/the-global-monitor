@@ -1,73 +1,67 @@
 {
-  "updatedAt": "2026-09-29T21:45:05.836Z",
+  "updatedAt": "2026-09-30T03:30:26.317Z",
   "geopolitics": [
     {
-      "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-      "link": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-29T21:43:50.000Z"
-    },
-    {
-      "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T21:24:07.000Z"
-    },
-    {
-      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-      "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-09-29T21:18:27.000Z"
-    },
-    {
-      "title": "What is white phosphorus, and why is Israel using it in Lebanon?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T21:05:35.000Z"
-    },
-    {
-      "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-      "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T20:48:34.000Z"
-    },
-    {
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-29T20:24:18.000Z"
+      "publishedAt": "2026-09-30T03:23:17.000Z"
     },
     {
-      "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-      "link": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T20:08:33.000Z"
+      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+      "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T03:21:28.000Z"
     },
     {
-      "title": "Has Gaza broken the Israel consensus in the US?",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
+      "title": "Trump backs AI self-regulation at tech summit but is it enough?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T20:05:41.000Z"
+      "publishedAt": "2026-09-30T03:00:59.000Z"
+    },
+    {
+      "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T02:26:20.000Z"
+    },
+    {
+      "title": "King appoints Morocco’s first female prime minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T02:13:07.000Z"
+    },
+    {
+      "title": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
+      "link": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T01:46:53.000Z"
+    },
+    {
+      "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "title": "Trump says he plans to campaign for 32 days before midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T23:53:08.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
-      "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-29T21:18:00.000Z"
-    },
-    {
-      "title": "Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves",
-      "link": "https://www.marketwatch.com/story/traders-expecting-a-back-to-back-rate-hike-from-the-fed-in-october-may-have-gotten-ahead-of-themselves-e2cc5193?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-29T20:13:00.000Z"
-    },
-    {
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
       "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-29T20:00:00.000Z"
+      "publishedAt": "2026-09-30T00:30:00.000Z"
+    },
+    {
+      "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
+      "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-29T21:56:00.000Z"
     },
     {
       "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-27T15:35:34.000Z"
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-26T13:30:06.000Z"
     }
   ]
 }
