@@ -1,91 +1,73 @@
 {
-  "updatedAt": "2026-09-30T11:44:55.362Z",
+  "updatedAt": "2026-09-30T17:25:09.705Z",
   "geopolitics": [
+    {
+      "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
+      "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T17:13:05.000Z"
+    },
+    {
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-30T16:44:31.000Z"
+    },
+    {
+      "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T16:36:52.000Z"
+    },
+    {
+      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
+      "link": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-09-30T16:19:47.000Z"
+    },
+    {
+      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
+      "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T16:18:11.000Z"
+    },
     {
       "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
       "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-30T11:09:16.000Z"
+      "publishedAt": "2026-09-30T15:36:20.000Z"
     },
     {
-      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
-      "link": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T11:03:01.000Z"
-    },
-    {
-      "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T10:29:39.000Z"
-    },
-    {
-      "title": "‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation",
-      "link": "https://www.aljazeera.com/news/2026/9/30/i-wanted-to-live-a-ukrainian-orphans-journey-through-russian-occupation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T09:54:07.000Z"
-    },
-    {
-      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
-      "link": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+      "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
+      "link": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-30T09:45:54.000Z"
+      "publishedAt": "2026-09-30T15:19:39.000Z"
     },
     {
-      "title": "Singapore launches matchmaking service for government workers",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-30T09:42:36.000Z"
-    },
-    {
-      "title": "UK‘s PM Burnham sets out plans to reshape public services",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/uks-pm-burnham-sets-out-plans-to-reshape-public-services?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T08:48:59.000Z"
-    },
-    {
-      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-      "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T08:40:01.000Z"
+      "publishedAt": "2026-09-30T14:53:02.000Z"
     }
   ],
   "markets": [
     {
-      "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
-      "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
+      "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-30T11:20:00.000Z"
+      "publishedAt": "2026-09-30T16:51:00.000Z"
     },
     {
-      "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
-      "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
+      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+      "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-30T11:12:00.000Z"
+      "publishedAt": "2026-09-30T16:29:00.000Z"
     },
     {
-      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
-      "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-30T10:38:00.000Z"
-    },
-    {
-      "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
-      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T09:32:00.000Z"
-    },
-    {
-      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
-      "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T09:20:00.000Z"
-    },
-    {
-      "title": "There’s a new Wall Street ‘TACO’ index — and this one is saying it’s time for Trump to strike a deal",
-      "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T09:16:00.000Z"
+      "publishedAt": "2026-09-30T15:28:00.000Z"
     },
     {
       "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -98,6 +80,24 @@
       "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-28T17:53:31.000Z"
+    },
+    {
+      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-28T08:31:33.000Z"
+    },
+    {
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-28T04:04:16.000Z"
+    },
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-27T15:35:34.000Z"
     }
   ]
 }
