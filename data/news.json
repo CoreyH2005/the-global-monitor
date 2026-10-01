@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-09-30T21:45:38.064Z",
+  "updatedAt": "2026-10-01T03:35:41.124Z",
   "geopolitics": [
+    {
+      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+      "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-01T03:34:56.000Z"
+    },
+    {
+      "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
+      "link": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-01T03:25:38.000Z"
+    },
+    {
+      "title": "Hegseth announces 20% cut to US military commanders",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/hegseth-announces-20-cut-to-us-military-commanders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T02:34:55.000Z"
+    },
     {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-09-30T21:36:31.000Z"
+      "publishedAt": "2026-10-01T02:31:24.000Z"
     },
     {
-      "title": "Trump administration files complaint against judges over media comments",
-      "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+      "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T21:28:43.000Z"
+      "publishedAt": "2026-10-01T02:30:45.000Z"
     },
     {
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T20:12:22.000Z"
+      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T02:29:04.000Z"
     },
     {
-      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
-      "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T19:49:21.000Z"
-    },
-    {
-      "title": "How does Trump’s White House AI accord work?",
-      "link": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T19:44:42.000Z"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T19:43:47.000Z"
-    },
-    {
-      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-      "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T19:39:50.000Z"
-    },
-    {
-      "title": "Senators clinch construction permitting deal before election jet-set",
-      "link": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
+      "title": "Trump’s AI lunch included every major tech company. Except Apple",
+      "link": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
       "source": "CNBC World",
-      "publishedAt": "2026-09-30T19:35:53.000Z"
+      "publishedAt": "2026-10-01T02:07:06.000Z"
+    },
+    {
+      "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T01:11:22.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-01T00:45:00.000Z"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-30T23:44:28.000Z"
+    },
     {
       "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
       "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
@@ -70,12 +82,6 @@
       "publishedAt": "2026-09-30T20:32:00.000Z"
     },
     {
-      "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
-      "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T19:42:00.000Z"
-    },
-    {
       "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
       "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
       "source": "CNBC Finance",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-28T08:31:33.000Z"
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-28T04:04:16.000Z"
     }
   ]
 }
