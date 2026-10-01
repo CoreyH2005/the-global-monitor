@@ -1,85 +1,91 @@
 {
-  "updatedAt": "2026-10-01T03:35:41.124Z",
+  "updatedAt": "2026-10-01T12:14:07.951Z",
   "geopolitics": [
+    {
+      "title": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T11:46:08.000Z"
+    },
+    {
+      "title": "Afghanistan says Pakistani airstrikes killed women and children",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-airstrikes-killed-women-and-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T11:38:59.000Z"
+    },
+    {
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T11:26:46.000Z"
+    },
+    {
+      "title": "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
+      "link": "https://www.cnbc.com/2026/10/01/japan-yen-dollar-trump-intervention.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-01T11:13:25.000Z"
+    },
+    {
+      "title": "Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter",
+      "link": "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-01T09:48:06.000Z"
+    },
+    {
+      "title": "Will Democrats move beyond rhetoric on Israel’s illegal settlements?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/1/will-democrats-move-beyond-rhetoric-on-israels-illegal-settlements?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T08:13:15.000Z"
+    },
+    {
+      "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
+      "link": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T07:23:18.000Z"
+    },
     {
       "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
       "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-01T03:34:56.000Z"
-    },
-    {
-      "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
-      "link": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-01T03:25:38.000Z"
-    },
-    {
-      "title": "Hegseth announces 20% cut to US military commanders",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/hegseth-announces-20-cut-to-us-military-commanders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-01T02:34:55.000Z"
-    },
-    {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T02:31:24.000Z"
-    },
-    {
-      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
-      "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-01T02:30:45.000Z"
-    },
-    {
-      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T02:29:04.000Z"
-    },
-    {
-      "title": "Trump’s AI lunch included every major tech company. Except Apple",
-      "link": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-01T02:07:06.000Z"
-    },
-    {
-      "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-01T01:11:22.000Z"
+      "publishedAt": "2026-10-01T05:44:18.000Z"
     }
   ],
   "markets": [
     {
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
+      "link": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-01T00:45:00.000Z"
+      "publishedAt": "2026-10-01T12:12:00.000Z"
+    },
+    {
+      "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
+      "link": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-01T11:54:00.000Z"
+    },
+    {
+      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-01T11:53:00.000Z"
+    },
+    {
+      "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+      "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-01T10:10:00.000Z"
+    },
+    {
+      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
+      "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-01T09:23:00.000Z"
     },
     {
       "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
       "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-30T23:44:28.000Z"
-    },
-    {
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T21:22:00.000Z"
-    },
-    {
-      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T20:59:00.000Z"
-    },
-    {
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-30T20:32:00.000Z"
     },
     {
       "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-28T17:53:31.000Z"
-    },
-    {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-      "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-28T08:31:33.000Z"
     }
   ]
 }
