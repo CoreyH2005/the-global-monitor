@@ -1,91 +1,85 @@
 {
-  "updatedAt": "2026-10-02T03:35:37.705Z",
+  "updatedAt": "2026-10-02T11:43:21.253Z",
   "geopolitics": [
     {
-      "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
-      "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T02:54:13.000Z"
-    },
-    {
-      "title": "Everything you need to know about Brazil’s tight presidential race",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T02:07:49.000Z"
-    },
-    {
-      "title": "Trump launches midterms campaign blitz amid record low approval ratings",
-      "link": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T01:39:08.000Z"
-    },
-    {
-      "title": "Trump says US may ask Europe to release diesel reserves",
-      "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T01:23:35.000Z"
-    },
-    {
-      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-      "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-01T23:44:39.000Z"
-    },
-    {
-      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
-      "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "title": "Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious",
+      "link": "https://www.cnbc.com/2026/10/02/trump-wants-south-korea-in-on-alaska-lng-heres-why-seoul-is-cautious.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-01T23:01:03.000Z"
+      "publishedAt": "2026-10-02T11:29:28.000Z"
     },
     {
-      "title": "Brazilian government calls for probe into US funding of far-right causes",
-      "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+      "title": "Explosions reported near military airport in Syria’s Idlib province",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-01T22:48:17.000Z"
+      "publishedAt": "2026-10-02T11:00:20.000Z"
+    },
+    {
+      "title": "How can Jordan respond to Israel’s escalation across the West Bank?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T10:17:23.000Z"
+    },
+    {
+      "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+      "link": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T10:06:21.000Z"
+    },
+    {
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T10:04:56.000Z"
+    },
+    {
+      "title": "Arab party leader forced to withdraw from Israeli elections",
+      "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T09:25:23.000Z"
+    },
+    {
+      "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T09:24:39.000Z"
+    },
+    {
+      "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+      "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-02T09:24:33.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-02T00:14:00.000Z"
+      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-02T11:03:31.000Z"
     },
     {
-      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+      "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-02T00:13:00.000Z"
+      "publishedAt": "2026-10-02T10:48:00.000Z"
     },
     {
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
+      "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-01T21:27:00.000Z"
+      "publishedAt": "2026-10-02T10:22:00.000Z"
     },
     {
-      "title": "The stock market is anything but normal right now — and these charts show it",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-01T21:01:00.000Z"
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-02T10:00:01.000Z"
     },
     {
-      "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
-      "link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
+      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
+      "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-01T20:58:00.000Z"
-    },
-    {
-      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
-      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-01T20:28:00.000Z"
+      "publishedAt": "2026-10-02T09:07:00.000Z"
     },
     {
       "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-09-29T12:00:33.000Z"
+    },
+    {
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-28T17:53:31.000Z"
     }
   ]
 }
