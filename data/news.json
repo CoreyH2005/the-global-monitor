@@ -1,61 +1,67 @@
 {
-  "updatedAt": "2026-10-02T17:15:17.339Z",
+  "updatedAt": "2026-10-02T21:41:54.683Z",
   "geopolitics": [
     {
-      "title": "Oil prices mixed as G7 nations to release diesel stocks",
+      "title": "Bosnia’s elections explained",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T21:21:47.000Z"
+    },
+    {
+      "title": "Israeli general: Gaza captives could have been freed a year earlier",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T21:15:58.000Z"
+    },
+    {
+      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+      "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T20:32:02.000Z"
+    },
+    {
+      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+      "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T20:28:07.000Z"
+    },
+    {
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T20:25:19.000Z"
+    },
+    {
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
       "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-02T17:04:08.000Z"
-    },
-    {
-      "title": "How the Banco Master scandal injected chaos into Brazil’s presidential race",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T16:36:38.000Z"
-    },
-    {
-      "title": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T16:23:02.000Z"
-    },
-    {
-      "title": "US job growth slows as unemployment rises before midterm elections",
-      "link": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T16:20:46.000Z"
+      "publishedAt": "2026-10-02T20:04:42.000Z"
     },
     {
       "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
       "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-02T16:13:37.000Z"
+      "publishedAt": "2026-10-02T19:25:36.000Z"
     },
     {
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T16:08:25.000Z"
-    },
-    {
-      "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
-      "link": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
+      "title": "Arab party leader withdraws from Israeli elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T16:06:15.000Z"
-    },
-    {
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T15:30:12.000Z"
+      "publishedAt": "2026-10-02T19:10:23.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-02T14:30:00.000Z"
+      "publishedAt": "2026-10-02T20:43:00.000Z"
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-02T18:49:03.000Z"
     },
     {
       "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
@@ -64,22 +70,10 @@
       "publishedAt": "2026-10-02T13:45:58.000Z"
     },
     {
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-02T13:30:00.000Z"
-    },
-    {
       "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
       "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-02T13:29:27.000Z"
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-02T12:24:27.000Z"
     },
     {
       "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-09-30T15:14:57.000Z"
+    },
+    {
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-09-29T20:51:43.000Z"
     }
   ]
 }
