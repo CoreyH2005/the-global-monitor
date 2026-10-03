@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-02T21:41:54.683Z",
+  "updatedAt": "2026-10-03T03:19:49.362Z",
   "geopolitics": [
+    {
+      "title": "Israeli air attack on Gaza City apartment kills at least five",
+      "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T02:25:23.000Z"
+    },
+    {
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T00:46:10.000Z"
+    },
+    {
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T00:00:00.000Z"
+    },
+    {
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+      "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T23:55:24.000Z"
+    },
+    {
+      "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+      "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T22:50:23.000Z"
+    },
+    {
+      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+      "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-02T21:53:17.000Z"
+    },
     {
       "title": "Bosnia’s elections explained",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
@@ -12,45 +48,27 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-10-02T21:15:58.000Z"
-    },
-    {
-      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-      "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T20:32:02.000Z"
-    },
-    {
-      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
-      "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T20:28:07.000Z"
-    },
-    {
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T20:25:19.000Z"
-    },
-    {
-      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-      "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-02T20:04:42.000Z"
-    },
-    {
-      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-      "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-02T19:25:36.000Z"
-    },
-    {
-      "title": "Arab party leader withdraws from Israeli elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T19:10:23.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-02T22:42:00.000Z"
+    },
+    {
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-02T22:29:00.000Z"
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-02T21:54:00.000Z"
+    },
     {
       "title": "Why mixing politics with your stock portfolio might be costing you money",
       "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-02T11:03:31.000Z"
-    },
-    {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-30T23:44:28.000Z"
-    },
-    {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-30T15:14:57.000Z"
-    },
-    {
-      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-29T20:51:43.000Z"
     }
   ]
 }
