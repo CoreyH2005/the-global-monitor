@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-03T15:33:31.713Z",
+  "updatedAt": "2026-10-03T20:27:29.266Z",
   "geopolitics": [
+    {
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "link": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T18:03:08.000Z"
+    },
+    {
+      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T17:25:28.000Z"
+    },
+    {
+      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T16:25:03.000Z"
+    },
+    {
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-03T16:16:49.000Z"
+    },
+    {
+      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T16:16:32.000Z"
+    },
     {
       "title": "What to know about Brazil’s 2026 presidential election",
       "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
@@ -18,36 +48,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-03T13:52:13.000Z"
-    },
-    {
-      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-03T13:18:37.000Z"
-    },
-    {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-      "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-03T13:12:27.000Z"
-    },
-    {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-03T12:59:10.000Z"
-    },
-    {
-      "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-      "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-03T12:55:54.000Z"
-    },
-    {
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-03T12:26:30.000Z"
     }
   ],
   "markets": [
@@ -62,18 +62,6 @@
       "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-03T15:06:00.000Z"
-    },
-    {
-      "title": "You might be shocked by how many stocks are in a bear market right now",
-      "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-03T14:10:00.000Z"
-    },
-    {
-      "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
-      "link": "https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-03T13:23:00.000Z"
     },
     {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-02T13:29:27.000Z"
+    },
+    {
+      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-02T11:03:31.000Z"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-09-30T23:44:28.000Z"
     }
   ]
 }
