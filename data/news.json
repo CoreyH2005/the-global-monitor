@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-10-04T11:38:50.624Z",
+  "updatedAt": "2026-10-04T16:17:30.747Z",
   "geopolitics": [
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "title": "‘Did he know?’: Why Israel is rejecting an October 7 reckoning",
+      "link": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-04T15:22:25.000Z"
+    },
+    {
+      "title": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/dodik-urges-serb-turnout-against-sarajevo-crooks-in-bosnia-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-04T15:16:50.000Z"
+    },
+    {
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-04T15:06:14.000Z"
+    },
+    {
+      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-04T15:05:37.000Z"
+    },
+    {
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-04T11:25:35.000Z"
+      "publishedAt": "2026-10-04T14:25:32.000Z"
     },
     {
-      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T11:15:34.000Z"
-    },
-    {
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T11:11:30.000Z"
-    },
-    {
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T11:05:02.000Z"
-    },
-    {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-04T11:03:20.000Z"
+      "publishedAt": "2026-10-04T14:24:56.000Z"
     },
     {
-      "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
+      "title": "Somali president: Ethiopia can access our port, but must negotiate",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T10:55:40.000Z"
+      "publishedAt": "2026-10-04T13:22:22.000Z"
     },
     {
-      "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T10:44:23.000Z"
-    },
-    {
-      "title": "Netanyahu’s fight to own the election narrative",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T10:05:53.000Z"
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+      "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-04T12:53:12.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Corporate America has never been this upbeat about future profits",
+      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-04T14:00:00.000Z"
+    },
+    {
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-04T13:00:00.000Z"
+    },
+    {
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-04T12:00:00.000Z"
+    },
     {
       "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
       "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-02T13:29:27.000Z"
-    },
-    {
-      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-02T11:03:31.000Z"
-    },
-    {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-09-30T23:44:28.000Z"
-    },
-    {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-09-30T15:14:57.000Z"
     }
   ]
 }
