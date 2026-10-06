@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-05T23:34:58.751Z",
+  "updatedAt": "2026-10-06T04:20:07.500Z",
   "geopolitics": [
     {
-      "title": "Trump says he'll pay for TV ads that praised him and which government funded",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T03:53:45.000Z"
+    },
+    {
+      "title": "Secessionist party wins Quebec election in Canada",
+      "link": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T03:11:44.000Z"
+    },
+    {
+      "title": "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
+      "link": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-06T02:39:19.000Z"
+    },
+    {
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T02:37:46.000Z"
+    },
+    {
+      "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
+      "link": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-06T02:23:18.000Z"
+    },
+    {
+      "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T02:22:24.000Z"
+    },
+    {
+      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T01:58:29.000Z"
+    },
+    {
+      "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
       "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-05T23:25:38.000Z"
-    },
-    {
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T23:19:14.000Z"
-    },
-    {
-      "title": "Trump’s approval hits new low among Hispanic voters ahead of midterms",
-      "link": "https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-05T22:17:30.000Z"
-    },
-    {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T21:46:22.000Z"
-    },
-    {
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T21:33:49.000Z"
-    },
-    {
-      "title": "Ethiopia’s PM insists on access to Red Sea despite regional conflict threat",
-      "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-05T21:10:43.000Z"
-    },
-    {
-      "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
-      "link": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-05T21:03:21.000Z"
-    },
-    {
-      "title": "Brazil’s presidential race head for a tough runoff",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-05T21:00:59.000Z"
+      "publishedAt": "2026-10-06T01:55:50.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+      "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-06T04:07:24.000Z"
+    },
     {
       "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
       "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-02T18:49:03.000Z"
-    },
-    {
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-02T13:45:58.000Z"
     }
   ]
 }
