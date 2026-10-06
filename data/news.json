@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-10-06T04:20:07.500Z",
+  "updatedAt": "2026-10-06T12:35:09.399Z",
   "geopolitics": [
     {
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T03:53:45.000Z"
-    },
-    {
-      "title": "Secessionist party wins Quebec election in Canada",
-      "link": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-06T03:11:44.000Z"
-    },
-    {
-      "title": "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
-      "link": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
+      "title": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+      "link": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-06T02:39:19.000Z"
+      "publishedAt": "2026-10-06T12:28:35.000Z"
+    },
+    {
+      "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
+      "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T11:47:03.000Z"
     },
     {
       "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
       "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-06T02:37:46.000Z"
+      "publishedAt": "2026-10-06T11:42:52.000Z"
     },
     {
-      "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
-      "link": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
+      "title": "Russia plague quarantine following lab death: Should we be worried?",
+      "link": "https://www.aljazeera.com/news/2026/10/6/russia-plague-quarantine-following-lab-death-should-we-be-worried?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T11:40:00.000Z"
+    },
+    {
+      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+      "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-06T02:23:18.000Z"
+      "publishedAt": "2026-10-06T11:32:57.000Z"
     },
     {
-      "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T02:22:24.000Z"
+      "title": "India opposition leaders briefly arrested in protest against election chief",
+      "link": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T11:16:48.000Z"
     },
     {
-      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T01:58:29.000Z"
+      "title": "Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat",
+      "link": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T11:01:43.000Z"
     },
     {
-      "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
-      "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-06T01:55:50.000Z"
+      "title": "UEFA to investigate spitting incident at Ireland-Israel football match",
+      "link": "https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T10:15:47.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-06T12:29:00.000Z"
+    },
+    {
+      "title": "America’s favorite index is misleading investors about the state of the stock market",
+      "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-06T12:05:00.000Z"
+    },
+    {
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-06T10:00:00.000Z"
+    },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
       "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
@@ -58,34 +76,10 @@
       "publishedAt": "2026-10-06T04:07:24.000Z"
     },
     {
-      "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
-      "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-05T21:52:00.000Z"
-    },
-    {
-      "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-      "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-05T21:27:00.000Z"
-    },
-    {
-      "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
-      "link": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-05T21:12:00.000Z"
-    },
-    {
       "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
       "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-05T20:41:23.000Z"
-    },
-    {
-      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-05T20:30:00.000Z"
     },
     {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-02T18:49:03.000Z"
+    },
+    {
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-02T13:45:58.000Z"
     }
   ]
 }
