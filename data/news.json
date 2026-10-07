@@ -1,56 +1,86 @@
 {
-  "updatedAt": "2026-10-07T03:46:29.423Z",
+  "updatedAt": "2026-10-07T12:28:06.562Z",
   "geopolitics": [
     {
-      "title": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
-      "link": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
+      "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+      "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-07T02:52:14.000Z"
+      "publishedAt": "2026-10-07T12:18:15.000Z"
     },
     {
-      "title": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
-      "link": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-07T02:10:52.000Z"
+      "title": "South Korea’s military service exemption could be cut for athletes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-07T12:09:18.000Z"
     },
     {
-      "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-      "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-07T02:09:50.000Z"
+      "title": "Justina Shiroka Pula: Kosovo’s new president, elected during a crisis",
+      "link": "https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-07T11:40:21.000Z"
     },
     {
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-07T02:06:23.000Z"
+      "publishedAt": "2026-10-07T11:24:17.000Z"
     },
     {
-      "title": "Two Houthi missiles target Yemen’s Aden International Airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+      "title": "US military aid to Israel continues three years into Gaza genocide",
+      "link": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T01:59:15.000Z"
+      "publishedAt": "2026-10-07T11:23:48.000Z"
     },
     {
-      "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-      "link": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+      "title": "Israeli attacks across Gaza kill at least four Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T01:07:21.000Z"
+      "publishedAt": "2026-10-07T11:13:32.000Z"
     },
     {
-      "title": "What’s behind Israel’s growing shift to the right?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T00:58:21.000Z"
+      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds",
+      "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-07T11:08:55.000Z"
     },
     {
-      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-      "link": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T00:35:57.000Z"
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T11:05:37.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+      "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-07T11:55:36.000Z"
+    },
+    {
+      "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
+      "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-07T11:44:00.000Z"
+    },
+    {
+      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+      "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-07T11:40:00.000Z"
+    },
+    {
+      "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-07T11:18:00.000Z"
+    },
+    {
+      "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
+      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-07T11:11:00.000Z"
+    },
     {
       "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
       "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
@@ -64,40 +94,10 @@
       "publishedAt": "2026-10-06T22:23:01.000Z"
     },
     {
-      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-06T21:52:00.000Z"
-    },
-    {
-      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
-      "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-06T20:37:00.000Z"
-    },
-    {
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-06T20:21:00.000Z"
-    },
-    {
-      "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-      "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-06T18:39:00.000Z"
-    },
-    {
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
       "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-06T15:52:22.000Z"
-    },
-    {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-      "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-05T20:41:23.000Z"
     }
   ]
 }
