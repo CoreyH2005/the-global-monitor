@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-07T22:31:36.315Z",
+  "updatedAt": "2026-10-08T03:59:48.882Z",
   "geopolitics": [
     {
-      "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-      "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-07T21:32:55.000Z"
-    },
-    {
-      "title": "Trump on why he thinks he deserves the Nobel Peace Prize",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T21:30:18.000Z"
-    },
-    {
-      "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
-      "link": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-07T21:19:19.000Z"
-    },
-    {
-      "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T21:06:46.000Z"
-    },
-    {
-      "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-      "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-07T20:33:34.000Z"
-    },
-    {
-      "title": "US Republicans, independents express low trust in election integrity: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T20:27:47.000Z"
-    },
-    {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-07T20:27:03.000Z"
+      "publishedAt": "2026-10-08T03:32:35.000Z"
     },
     {
-      "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+      "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
+      "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-08T03:29:29.000Z"
+    },
+    {
+      "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T20:17:27.000Z"
+      "publishedAt": "2026-10-08T03:25:47.000Z"
+    },
+    {
+      "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
+      "link": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-08T01:21:26.000Z"
+    },
+    {
+      "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
+      "link": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-08T01:02:07.000Z"
+    },
+    {
+      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+      "link": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-08T00:33:03.000Z"
+    },
+    {
+      "title": "Russia dismisses reports of second plague case as ‘false information’",
+      "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-08T00:16:41.000Z"
+    },
+    {
+      "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-08T00:16:25.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-07T22:32:00.000Z"
+    },
     {
       "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
       "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-07T18:22:00.000Z"
-    },
-    {
-      "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
-      "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-07T17:36:00.000Z"
     }
   ]
 }
