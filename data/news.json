@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-10-09T12:25:06.163Z",
+  "updatedAt": "2026-10-09T22:06:48.818Z",
   "geopolitics": [
     {
-      "title": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-      "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-09T11:51:11.000Z"
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T22:00:21.000Z"
     },
     {
-      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
-      "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-09T11:50:39.000Z"
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T21:54:28.000Z"
     },
     {
-      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
-      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T21:50:47.000Z"
+    },
+    {
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T11:46:39.000Z"
+      "publishedAt": "2026-10-09T21:29:01.000Z"
     },
     {
-      "title": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-      "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-09T11:11:55.000Z"
-    },
-    {
-      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
-      "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-09T11:00:42.000Z"
-    },
-    {
-      "title": "Labour fends off the Green party in closely watched UK by-election",
-      "link": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss",
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T10:56:33.000Z"
+      "publishedAt": "2026-10-09T20:56:01.000Z"
     },
     {
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
-      "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
+      "title": "How will Spain’s housing crisis affect elections?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T10:40:36.000Z"
+      "publishedAt": "2026-10-09T20:39:11.000Z"
     },
     {
-      "title": "India calls JD Vance's comments about immigrants 'deeply offensive'",
-      "link": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
+      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+      "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-09T10:38:15.000Z"
+      "publishedAt": "2026-10-09T20:20:57.000Z"
+    },
+    {
+      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+      "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-09T20:13:24.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-09T21:27:00.000Z"
+    },
+    {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-09T21:07:00.000Z"
+    },
+    {
+      "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
+      "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-09T20:03:00.000Z"
+    },
+    {
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-09T19:18:24.000Z"
+    },
+    {
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
       "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-10-09T11:50:39.000Z"
-    },
-    {
-      "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
-      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-09T11:41:00.000Z"
-    },
-    {
-      "title": "Why the price of this one ETF has gone exponential",
-      "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-09T09:12:00.000Z"
+      "publishedAt": "2026-10-09T13:09:19.000Z"
     },
     {
       "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-07T18:44:36.000Z"
-    },
-    {
-      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-      "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-07T18:42:36.000Z"
-    },
-    {
-      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-      "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-07T11:55:36.000Z"
     }
   ]
 }
