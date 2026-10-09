@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-10-09T04:05:16.080Z",
+  "updatedAt": "2026-10-09T12:25:06.163Z",
   "geopolitics": [
     {
-      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
-      "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+      "title": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+      "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-09T02:52:15.000Z"
+      "publishedAt": "2026-10-09T11:51:11.000Z"
     },
     {
-      "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
-      "link": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+      "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-09T11:50:39.000Z"
+    },
+    {
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T02:00:31.000Z"
+      "publishedAt": "2026-10-09T11:46:39.000Z"
     },
     {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-      "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+      "title": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
+      "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-09T11:11:55.000Z"
+    },
+    {
+      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+      "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-09T11:00:42.000Z"
+    },
+    {
+      "title": "Labour fends off the Green party in closely watched UK by-election",
+      "link": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T00:50:38.000Z"
+      "publishedAt": "2026-10-09T10:56:33.000Z"
     },
     {
-      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+      "title": "Is Trump signalling a return to war with Iran after the midterms?",
+      "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T00:39:20.000Z"
+      "publishedAt": "2026-10-09T10:40:36.000Z"
     },
     {
-      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T00:12:18.000Z"
-    },
-    {
-      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
-      "link": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T00:08:33.000Z"
-    },
-    {
-      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T00:00:21.000Z"
-    },
-    {
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T23:11:10.000Z"
+      "title": "India calls JD Vance's comments about immigrants 'deeply offensive'",
+      "link": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-09T10:38:15.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+      "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-09T11:50:39.000Z"
+    },
+    {
+      "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
+      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-09T11:41:00.000Z"
+    },
+    {
+      "title": "Why the price of this one ETF has gone exponential",
+      "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-09T09:12:00.000Z"
+    },
+    {
       "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
       "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
       "source": "CNBC Finance",
-      "publishedAt": "2026-10-08T23:57:23.000Z"
-    },
-    {
-      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
-      "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-08T22:08:00.000Z"
-    },
-    {
-      "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-08T21:56:00.000Z"
+      "publishedAt": "2026-10-09T06:30:01.000Z"
     },
     {
       "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-07T11:55:36.000Z"
-    },
-    {
-      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-      "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-07T03:00:22.000Z"
     }
   ]
 }
