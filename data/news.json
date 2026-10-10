@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-09T22:06:48.818Z",
+  "updatedAt": "2026-10-10T03:50:27.476Z",
   "geopolitics": [
+    {
+      "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T02:35:28.000Z"
+    },
+    {
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-10T02:09:00.000Z"
+    },
+    {
+      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T01:40:51.000Z"
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-10T00:45:51.000Z"
+    },
+    {
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T00:22:52.000Z"
+    },
+    {
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-09T22:50:15.000Z"
+    },
     {
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
       "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-09T22:00:21.000Z"
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T21:54:28.000Z"
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T21:50:47.000Z"
-    },
-    {
-      "title": "US judge rules Trump administration’s use of voter data unlawful",
-      "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T21:29:01.000Z"
-    },
-    {
-      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T20:56:01.000Z"
-    },
-    {
-      "title": "How will Spain’s housing crisis affect elections?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T20:39:11.000Z"
-    },
-    {
-      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-      "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-09T20:20:57.000Z"
-    },
-    {
-      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-      "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T20:13:24.000Z"
+      "publishedAt": "2026-10-09T22:41:21.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-10T03:15:00.000Z"
+    },
     {
       "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
       "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
@@ -62,12 +68,6 @@
       "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-09T21:07:00.000Z"
-    },
-    {
-      "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
-      "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-09T20:03:00.000Z"
     },
     {
       "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
