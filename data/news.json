@@ -1,79 +1,73 @@
 {
-  "updatedAt": "2026-10-10T11:44:09.418Z",
+  "updatedAt": "2026-10-10T16:46:27.337Z",
   "geopolitics": [
     {
-      "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
-      "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T09:30:14.000Z"
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-10T15:23:47.000Z"
     },
     {
-      "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-      "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+      "title": "Trump Accounts: Free money, but who gets a say?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T07:50:59.000Z"
+      "publishedAt": "2026-10-10T15:21:39.000Z"
     },
     {
-      "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
+      "title": "With or without Hamas",
+      "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T07:19:36.000Z"
+      "publishedAt": "2026-10-10T15:19:41.000Z"
     },
     {
-      "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T06:47:10.000Z"
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-10T14:49:32.000Z"
     },
     {
-      "title": "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war",
-      "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T05:43:33.000Z"
+      "publishedAt": "2026-10-10T14:39:53.000Z"
     },
     {
-      "title": "Israel’s economy prospers despite years of war, but prices worry voters",
-      "link": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T05:28:33.000Z"
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-10T14:24:14.000Z"
     },
     {
-      "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-      "link": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T05:08:49.000Z"
-    },
-    {
-      "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-      "link": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
+      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-10T05:00:01.000Z"
+      "publishedAt": "2026-10-10T14:22:23.000Z"
+    },
+    {
+      "title": "Why is the US sanctioning the International Criminal Court?",
+      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T14:19:43.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-10T15:05:00.000Z"
+    },
+    {
+      "title": "Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
+      "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-10T12:30:00.000Z"
+    },
     {
       "title": "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
       "link": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-10T11:00:00.000Z"
-    },
-    {
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-10T10:30:00.000Z"
-    },
-    {
-      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-09T21:27:00.000Z"
-    },
-    {
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-09T21:07:00.000Z"
     },
     {
       "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-08T17:31:03.000Z"
+    },
+    {
+      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-07T18:44:36.000Z"
     }
   ]
 }
