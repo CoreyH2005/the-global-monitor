@@ -1,61 +1,67 @@
 {
-  "updatedAt": "2026-10-10T03:50:27.476Z",
+  "updatedAt": "2026-10-10T11:44:09.418Z",
   "geopolitics": [
     {
-      "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+      "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+      "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T02:35:28.000Z"
+      "publishedAt": "2026-10-10T09:30:14.000Z"
     },
     {
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+      "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T07:50:59.000Z"
+    },
+    {
+      "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T07:19:36.000Z"
+    },
+    {
+      "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T06:47:10.000Z"
+    },
+    {
+      "title": "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war",
+      "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T05:43:33.000Z"
+    },
+    {
+      "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+      "link": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T05:28:33.000Z"
+    },
+    {
+      "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+      "link": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T05:08:49.000Z"
+    },
+    {
+      "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+      "link": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-10T02:09:00.000Z"
-    },
-    {
-      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T01:40:51.000Z"
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T00:45:51.000Z"
-    },
-    {
-      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
-      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T00:22:52.000Z"
-    },
-    {
-      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T00:00:00.000Z"
-    },
-    {
-      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T22:50:15.000Z"
-    },
-    {
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T22:41:21.000Z"
+      "publishedAt": "2026-10-10T05:00:01.000Z"
     }
   ],
   "markets": [
     {
+      "title": "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
+      "link": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-10T11:00:00.000Z"
+    },
+    {
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
       "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-10T03:15:00.000Z"
+      "publishedAt": "2026-10-10T10:30:00.000Z"
     },
     {
       "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-08T17:31:03.000Z"
-    },
-    {
-      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-      "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-07T18:44:36.000Z"
     }
   ]
 }
