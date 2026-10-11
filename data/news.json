@@ -1,79 +1,85 @@
 {
-  "updatedAt": "2026-10-11T11:56:41.807Z",
+  "updatedAt": "2026-10-11T17:19:45.703Z",
   "geopolitics": [
+    {
+      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-11T16:41:37.000Z"
+    },
     {
       "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
       "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-11T11:52:01.000Z"
+      "publishedAt": "2026-10-11T16:29:55.000Z"
     },
     {
-      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T11:42:50.000Z"
+      "publishedAt": "2026-10-11T15:10:27.000Z"
     },
     {
-      "title": "The scramble to rewrite Biden’s record on Gaza",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T11:29:48.000Z"
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-11T14:38:10.000Z"
     },
     {
-      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-      "link": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+      "link": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T10:45:15.000Z"
+      "publishedAt": "2026-10-11T14:34:15.000Z"
     },
     {
-      "title": "Modi is in trouble",
-      "link": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
+      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+      "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T10:31:45.000Z"
+      "publishedAt": "2026-10-11T14:25:03.000Z"
     },
     {
-      "title": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
-      "link": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss",
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T09:33:03.000Z"
+      "publishedAt": "2026-10-11T14:09:12.000Z"
     },
     {
-      "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T08:43:52.000Z"
-    },
-    {
-      "title": "What the Iran war has done to the world’s energy supply, in charts",
-      "link": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T08:22:02.000Z"
+      "publishedAt": "2026-10-11T14:04:32.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-10T19:44:00.000Z"
+      "publishedAt": "2026-10-11T14:00:00.000Z"
     },
     {
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-10T19:44:00.000Z"
-    },
-    {
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-10T19:44:00.000Z"
+      "publishedAt": "2026-10-11T13:00:00.000Z"
     },
     {
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
       "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-10T18:31:00.000Z"
+      "publishedAt": "2026-10-11T12:30:00.000Z"
+    },
+    {
+      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-10T19:44:00.000Z"
     },
     {
       "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-09T06:30:01.000Z"
-    },
-    {
-      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-      "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-08T17:31:03.000Z"
     }
   ]
 }
