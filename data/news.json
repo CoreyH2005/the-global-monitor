@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-11T17:19:45.703Z",
+  "updatedAt": "2026-10-11T21:21:25.881Z",
   "geopolitics": [
     {
-      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-11T16:41:37.000Z"
+      "publishedAt": "2026-10-11T21:12:44.000Z"
     },
     {
-      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-      "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "title": "Two killed near Israeli-occupied area in south Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-11T20:46:45.000Z"
+    },
+    {
+      "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-11T20:44:17.000Z"
+    },
+    {
+      "title": "Zelenskyy welcomes US-announced energy ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-11T20:28:46.000Z"
+    },
+    {
+      "title": "Syrian families demand release of detainees held by Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-11T20:24:19.000Z"
+    },
+    {
+      "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-11T20:21:13.000Z"
+    },
+    {
+      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+      "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-11T16:29:55.000Z"
+      "publishedAt": "2026-10-11T20:18:38.000Z"
     },
     {
-      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T15:10:27.000Z"
-    },
-    {
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-11T14:38:10.000Z"
-    },
-    {
-      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
-      "link": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T14:34:15.000Z"
-    },
-    {
-      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-      "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T14:25:03.000Z"
-    },
-    {
-      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
-      "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T14:09:12.000Z"
-    },
-    {
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T14:04:32.000Z"
+      "publishedAt": "2026-10-11T19:59:15.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-11T20:00:00.000Z"
+    },
     {
       "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
       "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
@@ -62,12 +68,6 @@
       "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-11T13:00:00.000Z"
-    },
-    {
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-11T12:30:00.000Z"
     },
     {
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
