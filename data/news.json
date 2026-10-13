@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-10-13T13:20:21.394Z",
+  "updatedAt": "2026-10-13T22:10:34.905Z",
   "geopolitics": [
     {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T13:17:58.000Z"
-    },
-    {
-      "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
-      "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-13T12:19:37.000Z"
-    },
-    {
-      "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-      "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-13T11:53:45.000Z"
-    },
-    {
-      "title": "Ex-president named leader of new DR Congo rebel coalition",
-      "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T11:23:55.000Z"
-    },
-    {
-      "title": "Israel’s military raids NGO offices in Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+      "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T10:53:16.000Z"
+      "publishedAt": "2026-10-13T21:04:44.000Z"
     },
     {
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T10:37:39.000Z"
-    },
-    {
-      "title": "Trump Protester punched at Trump rally as they’re mocked by the president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-protester-punched-at-trump-rally-as-theyre-mocked-by-the-president?traffic_source=rss",
+      "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T10:02:30.000Z"
+      "publishedAt": "2026-10-13T21:03:40.000Z"
     },
     {
-      "title": "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal fight",
-      "link": "https://www.cnbc.com/2026/10/13/trump-census-rule-noncitizens.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-13T10:00:01.000Z"
+      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-13T20:33:10.000Z"
+    },
+    {
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-13T20:02:15.000Z"
+    },
+    {
+      "title": "Trump says Houthis trying to increase oil prices before US elections",
+      "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-13T19:33:11.000Z"
+    },
+    {
+      "title": "Will NATO’s ‘theory of victory’ work?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-13T19:32:16.000Z"
+    },
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-13T19:23:28.000Z"
+    },
+    {
+      "title": "EU watchdog urges smart glasses to clearly signal when recording",
+      "link": "https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-13T19:11:09.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-13T21:02:00.000Z"
+    },
+    {
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-13T20:42:00.000Z"
+    },
+    {
+      "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-13T20:41:00.000Z"
+    },
+    {
+      "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-13T20:32:00.000Z"
+    },
+    {
+      "title": "Micron’s stock extends declines as China competition heats up",
+      "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-13T20:25:00.000Z"
+    },
+    {
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-13T19:46:12.000Z"
+    },
+    {
+      "title": "The latest inflation data is expected to show price increases are accelerating",
+      "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-13T18:05:57.000Z"
+    },
     {
       "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
       "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-13T13:09:55.000Z"
-    },
-    {
-      "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
-      "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-13T12:44:00.000Z"
-    },
-    {
-      "title": "Fund managers retain surprising optimism in the face of stagnant stock market and tumultuous bond market",
-      "link": "https://www.marketwatch.com/story/fund-managers-retain-surprising-optimism-in-the-face-of-stagnant-stock-market-and-tumultuous-bond-market-3d9763dd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-13T12:40:00.000Z"
-    },
-    {
-      "title": "The South Korean stock market is in free fall, and these are the reasons",
-      "link": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-13T11:44:00.000Z"
-    },
-    {
-      "title": "Six Flags’ stock slumps near 52-week lows after fatal incident",
-      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-13T11:31:00.000Z"
-    },
-    {
-      "title": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
-      "link": "https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-13T11:00:00.000Z"
-    },
-    {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-13T06:20:55.000Z"
-    },
-    {
-      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-13T04:54:07.000Z"
     }
   ]
 }
