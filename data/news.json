@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-13T22:10:34.905Z",
+  "updatedAt": "2026-10-14T03:06:02.920Z",
   "geopolitics": [
     {
-      "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
+      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T21:04:44.000Z"
+      "publishedAt": "2026-10-14T02:45:40.000Z"
     },
     {
-      "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T21:03:40.000Z"
+      "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+      "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-14T02:09:00.000Z"
     },
     {
-      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T20:33:10.000Z"
-    },
-    {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-13T20:02:15.000Z"
+      "publishedAt": "2026-10-14T01:56:57.000Z"
     },
     {
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+      "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-14T01:55:26.000Z"
+    },
+    {
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T19:33:11.000Z"
+      "publishedAt": "2026-10-14T01:15:30.000Z"
     },
     {
-      "title": "Will NATO’s ‘theory of victory’ work?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
+      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "link": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T19:32:16.000Z"
+      "publishedAt": "2026-10-14T01:07:46.000Z"
     },
     {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T19:23:28.000Z"
-    },
-    {
-      "title": "EU watchdog urges smart glasses to clearly signal when recording",
-      "link": "https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss",
+      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T19:11:09.000Z"
+      "publishedAt": "2026-10-14T00:45:16.000Z"
+    },
+    {
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-13T23:05:12.000Z"
+    },
     {
       "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
       "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-13T18:05:57.000Z"
-    },
-    {
-      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-      "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-13T13:09:55.000Z"
     }
   ]
 }
