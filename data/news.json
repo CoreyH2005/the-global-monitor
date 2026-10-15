@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-10-15T10:41:54.652Z",
+  "updatedAt": "2026-10-15T16:07:10.607Z",
   "geopolitics": [
     {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Nidal Hasan execution won't be livestreamed",
+      "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-15T16:02:11.000Z"
+    },
+    {
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-15T10:14:31.000Z"
+      "publishedAt": "2026-10-15T15:52:10.000Z"
     },
     {
-      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-      "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-15T10:13:25.000Z"
-    },
-    {
-      "title": "Russia says Ukraine resumes attacks on oil refineries",
-      "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "title": "What is the ‘Mother of All Bombs’ US could use in Iran?",
+      "link": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-15T10:02:17.000Z"
+      "publishedAt": "2026-10-15T15:46:41.000Z"
     },
     {
-      "title": "Long-delayed China-North Korea bridge officially opens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "title": "Delegates walk out as Israeli president addresses summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-15T10:00:58.000Z"
+      "publishedAt": "2026-10-15T15:14:00.000Z"
     },
     {
-      "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
-      "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-15T09:58:40.000Z"
-    },
-    {
-      "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
-      "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
+      "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-15T09:35:01.000Z"
+      "publishedAt": "2026-10-15T15:13:18.000Z"
     },
     {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-15T09:02:31.000Z"
-    },
-    {
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-15T08:41:04.000Z"
+      "publishedAt": "2026-10-15T15:09:15.000Z"
+    },
+    {
+      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+      "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-15T15:07:26.000Z"
+    },
+    {
+      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+      "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-15T14:51:06.000Z"
     }
   ],
   "markets": [
     {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T15:37:59.000Z"
+    },
+    {
+      "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+      "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-15T10:15:00.000Z"
+      "publishedAt": "2026-10-15T15:21:00.000Z"
+    },
+    {
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T14:43:21.000Z"
+    },
+    {
+      "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-15T13:48:00.000Z"
+    },
+    {
+      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T13:42:32.000Z"
+    },
+    {
+      "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
+      "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-15T13:14:00.000Z"
+    },
+    {
+      "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead.",
+      "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-15T12:40:00.000Z"
     },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T09:30:06.000Z"
-    },
-    {
-      "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
-      "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-15T08:42:00.000Z"
-    },
-    {
-      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
-      "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-15T00:02:00.000Z"
-    },
-    {
-      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
-      "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-14T23:36:00.000Z"
-    },
-    {
-      "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
-      "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-14T22:25:00.000Z"
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-14T20:22:09.000Z"
-    },
-    {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-14T20:20:46.000Z"
+      "publishedAt": "2026-10-15T12:11:15.000Z"
     }
   ]
 }
