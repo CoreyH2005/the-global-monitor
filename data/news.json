@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-10-14T21:11:20.352Z",
+  "updatedAt": "2026-10-15T02:45:39.391Z",
   "geopolitics": [
     {
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "title": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
+      "link": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-15T01:35:40.000Z"
+    },
+    {
+      "title": "Trump suggests those who leak government information should ‘be shot’",
+      "link": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-15T01:34:41.000Z"
+    },
+    {
+      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "title": "US destroys dhow suspected of Iranian command and control",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-14T23:58:13.000Z"
+    },
+    {
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+      "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-14T23:03:10.000Z"
+    },
+    {
+      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-14T21:18:46.000Z"
+    },
+    {
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-14T20:55:24.000Z"
@@ -12,50 +48,44 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-10-14T20:47:46.000Z"
-    },
-    {
-      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
-      "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T20:42:59.000Z"
-    },
-    {
-      "title": "Student protesters attack government buildings in Tirana",
-      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T20:29:05.000Z"
-    },
-    {
-      "title": "Houthi attacks disrupt travel plans for Mecca pilgrims",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T20:25:04.000Z"
-    },
-    {
-      "title": "Russia attack hits Kyiv after reported intelligence lapse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T20:14:57.000Z"
-    },
-    {
-      "title": "How will a new alliance affect the conflict in eastern DRC?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T19:54:16.000Z"
-    },
-    {
-      "title": "US lifts sanctions on Venezuela’s top legislator",
-      "link": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T19:53:03.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+      "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-14T21:03:00.000Z"
+      "publishedAt": "2026-10-15T00:02:00.000Z"
+    },
+    {
+      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-14T23:36:00.000Z"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-14T22:30:00.000Z"
+    },
+    {
+      "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+      "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-14T22:25:00.000Z"
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-14T22:24:00.000Z"
+    },
+    {
+      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+      "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-14T21:54:00.000Z"
     },
     {
       "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
@@ -64,40 +94,10 @@
       "publishedAt": "2026-10-14T20:22:09.000Z"
     },
     {
-      "title": "Why Dell’s stock was one of the S&P 500’s biggest laggards on Wednesday",
-      "link": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-14T20:21:00.000Z"
-    },
-    {
       "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
       "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-14T20:20:46.000Z"
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-14T20:06:28.000Z"
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-14T19:15:00.000Z"
-    },
-    {
-      "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
-      "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-14T19:04:00.000Z"
-    },
-    {
-      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-14T18:53:00.000Z"
     }
   ]
 }
