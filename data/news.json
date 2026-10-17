@@ -1,56 +1,92 @@
 {
-  "updatedAt": "2026-10-16T20:23:20.518Z",
+  "updatedAt": "2026-10-17T02:33:38.295Z",
   "geopolitics": [
     {
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-16T20:02:21.000Z"
+      "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-16T23:55:57.000Z"
+    },
+    {
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T23:54:35.000Z"
+    },
+    {
+      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+      "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-16T23:27:01.000Z"
+    },
+    {
+      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-16T22:48:54.000Z"
+    },
+    {
+      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-16T21:56:07.000Z"
     },
     {
       "title": "Katie Zacharia out as Trump's White House press secretary",
       "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-16T19:47:26.000Z"
+      "publishedAt": "2026-10-16T21:26:15.000Z"
     },
     {
-      "title": "Trump told new press secretary to ‘reconsider’ role",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-16T19:41:15.000Z"
-    },
-    {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T19:33:48.000Z"
-    },
-    {
-      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-16T19:28:46.000Z"
-    },
-    {
-      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-16T19:18:13.000Z"
-    },
-    {
-      "title": "What we learned from heated US midterm Senate debates",
-      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T19:09:37.000Z"
-    },
-    {
-      "title": "White House press secretary Katie Zacharia fired after five days on the job",
-      "link": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-16T18:58:06.000Z"
+      "publishedAt": "2026-10-16T21:08:50.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-16T22:33:05.000Z"
+    },
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-16T21:59:00.000Z"
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-16T21:35:00.000Z"
+    },
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-16T21:30:00.000Z"
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-16T21:21:00.000Z"
+    },
+    {
+      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-16T20:58:00.000Z"
+    },
     {
       "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
       "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
@@ -62,42 +98,6 @@
       "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-16T19:45:00.000Z"
-    },
-    {
-      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T19:45:00.000Z"
-    },
-    {
-      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T18:37:00.000Z"
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T18:04:20.000Z"
-    },
-    {
-      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T16:27:31.000Z"
-    },
-    {
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T16:15:44.000Z"
-    },
-    {
-      "title": "Economists: Hot PPI shows Fed's work is not done",
-      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T15:37:59.000Z"
     }
   ]
 }
