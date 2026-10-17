@@ -1,56 +1,92 @@
 {
-  "updatedAt": "2026-10-17T10:00:08.235Z",
+  "updatedAt": "2026-10-17T14:47:50.669Z",
   "geopolitics": [
+    {
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T13:56:29.000Z"
+    },
+    {
+      "title": "Why Trump’s latest White House press secretary lasted just five days",
+      "link": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T13:41:49.000Z"
+    },
+    {
+      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-17T13:30:01.000Z"
+    },
+    {
+      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T12:27:49.000Z"
+    },
+    {
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T12:10:56.000Z"
+    },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-17T09:42:13.000Z"
+      "publishedAt": "2026-10-17T11:56:06.000Z"
     },
     {
-      "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
-      "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T09:31:47.000Z"
+      "publishedAt": "2026-10-17T11:22:41.000Z"
     },
     {
-      "title": "Iran-backed Houthis strike Yemen’s Aden: What that means",
-      "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T09:16:48.000Z"
-    },
-    {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T09:14:10.000Z"
-    },
-    {
-      "title": "Israeli raids and arrests in southern Syria push population to the brink",
-      "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T07:17:06.000Z"
-    },
-    {
-      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T06:41:34.000Z"
-    },
-    {
-      "title": "Ukraine and Europe have little choice but to work with Trump",
-      "link": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T06:36:03.000Z"
-    },
-    {
-      "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-      "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-17T05:46:20.000Z"
+      "publishedAt": "2026-10-17T11:10:22.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+      "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T12:30:00.000Z"
+    },
+    {
+      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+      "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T12:01:00.000Z"
+    },
+    {
+      "title": "It was another great week for the average stock as market leadership shifts away from tech",
+      "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T11:30:00.000Z"
+    },
+    {
+      "title": "Fed interest-rate decision this month is a closer call than markets think",
+      "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-17T11:00:00.000Z"
+    },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -62,42 +98,6 @@
       "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-16T21:59:00.000Z"
-    },
-    {
-      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T21:35:00.000Z"
-    },
-    {
-      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T21:30:00.000Z"
-    },
-    {
-      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T21:21:00.000Z"
-    },
-    {
-      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
-      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T20:58:00.000Z"
-    },
-    {
-      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T20:05:00.000Z"
-    },
-    {
-      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-16T19:45:00.000Z"
     }
   ]
 }
