@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-18T15:12:58.704Z",
+  "updatedAt": "2026-10-18T19:57:07.151Z",
   "geopolitics": [
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T19:42:37.000Z"
+    },
     {
       "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
       "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-18T14:48:33.000Z"
+      "publishedAt": "2026-10-18T19:37:28.000Z"
     },
     {
-      "title": "France protests live: Macron to address nation after protests",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T14:26:11.000Z"
-    },
-    {
-      "title": "Why is Trump now encouraging mail-in voting?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T14:09:16.000Z"
-    },
-    {
-      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-      "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-18T13:52:24.000Z"
-    },
-    {
-      "title": "Sudan army accused of drone strike on livestock market",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T13:37:03.000Z"
-    },
-    {
-      "title": "Gaza families fear food shortages as Israel halts commercial shipments",
-      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T13:16:13.000Z"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-18T12:16:14.000Z"
+      "publishedAt": "2026-10-18T19:14:10.000Z"
     },
     {
-      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T12:07:34.000Z"
+      "publishedAt": "2026-10-18T19:11:27.000Z"
+    },
+    {
+      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-18T18:44:30.000Z"
+    },
+    {
+      "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-18T18:36:02.000Z"
+    },
+    {
+      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-18T18:22:11.000Z"
+    },
+    {
+      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-18T17:52:37.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-18T16:15:00.000Z"
+    },
     {
       "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
       "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
@@ -70,18 +76,6 @@
       "publishedAt": "2026-10-18T12:00:00.000Z"
     },
     {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-17T16:47:00.000Z"
-    },
-    {
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-17T13:00:00.000Z"
-    },
-    {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "source": "CNBC Markets",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-15T16:15:44.000Z"
+    },
+    {
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T15:37:59.000Z"
     }
   ]
 }
