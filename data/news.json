@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-10-18T19:57:07.151Z",
+  "updatedAt": "2026-10-19T02:48:29.729Z",
   "geopolitics": [
     {
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T19:42:37.000Z"
-    },
-    {
-      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-      "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+      "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-18T19:37:28.000Z"
+      "publishedAt": "2026-10-19T02:06:45.000Z"
     },
     {
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian Greens senator denies claims of misconduct towards women",
+      "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-18T19:14:10.000Z"
+      "publishedAt": "2026-10-19T01:32:40.000Z"
     },
     {
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T19:11:27.000Z"
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T00:06:25.000Z"
     },
     {
-      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T18:44:30.000Z"
+      "publishedAt": "2026-10-18T23:59:34.000Z"
     },
     {
-      "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+      "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T18:36:02.000Z"
+      "publishedAt": "2026-10-18T23:58:05.000Z"
     },
     {
-      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T18:22:11.000Z"
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T23:28:45.000Z"
     },
     {
-      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T17:52:37.000Z"
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T23:20:15.000Z"
+    },
+    {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T23:06:09.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-18T23:00:01.000Z"
+    },
     {
       "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
       "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-15T16:15:44.000Z"
-    },
-    {
-      "title": "Economists: Hot PPI shows Fed's work is not done",
-      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T15:37:59.000Z"
     }
   ]
 }
