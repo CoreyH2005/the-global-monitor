@@ -1,85 +1,79 @@
 {
-  "updatedAt": "2026-10-19T11:49:07.609Z",
+  "updatedAt": "2026-10-19T18:09:16.396Z",
   "geopolitics": [
     {
-      "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+      "title": "Chuck Schumer urges FCC to block AI robocalls before elections",
+      "link": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T11:35:52.000Z"
+      "publishedAt": "2026-10-19T17:40:56.000Z"
     },
     {
-      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+      "link": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T17:24:28.000Z"
+    },
+    {
+      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T17:16:22.000Z"
+    },
+    {
+      "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
+      "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T17:14:41.000Z"
+    },
+    {
+      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+      "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-19T17:01:26.000Z"
+    },
+    {
+      "title": "Iran War backlash threatens Republican control of Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T16:24:30.000Z"
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-19T11:23:36.000Z"
+      "publishedAt": "2026-10-19T16:20:51.000Z"
     },
     {
-      "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-      "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T10:49:23.000Z"
-    },
-    {
-      "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
-      "link": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T10:43:55.000Z"
-    },
-    {
-      "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-      "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-19T10:36:47.000Z"
-    },
-    {
-      "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
-      "link": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T10:08:06.000Z"
-    },
-    {
-      "title": "Mexican protesters demanding clean water storm state congress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T10:08:01.000Z"
-    },
-    {
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-      "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-19T10:00:01.000Z"
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T16:16:51.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
-      "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T11:30:00.000Z"
+      "publishedAt": "2026-10-19T16:59:00.000Z"
     },
     {
-      "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-19T10:23:00.000Z"
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-19T16:42:14.000Z"
     },
     {
-      "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-      "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T09:58:00.000Z"
+      "publishedAt": "2026-10-19T16:42:00.000Z"
     },
     {
-      "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
-      "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
+      "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T09:03:00.000Z"
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-18T16:15:00.000Z"
+      "publishedAt": "2026-10-19T16:35:00.000Z"
     },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-15T16:15:44.000Z"
+    },
+    {
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T15:37:59.000Z"
     }
   ]
 }
