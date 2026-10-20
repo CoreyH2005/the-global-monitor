@@ -1,85 +1,73 @@
 {
-  "updatedAt": "2026-10-20T02:58:58.799Z",
+  "updatedAt": "2026-10-20T10:47:35.025Z",
   "geopolitics": [
     {
-      "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-      "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+      "link": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-20T02:16:25.000Z"
+      "publishedAt": "2026-10-20T10:30:49.000Z"
     },
     {
-      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-      "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-20T01:53:34.000Z"
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T10:24:28.000Z"
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T10:13:19.000Z"
+    },
+    {
+      "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+      "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-20T10:02:57.000Z"
+    },
+    {
+      "title": "Albertans reject referendum on independence from Canada",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T09:42:04.000Z"
+    },
+    {
+      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
+      "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T09:26:02.000Z"
+    },
+    {
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-20T01:52:43.000Z"
+      "publishedAt": "2026-10-20T08:53:06.000Z"
     },
     {
-      "title": "The human cost of surging US air strikes in Somalia",
-      "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
+      "title": "French protests: Is it game over for Macron’s centrists before elections?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T01:52:32.000Z"
-    },
-    {
-      "title": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T01:50:15.000Z"
-    },
-    {
-      "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T01:05:31.000Z"
-    },
-    {
-      "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T00:18:48.000Z"
-    },
-    {
-      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
-      "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T00:18:20.000Z"
+      "publishedAt": "2026-10-20T08:46:25.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Three big takeaways from the IMF-World Bank meetings",
-      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-20T00:33:34.000Z"
+      "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
+      "link": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-20T10:30:00.000Z"
     },
     {
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
-      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "title": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
+      "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T21:06:00.000Z"
+      "publishedAt": "2026-10-20T10:15:00.000Z"
     },
     {
-      "title": "SpaceX earnings will be all about AI — for better or for worse",
-      "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+      "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
+      "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-19T21:02:00.000Z"
-    },
-    {
-      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-      "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-19T21:00:00.000Z"
-    },
-    {
-      "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-      "link": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-19T21:00:00.000Z"
+      "publishedAt": "2026-10-20T09:30:00.000Z"
     },
     {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-16T16:27:31.000Z"
+    },
+    {
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T16:15:44.000Z"
+    },
+    {
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T15:37:59.000Z"
     }
   ]
 }
