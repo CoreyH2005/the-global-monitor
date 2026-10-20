@@ -1,79 +1,91 @@
 {
-  "updatedAt": "2026-10-20T16:10:36.455Z",
+  "updatedAt": "2026-10-20T21:07:35.493Z",
   "geopolitics": [
     {
-      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-      "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-20T16:09:15.000Z"
-    },
-    {
-      "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T15:46:30.000Z"
+      "publishedAt": "2026-10-20T20:32:29.000Z"
     },
     {
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T20:23:52.000Z"
+    },
+    {
+      "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T20:17:53.000Z"
+    },
+    {
+      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+      "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-20T20:05:39.000Z"
+    },
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-20T15:39:04.000Z"
+      "publishedAt": "2026-10-20T20:01:04.000Z"
     },
     {
-      "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T20:00:57.000Z"
+    },
+    {
+      "title": "Is money ruining US elections?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T15:19:17.000Z"
+      "publishedAt": "2026-10-20T19:59:46.000Z"
     },
     {
-      "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-      "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-20T15:15:42.000Z"
-    },
-    {
-      "title": "France to deploy military as it braces for fresh unrest this weekend",
-      "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-20T15:01:38.000Z"
-    },
-    {
-      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
-      "link": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T14:42:47.000Z"
-    },
-    {
-      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T14:39:50.000Z"
+      "publishedAt": "2026-10-20T19:51:09.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T15:58:00.000Z"
+      "publishedAt": "2026-10-20T20:54:00.000Z"
     },
     {
-      "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-      "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T15:27:00.000Z"
+      "publishedAt": "2026-10-20T20:45:00.000Z"
     },
     {
-      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-      "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T15:01:00.000Z"
+      "publishedAt": "2026-10-20T19:35:00.000Z"
     },
     {
-      "title": "Here’s why GM’s stock is having its worst day in over a year",
-      "link": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-20T19:28:43.000Z"
+    },
+    {
+      "title": "Here’s what matters most to Tesla investors heading into earnings",
+      "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T14:35:00.000Z"
+      "publishedAt": "2026-10-20T18:15:00.000Z"
+    },
+    {
+      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+      "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-20T17:38:00.000Z"
     },
     {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-16T22:33:05.000Z"
-    },
-    {
-      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T16:27:31.000Z"
-    },
-    {
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T16:15:44.000Z"
     }
   ]
 }
