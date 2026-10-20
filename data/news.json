@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-10-20T10:47:35.025Z",
+  "updatedAt": "2026-10-20T16:10:36.455Z",
   "geopolitics": [
     {
-      "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-      "link": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
+      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-20T10:30:49.000Z"
+      "publishedAt": "2026-10-20T16:09:15.000Z"
     },
     {
-      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-      "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+      "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T10:24:28.000Z"
+      "publishedAt": "2026-10-20T15:46:30.000Z"
     },
     {
-      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T15:39:04.000Z"
+    },
+    {
+      "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+      "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T10:13:19.000Z"
+      "publishedAt": "2026-10-20T15:19:17.000Z"
     },
     {
-      "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+      "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+      "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-20T15:15:42.000Z"
+    },
+    {
+      "title": "France to deploy military as it braces for fresh unrest this weekend",
       "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-20T10:02:57.000Z"
+      "publishedAt": "2026-10-20T15:01:38.000Z"
     },
     {
-      "title": "Albertans reject referendum on independence from Canada",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T09:42:04.000Z"
+      "publishedAt": "2026-10-20T14:42:47.000Z"
     },
     {
-      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-      "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T09:26:02.000Z"
-    },
-    {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T08:53:06.000Z"
-    },
-    {
-      "title": "French protests: Is it game over for Macron’s centrists before elections?",
-      "link": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T08:46:25.000Z"
+      "publishedAt": "2026-10-20T14:39:50.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
-      "link": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
+      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T10:30:00.000Z"
+      "publishedAt": "2026-10-20T15:58:00.000Z"
     },
     {
-      "title": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
-      "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+      "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+      "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T10:15:00.000Z"
+      "publishedAt": "2026-10-20T15:27:00.000Z"
     },
     {
-      "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
-      "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+      "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-20T09:30:00.000Z"
+      "publishedAt": "2026-10-20T15:01:00.000Z"
+    },
+    {
+      "title": "Here’s why GM’s stock is having its worst day in over a year",
+      "link": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-20T14:35:00.000Z"
     },
     {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-15T16:15:44.000Z"
-    },
-    {
-      "title": "Economists: Hot PPI shows Fed's work is not done",
-      "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T15:37:59.000Z"
     }
   ]
 }
