@@ -1,91 +1,79 @@
 {
-  "updatedAt": "2026-10-21T10:59:16.900Z",
+  "updatedAt": "2026-10-21T16:26:14.982Z",
   "geopolitics": [
     {
-      "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "title": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
+      "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-21T16:18:27.000Z"
+    },
+    {
+      "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
+      "link": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-21T15:58:45.000Z"
+    },
+    {
+      "title": "Russia ready to resume talks with Ukraine and US to end war",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-21T10:52:00.000Z"
+      "publishedAt": "2026-10-21T15:56:21.000Z"
     },
     {
-      "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
-      "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-21T10:34:20.000Z"
-    },
-    {
-      "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-      "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-21T10:32:40.000Z"
-    },
-    {
-      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
+      "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
+      "link": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T10:22:35.000Z"
+      "publishedAt": "2026-10-21T15:09:33.000Z"
     },
     {
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+      "title": "Russia to send first diesel tanker to the US amid Trump deal",
+      "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T09:02:18.000Z"
+      "publishedAt": "2026-10-21T14:54:55.000Z"
     },
     {
-      "title": "Trump snaps at reporter, ordering him to be quiet",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss",
+      "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T08:29:08.000Z"
+      "publishedAt": "2026-10-21T14:39:08.000Z"
     },
     {
-      "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
+      "title": "Russia releases American Stephen Hubbard after four years in prison",
+      "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T08:05:28.000Z"
+      "publishedAt": "2026-10-21T14:31:53.000Z"
     },
     {
-      "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-      "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
+      "title": "US congressional candidate Brad Lander freed after West Bank detention",
+      "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T07:37:19.000Z"
+      "publishedAt": "2026-10-21T14:12:15.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-21T08:55:00.000Z"
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-21T15:30:50.000Z"
     },
     {
-      "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
+      "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
       "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-21T08:50:00.000Z"
+      "publishedAt": "2026-10-21T15:27:00.000Z"
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-21T11:20:58.000Z"
     },
     {
       "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
       "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-21T07:50:10.000Z"
-    },
-    {
-      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-21T00:24:00.000Z"
-    },
-    {
-      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-21T00:15:00.000Z"
-    },
-    {
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-20T19:28:43.000Z"
     },
     {
       "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-16T22:33:05.000Z"
+    },
+    {
+      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-16T16:27:31.000Z"
+    },
+    {
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-15T16:15:44.000Z"
     }
   ]
 }
