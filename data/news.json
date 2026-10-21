@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-10-21T16:26:14.982Z",
+  "updatedAt": "2026-10-21T21:06:24.015Z",
   "geopolitics": [
     {
-      "title": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
-      "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-21T16:18:27.000Z"
+      "publishedAt": "2026-10-21T20:57:12.000Z"
+    },
+    {
+      "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-21T20:45:16.000Z"
+    },
+    {
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-21T20:34:57.000Z"
+    },
+    {
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T19:58:06.000Z"
     },
     {
       "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
       "link": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-21T15:58:45.000Z"
+      "publishedAt": "2026-10-21T19:52:11.000Z"
     },
     {
-      "title": "Russia ready to resume talks with Ukraine and US to end war",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T15:56:21.000Z"
-    },
-    {
-      "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
-      "link": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
+      "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T15:09:33.000Z"
+      "publishedAt": "2026-10-21T19:01:05.000Z"
     },
     {
-      "title": "Russia to send first diesel tanker to the US amid Trump deal",
-      "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T14:54:55.000Z"
+      "publishedAt": "2026-10-21T18:58:29.000Z"
     },
     {
-      "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+      "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T14:39:08.000Z"
-    },
-    {
-      "title": "Russia releases American Stephen Hubbard after four years in prison",
-      "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T14:31:53.000Z"
-    },
-    {
-      "title": "US congressional candidate Brad Lander freed after West Bank detention",
-      "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T14:12:15.000Z"
+      "publishedAt": "2026-10-21T18:29:38.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-21T20:59:00.000Z"
+    },
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
       "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-21T15:30:50.000Z"
-    },
-    {
-      "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-21T15:27:00.000Z"
     },
     {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
