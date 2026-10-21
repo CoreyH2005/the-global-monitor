@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-10-21T02:53:36.553Z",
+  "updatedAt": "2026-10-21T10:59:16.900Z",
   "geopolitics": [
     {
-      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T02:18:10.000Z"
-    },
-    {
-      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "title": "Is Donald Trump ready to do business with Myanmar?",
-      "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-20T23:21:39.000Z"
+      "publishedAt": "2026-10-21T10:52:00.000Z"
     },
     {
-      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+      "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-21T10:34:20.000Z"
+    },
+    {
+      "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+      "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-21T10:32:40.000Z"
+    },
+    {
+      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+      "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T23:19:52.000Z"
+      "publishedAt": "2026-10-21T10:22:35.000Z"
     },
     {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T22:22:17.000Z"
-    },
-    {
-      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-      "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+      "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T22:20:13.000Z"
+      "publishedAt": "2026-10-21T09:02:18.000Z"
     },
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T21:27:39.000Z"
-    },
-    {
-      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "title": "Trump snaps at reporter, ordering him to be quiet",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T21:27:38.000Z"
+      "publishedAt": "2026-10-21T08:29:08.000Z"
+    },
+    {
+      "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-21T08:05:28.000Z"
+    },
+    {
+      "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
+      "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-21T07:37:19.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-21T08:55:00.000Z"
+    },
+    {
+      "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-21T08:50:00.000Z"
+    },
+    {
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-21T07:50:10.000Z"
+    },
     {
       "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
       "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
@@ -62,24 +80,6 @@
       "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-21T00:15:00.000Z"
-    },
-    {
-      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-21T00:14:00.000Z"
-    },
-    {
-      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-21T00:12:00.000Z"
-    },
-    {
-      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-20T23:10:00.000Z"
     },
     {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
