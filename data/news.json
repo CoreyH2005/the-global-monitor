@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-10-22T16:26:45.908Z",
+  "updatedAt": "2026-10-22T21:05:38.333Z",
   "geopolitics": [
     {
-      "title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
-      "link": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+      "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-22T16:24:20.000Z"
+      "publishedAt": "2026-10-22T21:02:07.000Z"
     },
     {
-      "title": "Why governments pulled websites offline over the decades-old PHP programming language",
-      "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-22T16:19:34.000Z"
-    },
-    {
-      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T16:16:49.000Z"
-    },
-    {
-      "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
-      "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-22T15:36:13.000Z"
-    },
-    {
-      "title": "French weekend protests to be limited to union demos only, says Macron",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T15:22:48.000Z"
-    },
-    {
-      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-      "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-22T15:20:12.000Z"
-    },
-    {
-      "title": "From the streets to the ballot box: Serbia’s students hope for election win",
-      "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
+      "title": "IEA chief warns energy is becoming a geopolitical weapon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-22T15:13:34.000Z"
+      "publishedAt": "2026-10-22T20:51:26.000Z"
     },
     {
-      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-22T15:08:47.000Z"
+      "publishedAt": "2026-10-22T20:47:59.000Z"
+    },
+    {
+      "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+      "link": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-22T20:26:48.000Z"
+    },
+    {
+      "title": "Thousands gather at final student-led rally ahead of Serbia election",
+      "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T20:21:12.000Z"
+    },
+    {
+      "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-22T20:15:42.000Z"
+    },
+    {
+      "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T20:05:22.000Z"
+    },
+    {
+      "title": "White evangelical support for Trump slips but still strong as midterms near",
+      "link": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T19:31:47.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+      "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-22T15:33:00.000Z"
+      "publishedAt": "2026-10-22T20:46:00.000Z"
+    },
+    {
+      "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+      "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-22T20:14:00.000Z"
+    },
+    {
+      "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+      "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-22T17:16:00.000Z"
     },
     {
       "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
       "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-10-22T14:28:10.000Z"
+      "publishedAt": "2026-10-22T16:40:09.000Z"
     },
     {
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-22T12:35:00.000Z"
+      "publishedAt": "2026-10-22T15:33:00.000Z"
     },
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-21T07:50:10.000Z"
-    },
-    {
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-19T16:42:14.000Z"
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T22:33:05.000Z"
     }
   ]
 }
