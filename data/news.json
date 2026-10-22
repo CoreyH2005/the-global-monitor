@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-10-21T21:06:24.015Z",
+  "updatedAt": "2026-10-22T02:59:17.710Z",
   "geopolitics": [
     {
-      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-      "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+      "title": "Can Trump deport Congresswoman Ilhan Omar?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T02:34:46.000Z"
+    },
+    {
+      "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+      "link": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-21T20:57:12.000Z"
+      "publishedAt": "2026-10-22T02:18:29.000Z"
     },
     {
-      "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-      "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T02:16:25.000Z"
+    },
+    {
+      "title": "Tigray resumes daily life amid fears of wider war",
+      "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T02:08:05.000Z"
+    },
+    {
+      "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+      "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-22T01:45:48.000Z"
+    },
+    {
+      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+      "link": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-21T20:45:16.000Z"
+      "publishedAt": "2026-10-22T01:21:10.000Z"
     },
     {
-      "title": "Video shows Israeli settler assaulting Palestinian child",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
+      "title": "Colombian president purges National Museum of works promoting ‘communism’",
+      "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T20:34:57.000Z"
+      "publishedAt": "2026-10-22T01:09:40.000Z"
     },
     {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T19:58:06.000Z"
-    },
-    {
-      "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-      "link": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-21T19:52:11.000Z"
-    },
-    {
-      "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+      "title": "George W Bush’s brother backs Democrat James Talarico in Texas Senate race",
+      "link": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T19:01:05.000Z"
-    },
-    {
-      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T18:58:29.000Z"
-    },
-    {
-      "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T18:29:38.000Z"
+      "publishedAt": "2026-10-22T01:01:52.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-21T23:29:00.000Z"
+    },
+    {
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-21T23:07:00.000Z"
+    },
+    {
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-21T21:14:00.000Z"
+    },
     {
       "title": "7 healthcare stocks that stand out as investors pay up for the sector",
       "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-19T16:42:14.000Z"
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T22:33:05.000Z"
-    },
-    {
-      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T16:27:31.000Z"
-    },
-    {
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-15T16:15:44.000Z"
     }
   ]
 }
