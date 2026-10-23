@@ -1,91 +1,79 @@
 {
-  "updatedAt": "2026-10-23T02:55:50.720Z",
+  "updatedAt": "2026-10-23T10:51:38.555Z",
   "geopolitics": [
     {
-      "title": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
-      "link": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T02:22:24.000Z"
-    },
-    {
-      "title": "Will ICE agents play a role in the 2026 US midterm elections?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T01:47:39.000Z"
-    },
-    {
-      "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-      "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T01:46:40.000Z"
-    },
-    {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T01:38:44.000Z"
+      "publishedAt": "2026-10-23T10:36:01.000Z"
     },
     {
-      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T23:16:20.000Z"
-    },
-    {
-      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-      "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-22T22:25:14.000Z"
-    },
-    {
-      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-      "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "title": "Democratic socialist set to become D.C. mayor — and face Trump's pushback",
+      "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-22T22:21:08.000Z"
+      "publishedAt": "2026-10-23T10:30:01.000Z"
+    },
+    {
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T10:26:06.000Z"
+    },
+    {
+      "title": "South Korea invites North for military talks over border",
+      "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T10:20:31.000Z"
+    },
+    {
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T10:14:33.000Z"
+    },
+    {
+      "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+      "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-23T10:00:01.000Z"
+    },
+    {
+      "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+      "link": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T09:56:28.000Z"
+    },
+    {
+      "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T09:52:20.000Z"
     }
   ],
   "markets": [
     {
-      "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
-      "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
+      "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-22T22:54:00.000Z"
+      "publishedAt": "2026-10-23T10:45:00.000Z"
     },
     {
       "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
       "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-22T22:17:00.000Z"
+      "publishedAt": "2026-10-23T10:29:00.000Z"
     },
     {
-      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-      "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-22T22:07:00.000Z"
+      "publishedAt": "2026-10-23T09:19:00.000Z"
     },
     {
-      "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
-      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
+      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-22T21:19:00.000Z"
-    },
-    {
-      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-      "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-22T20:46:00.000Z"
-    },
-    {
-      "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
-      "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-22T20:14:00.000Z"
+      "publishedAt": "2026-10-23T09:01:00.000Z"
     },
     {
       "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-21T15:30:50.000Z"
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-21T11:20:58.000Z"
+    },
+    {
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-21T07:50:10.000Z"
     }
   ]
 }
