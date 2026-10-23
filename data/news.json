@@ -1,79 +1,61 @@
 {
-  "updatedAt": "2026-10-23T10:51:38.555Z",
+  "updatedAt": "2026-10-23T16:15:45.032Z",
   "geopolitics": [
     {
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T10:36:01.000Z"
-    },
-    {
-      "title": "Democratic socialist set to become D.C. mayor — and face Trump's pushback",
-      "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-23T10:30:01.000Z"
+      "publishedAt": "2026-10-23T16:15:02.000Z"
     },
     {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+      "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T15:51:29.000Z"
+    },
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:48:04.000Z"
+    },
+    {
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T10:26:06.000Z"
+      "publishedAt": "2026-10-23T15:37:07.000Z"
     },
     {
-      "title": "South Korea invites North for military talks over border",
-      "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T10:20:31.000Z"
-    },
-    {
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T10:14:33.000Z"
-    },
-    {
-      "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-      "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+      "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+      "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-23T10:00:01.000Z"
+      "publishedAt": "2026-10-23T15:33:47.000Z"
     },
     {
-      "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-      "link": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T09:56:28.000Z"
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:30:47.000Z"
     },
     {
-      "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
+      "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+      "link": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-23T15:27:09.000Z"
+    },
+    {
+      "title": "What to know as Brazil prepares for tense presidential run-off",
+      "link": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T09:52:20.000Z"
+      "publishedAt": "2026-10-23T14:56:05.000Z"
     }
   ],
   "markets": [
     {
-      "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
-      "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-23T10:45:00.000Z"
-    },
-    {
-      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-      "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-23T10:29:00.000Z"
-    },
-    {
       "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
       "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-23T09:19:00.000Z"
-    },
-    {
-      "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-23T09:01:00.000Z"
+      "publishedAt": "2026-10-23T14:40:00.000Z"
     },
     {
       "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
@@ -98,6 +80,24 @@
       "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-21T07:50:10.000Z"
+    },
+    {
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-10-19T16:42:14.000Z"
+    },
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-16T22:33:05.000Z"
+    },
+    {
+      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-16T16:27:31.000Z"
     }
   ]
 }
