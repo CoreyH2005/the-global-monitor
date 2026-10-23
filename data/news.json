@@ -1,61 +1,73 @@
 {
-  "updatedAt": "2026-10-23T16:15:45.032Z",
+  "updatedAt": "2026-10-23T20:52:09.352Z",
   "geopolitics": [
     {
-      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-      "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+      "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-23T16:15:02.000Z"
+      "publishedAt": "2026-10-23T20:48:01.000Z"
     },
     {
-      "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-      "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+      "title": "Why is Trump questioning Ilhan Omar’s name?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T15:51:29.000Z"
+      "publishedAt": "2026-10-23T20:37:19.000Z"
     },
     {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T15:48:04.000Z"
-    },
-    {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T15:37:07.000Z"
-    },
-    {
-      "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-      "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+      "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-23T15:33:47.000Z"
+      "publishedAt": "2026-10-23T20:20:08.000Z"
     },
     {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T15:30:47.000Z"
+      "publishedAt": "2026-10-23T20:18:13.000Z"
     },
     {
-      "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
-      "link": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-23T15:27:09.000Z"
-    },
-    {
-      "title": "What to know as Brazil prepares for tense presidential run-off",
-      "link": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
+      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T14:56:05.000Z"
+      "publishedAt": "2026-10-23T20:02:21.000Z"
+    },
+    {
+      "title": "Trump’s broken promises: economy, war and ICE",
+      "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T20:01:21.000Z"
+    },
+    {
+      "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-23T19:53:13.000Z"
+    },
+    {
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-23T19:50:26.000Z"
     }
   ],
   "markets": [
     {
-      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-23T14:40:00.000Z"
+      "publishedAt": "2026-10-23T20:50:00.000Z"
+    },
+    {
+      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+      "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-23T20:19:00.000Z"
+    },
+    {
+      "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
+      "link": "https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-23T18:19:00.000Z"
     },
     {
       "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-10-19T16:42:14.000Z"
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T22:33:05.000Z"
-    },
-    {
-      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T16:27:31.000Z"
     }
   ]
 }
