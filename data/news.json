@@ -1,61 +1,79 @@
 {
-  "updatedAt": "2026-10-26T02:42:55.417Z",
+  "updatedAt": "2026-10-26T12:04:21.097Z",
   "geopolitics": [
     {
-      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
       "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-26T02:18:09.000Z"
+      "publishedAt": "2026-10-26T12:02:12.000Z"
     },
     {
-      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T01:02:57.000Z"
+      "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+      "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-26T11:49:17.000Z"
     },
     {
-      "title": "Serbia celebrates historic election win for student-backed movement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T00:58:21.000Z"
-    },
-    {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T00:16:29.000Z"
-    },
-    {
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T00:02:55.000Z"
-    },
-    {
-      "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T00:00:00.000Z"
-    },
-    {
-      "title": "Bulgaria election heads to a run-off amid low voter turnout",
-      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-25T22:57:17.000Z"
-    },
-    {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-25T22:11:13.000Z"
+      "publishedAt": "2026-10-26T11:39:16.000Z"
+    },
+    {
+      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-26T11:33:09.000Z"
+    },
+    {
+      "title": "Five ways Trump has changed immigration in the US",
+      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T11:29:02.000Z"
+    },
+    {
+      "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+      "link": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-26T11:28:25.000Z"
+    },
+    {
+      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+      "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-26T11:04:55.000Z"
+    },
+    {
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T11:02:20.000Z"
     }
   ],
   "markets": [
     {
-      "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-      "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+      "title": "The stock market’s biggest test in weeks is here",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-25T14:00:00.000Z"
+      "publishedAt": "2026-10-26T11:37:00.000Z"
+    },
+    {
+      "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
+      "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-26T11:11:00.000Z"
+    },
+    {
+      "title": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.",
+      "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-26T10:04:00.000Z"
+    },
+    {
+      "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
+      "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-26T09:02:00.000Z"
     },
     {
       "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-21T07:50:10.000Z"
-    },
-    {
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-19T16:42:14.000Z"
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T22:33:05.000Z"
-    },
-    {
-      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-      "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-16T16:27:31.000Z"
     }
   ]
 }
