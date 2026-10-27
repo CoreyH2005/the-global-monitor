@@ -1,67 +1,85 @@
 {
-  "updatedAt": "2026-10-27T17:13:21.779Z",
+  "updatedAt": "2026-10-27T21:41:15.674Z",
   "geopolitics": [
     {
-      "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
+      "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-27T21:12:41.000Z"
+    },
+    {
+      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T17:03:45.000Z"
+      "publishedAt": "2026-10-27T21:12:27.000Z"
     },
     {
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-27T17:00:51.000Z"
-    },
-    {
-      "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-      "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-27T16:35:45.000Z"
-    },
-    {
-      "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
-      "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-27T16:15:21.000Z"
+      "publishedAt": "2026-10-27T21:09:12.000Z"
     },
     {
       "title": "Lula’s election win leaves Brazil facing a fiscal tightrope",
       "link": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-27T16:12:05.000Z"
+      "publishedAt": "2026-10-27T21:07:38.000Z"
     },
     {
-      "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
+      "title": "US says it killed five people in strike on alleged drug boat",
+      "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T16:05:22.000Z"
+      "publishedAt": "2026-10-27T20:54:38.000Z"
     },
     {
-      "title": "Iranian and Qatari leaders meet at Russian energy forum",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+      "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T15:49:19.000Z"
+      "publishedAt": "2026-10-27T20:38:17.000Z"
     },
     {
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-27T20:34:44.000Z"
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-27T15:41:46.000Z"
+      "publishedAt": "2026-10-27T20:19:53.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-27T21:20:00.000Z"
+    },
+    {
+      "title": "The big reason Boeing’s stock is falling so hard after earnings",
+      "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-27T20:43:00.000Z"
+    },
+    {
+      "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+      "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-27T20:40:00.000Z"
+    },
+    {
       "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
       "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-27T16:52:00.000Z"
+      "publishedAt": "2026-10-27T20:38:00.000Z"
     },
     {
-      "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
-      "link": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
+      "title": "What gold and platinum are telling us about the stock market’s direction",
+      "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-27T16:38:00.000Z"
+      "publishedAt": "2026-10-27T20:30:00.000Z"
     },
     {
       "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
@@ -76,28 +94,10 @@
       "publishedAt": "2026-10-27T15:51:00.000Z"
     },
     {
-      "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-27T15:25:00.000Z"
-    },
-    {
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-27T15:03:00.000Z"
-    },
-    {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-26T18:33:51.000Z"
-    },
-    {
-      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-      "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-22T16:40:09.000Z"
     }
   ]
 }
