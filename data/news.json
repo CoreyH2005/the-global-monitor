@@ -1,85 +1,91 @@
 {
-  "updatedAt": "2026-10-27T03:17:18.946Z",
+  "updatedAt": "2026-10-27T11:24:30.206Z",
   "geopolitics": [
     {
-      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+      "link": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-27T11:22:42.000Z"
+    },
+    {
+      "title": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
+      "link": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-27T11:18:31.000Z"
+    },
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-27T02:40:17.000Z"
+      "publishedAt": "2026-10-27T11:17:27.000Z"
     },
     {
-      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:11:33.000Z"
+    },
+    {
+      "title": "Families of victims killed in Jordanian strike deny links to church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-27T10:52:48.000Z"
+    },
+    {
+      "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+      "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-27T02:37:31.000Z"
+      "publishedAt": "2026-10-27T10:41:01.000Z"
     },
     {
-      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-      "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T02:29:00.000Z"
+      "publishedAt": "2026-10-27T10:36:54.000Z"
     },
     {
-      "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+      "title": "North Korean howitzer guns spotted close to border with South Korea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T02:17:06.000Z"
-    },
-    {
-      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-      "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T01:32:54.000Z"
-    },
-    {
-      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-      "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-27T01:24:28.000Z"
-    },
-    {
-      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T01:06:50.000Z"
-    },
-    {
-      "title": "US court rules against Trump administration in California voting case",
-      "link": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T01:01:53.000Z"
+      "publishedAt": "2026-10-27T10:22:20.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Dividend stocks are having an excellent October as tech sector struggles",
-      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "title": "AI stocks haven’t played by the normal valuation rules. Now that rates are higher, they may have to, says UBS",
+      "link": "https://www.marketwatch.com/story/ai-stocks-havent-played-by-the-normal-valuation-rules-now-that-rates-are-higher-they-may-have-to-says-ubs-f8c78948?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-26T22:10:00.000Z"
+      "publishedAt": "2026-10-27T11:15:00.000Z"
     },
     {
       "title": "Options traders are seizing control of the S&P 500",
       "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-26T22:03:00.000Z"
+      "publishedAt": "2026-10-27T11:11:00.000Z"
     },
     {
-      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-26T21:44:00.000Z"
+      "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-27T11:10:01.000Z"
     },
     {
-      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "title": "Dividend stocks are having an excellent October as tech sector struggles",
+      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-26T21:04:00.000Z"
+      "publishedAt": "2026-10-27T11:06:00.000Z"
     },
     {
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "title": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
+      "link": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-26T20:50:00.000Z"
+      "publishedAt": "2026-10-27T11:06:00.000Z"
+    },
+    {
+      "title": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+      "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-27T11:00:00.000Z"
     },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-22T16:40:09.000Z"
-    },
-    {
-      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-10-21T15:30:50.000Z"
     }
   ]
 }
