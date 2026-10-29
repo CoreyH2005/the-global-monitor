@@ -1,79 +1,91 @@
 {
-  "updatedAt": "2026-10-28T22:07:20.973Z",
+  "updatedAt": "2026-10-29T03:53:59.700Z",
   "geopolitics": [
     {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T21:07:06.000Z"
-    },
-    {
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T20:53:02.000Z"
-    },
-    {
-      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-      "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T20:38:01.000Z"
+      "publishedAt": "2026-10-29T03:12:47.000Z"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T20:24:39.000Z"
+      "title": "30-year sentence in Minnesota fraud that drew Trump backlash",
+      "link": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T03:00:57.000Z"
     },
     {
-      "title": "Three media outlets seek full White House access in amended lawsuit",
-      "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+      "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+      "link": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T02:48:38.000Z"
+    },
+    {
+      "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T02:43:29.000Z"
+    },
+    {
+      "title": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T02:42:22.000Z"
+    },
+    {
+      "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T02:01:09.000Z"
+    },
+    {
+      "title": "Israelis rally for Jewish-Arab government after election gains",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T00:34:24.000Z"
+    },
+    {
+      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-28T20:21:03.000Z"
-    },
-    {
-      "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T19:13:32.000Z"
-    },
-    {
-      "title": "What are the implications of Israel’s elections?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T19:03:03.000Z"
-    },
-    {
-      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T19:01:46.000Z"
+      "publishedAt": "2026-10-29T00:11:14.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-29T01:58:00.000Z"
+    },
+    {
+      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-29T00:20:00.000Z"
+    },
+    {
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-29T00:10:00.000Z"
+    },
+    {
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-28T23:18:00.000Z"
+    },
+    {
+      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-28T23:02:00.000Z"
+    },
     {
       "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
       "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-28T21:31:46.000Z"
-    },
-    {
-      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T21:30:00.000Z"
-    },
-    {
-      "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
-      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T21:27:00.000Z"
-    },
-    {
-      "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T21:07:00.000Z"
     },
     {
       "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -82,22 +94,10 @@
       "publishedAt": "2026-10-28T21:06:37.000Z"
     },
     {
-      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T20:49:00.000Z"
-    },
-    {
-      "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-      "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T20:45:00.000Z"
-    },
-    {
-      "title": "Here’s what just sent Oracle’s stock soaring",
-      "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-28T20:38:00.000Z"
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-27T16:15:35.000Z"
     }
   ]
 }
