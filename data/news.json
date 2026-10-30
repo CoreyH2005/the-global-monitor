@@ -1,79 +1,85 @@
 {
-  "updatedAt": "2026-10-30T03:55:59.729Z",
+  "updatedAt": "2026-10-30T11:58:12.443Z",
   "geopolitics": [
     {
-      "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
+      "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T03:31:30.000Z"
+      "publishedAt": "2026-10-30T11:43:17.000Z"
     },
     {
-      "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-      "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-30T03:28:10.000Z"
+      "publishedAt": "2026-10-30T11:30:01.000Z"
     },
     {
-      "title": "Husband of one of Modi’s closest advisors questions election integrity",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T02:41:18.000Z"
-    },
-    {
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T02:40:26.000Z"
-    },
-    {
-      "title": "Salvadoran ex-president Saca released after 10-year sentence for corruption",
-      "link": "https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T02:38:34.000Z"
-    },
-    {
-      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+      "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
       "source": "CNBC World",
-      "publishedAt": "2026-10-30T01:34:32.000Z"
+      "publishedAt": "2026-10-30T11:29:59.000Z"
     },
     {
-      "title": "Trump administration renews bid to block Alaska election results",
-      "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T01:30:30.000Z"
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T11:17:32.000Z"
     },
     {
-      "title": "EU force helicopter crash kills four in Bosnia",
-      "link": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+      "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+      "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-30T11:12:17.000Z"
+    },
+    {
+      "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+      "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T00:56:49.000Z"
+      "publishedAt": "2026-10-30T11:08:00.000Z"
+    },
+    {
+      "title": "Activists urge Eisenkot to form new Israeli gov’t with Arab parties",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/activists-urge-eisenkot-to-form-new-israeli-govt-with-arab-parties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-30T10:52:08.000Z"
+    },
+    {
+      "title": "How can Israel break its election deadlock?",
+      "link": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-30T10:50:21.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-      "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "title": "Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.",
+      "link": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-30T00:15:00.000Z"
+      "publishedAt": "2026-10-30T11:32:00.000Z"
     },
     {
-      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-30T00:06:00.000Z"
-    },
-    {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-30T00:05:00.000Z"
-    },
-    {
-      "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+      "title": "Why Intel’s stock is sinking toward its worst day in two years — and a $128 billion wipeout",
       "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-29T23:21:00.000Z"
+      "publishedAt": "2026-10-30T11:27:00.000Z"
+    },
+    {
+      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+      "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-30T11:16:46.000Z"
+    },
+    {
+      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-30T11:01:00.000Z"
+    },
+    {
+      "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
+      "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-30T10:34:00.000Z"
     },
     {
       "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-29T14:53:06.000Z"
-    },
-    {
-      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-29T14:48:01.000Z"
     }
   ]
 }
