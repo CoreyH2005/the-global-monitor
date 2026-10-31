@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-10-30T21:51:54.740Z",
+  "updatedAt": "2026-10-31T03:40:19.192Z",
   "geopolitics": [
     {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T02:44:38.000Z"
+    },
+    {
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-30T21:13:14.000Z"
+      "publishedAt": "2026-10-31T02:39:25.000Z"
+    },
+    {
+      "title": "Poland’s president joins protest amid constitutional crisis at top court",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T02:24:00.000Z"
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T02:12:19.000Z"
+    },
+    {
+      "title": "Pope Leo becomes first pontiff to vote in US general election",
+      "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T01:31:44.000Z"
+    },
+    {
+      "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T01:26:34.000Z"
+    },
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T00:40:43.000Z"
     },
     {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-30T20:55:18.000Z"
-    },
-    {
-      "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
-      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-30T20:46:04.000Z"
-    },
-    {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T20:41:51.000Z"
-    },
-    {
-      "title": "US appeals court again rejects Trump bid to set aside California ballots",
-      "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T20:39:50.000Z"
-    },
-    {
-      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T20:37:20.000Z"
-    },
-    {
-      "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-30T20:30:57.000Z"
-    },
-    {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T20:13:36.000Z"
+      "publishedAt": "2026-10-31T00:29:58.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-30T23:14:00.000Z"
+    },
+    {
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-30T22:20:00.000Z"
+    },
     {
       "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
       "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
@@ -86,18 +98,6 @@
       "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-10-30T20:29:00.000Z"
-    },
-    {
-      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-30T20:28:00.000Z"
-    },
-    {
-      "title": "The selloff in tech stocks is shifting into overdrive",
-      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-30T20:26:00.000Z"
     }
   ]
 }
