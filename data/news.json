@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-10-31T16:39:48.511Z",
+  "updatedAt": "2026-10-31T20:52:42.767Z",
   "geopolitics": [
+    {
+      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-10-31T20:43:30.000Z"
+    },
+    {
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T20:30:35.000Z"
+    },
+    {
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T20:24:58.000Z"
+    },
+    {
+      "title": "What is ranked-choice voting and how does it work in US elections?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T20:11:37.000Z"
+    },
+    {
+      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T20:09:18.000Z"
+    },
+    {
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T19:22:26.000Z"
+    },
+    {
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T18:32:20.000Z"
+    },
     {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-10-31T15:50:41.000Z"
-    },
-    {
-      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-31T14:31:37.000Z"
-    },
-    {
-      "title": "Ethiopian PM puts ministers through military training",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T14:28:15.000Z"
-    },
-    {
-      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-31T14:20:23.000Z"
-    },
-    {
-      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-31T13:35:51.000Z"
-    },
-    {
-      "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
-      "link": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-31T13:04:29.000Z"
-    },
-    {
-      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-31T12:58:28.000Z"
-    },
-    {
-      "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
-      "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-10-31T12:49:58.000Z"
+      "publishedAt": "2026-10-31T17:53:35.000Z"
     }
   ],
   "markets": [
@@ -55,19 +55,7 @@
       "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
       "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-10-31T16:00:00.000Z"
-    },
-    {
-      "title": "The S&P 500 isn’t the big winner you may think it is",
-      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-31T14:54:00.000Z"
-    },
-    {
-      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-31T14:03:00.000Z"
+      "publishedAt": "2026-10-31T19:00:00.000Z"
     },
     {
       "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
@@ -98,6 +86,18 @@
       "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-29T14:48:01.000Z"
+    },
+    {
+      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+      "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-28T21:31:46.000Z"
+    },
+    {
+      "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+      "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-10-28T21:06:37.000Z"
     }
   ]
 }
