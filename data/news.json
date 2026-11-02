@@ -1,67 +1,79 @@
 {
-  "updatedAt": "2026-11-02T03:52:30.867Z",
+  "updatedAt": "2026-11-02T14:29:56.336Z",
   "geopolitics": [
     {
-      "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
+      "title": "How would Tehran respond if the US and Israel bomb Iran again?",
+      "link": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-02T02:41:40.000Z"
+      "publishedAt": "2026-11-02T14:17:31.000Z"
     },
     {
-      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-      "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+      "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-02T02:39:35.000Z"
+      "publishedAt": "2026-11-02T14:15:06.000Z"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T01:45:42.000Z"
-    },
-    {
-      "title": "Ukraine blames Russia after air alert app sends out false warnings",
-      "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+      "title": "US midterms 2026 live: Trump, Democrats make final push amid Michigan rift",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/us-midterms-2026-live-trump-democrats-make-final-push-amid-michigan-rift?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-02T01:40:50.000Z"
+      "publishedAt": "2026-11-02T14:10:31.000Z"
     },
     {
-      "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+      "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-02T13:57:39.000Z"
+    },
+    {
+      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-02T13:23:58.000Z"
+    },
+    {
+      "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-02T01:25:00.000Z"
+      "publishedAt": "2026-11-02T13:04:42.000Z"
     },
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
       "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-02T01:18:27.000Z"
+      "publishedAt": "2026-11-02T12:44:48.000Z"
     },
     {
-      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-      "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
+      "link": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-02T00:29:16.000Z"
-    },
-    {
-      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-02T00:00:00.000Z"
+      "publishedAt": "2026-11-02T12:14:10.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Oracle’s stock falls as the company details plan to raise $20 billion",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-02T14:03:00.000Z"
+    },
+    {
+      "title": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
+      "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-02T13:46:00.000Z"
+    },
+    {
       "title": "This is the biggest threat to the AI-powered bull market",
       "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-02T00:22:00.000Z"
+      "publishedAt": "2026-11-02T12:23:00.000Z"
     },
     {
-      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+      "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
+      "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-02T00:21:00.000Z"
+      "publishedAt": "2026-11-02T12:20:00.000Z"
     },
     {
       "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-10-29T14:53:06.000Z"
-    },
-    {
-      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-29T14:48:01.000Z"
-    },
-    {
-      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-10-28T21:31:46.000Z"
     }
   ]
 }
