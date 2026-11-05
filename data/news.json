@@ -1,67 +1,79 @@
 {
-  "updatedAt": "2026-11-04T23:04:31.435Z",
+  "updatedAt": "2026-11-05T04:41:07.285Z",
   "geopolitics": [
     {
-      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
-      "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-04T22:55:22.000Z"
+      "publishedAt": "2026-11-05T03:53:18.000Z"
     },
     {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-04T22:48:43.000Z"
+      "publishedAt": "2026-11-05T03:47:56.000Z"
     },
     {
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-04T22:46:43.000Z"
-    },
-    {
-      "title": "Democratic Socialists of America see record wins in US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
+      "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-04T22:45:24.000Z"
+      "publishedAt": "2026-11-05T03:13:08.000Z"
     },
     {
-      "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-      "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-04T22:29:51.000Z"
-    },
-    {
-      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
+      "title": "Former Israeli generals help Palestinian olive farmers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-04T22:06:24.000Z"
+      "publishedAt": "2026-11-05T02:52:30.000Z"
+    },
+    {
+      "title": "Vote counting underway in critical South Africa elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-05T02:43:04.000Z"
+    },
+    {
+      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-05T02:10:07.000Z"
     },
     {
       "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
       "link": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-04T21:57:39.000Z"
+      "publishedAt": "2026-11-05T02:07:35.000Z"
     },
     {
-      "title": "What Republicans' huge loss means for Trump",
-      "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-04T21:50:05.000Z"
+      "title": "Election deniers lose races for governor in key US swing states",
+      "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-05T02:06:07.000Z"
     }
   ],
   "markets": [
     {
-      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-04T22:46:00.000Z"
-    },
-    {
       "title": "Qualcomm’s stock falls as twin forces pressure sales",
       "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-04T22:03:00.000Z"
+      "publishedAt": "2026-11-05T01:06:00.000Z"
+    },
+    {
+      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-05T01:05:00.000Z"
+    },
+    {
+      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-05T01:03:00.000Z"
+    },
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-05T00:38:00.000Z"
     },
     {
       "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
@@ -74,18 +86,6 @@
       "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-11-04T21:55:00.000Z"
-    },
-    {
-      "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
-      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-04T21:48:00.000Z"
-    },
-    {
-      "title": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
-      "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-04T21:33:00.000Z"
     },
     {
       "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
