@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-11-05T23:08:17.069Z",
+  "updatedAt": "2026-11-06T04:41:02.985Z",
   "geopolitics": [
     {
-      "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
-      "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T04:29:25.000Z"
+    },
+    {
+      "title": "Building wind turbines out of parts found in Gaza’s rubble",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-06T04:20:22.000Z"
+    },
+    {
+      "title": "Paraguay’s president impeached amid bank collapse crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-06T03:49:33.000Z"
+    },
+    {
+      "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
+      "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-05T22:21:29.000Z"
+      "publishedAt": "2026-11-06T02:58:02.000Z"
     },
     {
-      "title": "Generation Z and diversity redefine US politics in groundbreaking election",
-      "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T21:49:31.000Z"
+      "publishedAt": "2026-11-06T02:48:19.000Z"
     },
     {
-      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T21:33:40.000Z"
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T02:08:57.000Z"
     },
     {
-      "title": "Saudi coalition intercepts missile fired towards Medina",
-      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T20:48:47.000Z"
+      "publishedAt": "2026-11-06T02:03:47.000Z"
     },
     {
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T20:43:46.000Z"
-    },
-    {
-      "title": "Mass protests in France driven by nationwide strike action",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T20:11:37.000Z"
-    },
-    {
-      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-      "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T20:07:04.000Z"
-    },
-    {
-      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-      "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T19:31:28.000Z"
+      "publishedAt": "2026-11-06T00:19:57.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-06T01:07:00.000Z"
+    },
+    {
+      "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-06T01:06:00.000Z"
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-05T23:48:00.000Z"
+    },
     {
       "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
       "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
@@ -62,12 +80,6 @@
       "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-05T22:31:24.000Z"
-    },
-    {
-      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
-      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-05T22:21:00.000Z"
     },
     {
       "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
@@ -82,22 +94,10 @@
       "publishedAt": "2026-11-05T21:43:00.000Z"
     },
     {
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-05T21:39:00.000Z"
-    },
-    {
-      "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
-      "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-05T21:37:00.000Z"
-    },
-    {
-      "title": "Micron, Sandisk and other AI stocks see steep drops: ‘Investors don’t like uncertainty’",
-      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-05T21:32:00.000Z"
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-05T16:34:33.000Z"
     }
   ]
 }
