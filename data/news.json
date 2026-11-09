@@ -1,73 +1,79 @@
 {
-  "updatedAt": "2026-11-09T04:05:19.020Z",
+  "updatedAt": "2026-11-09T14:54:14.637Z",
   "geopolitics": [
     {
-      "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
+      "title": "Iran stands by demands to end the war as US ramps up military pressure",
+      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T03:26:21.000Z"
+      "publishedAt": "2026-11-09T14:39:32.000Z"
     },
     {
-      "title": "South Africa’s ANC suffers worst-ever local elections result",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+      "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
+      "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T03:09:51.000Z"
+      "publishedAt": "2026-11-09T14:24:51.000Z"
     },
     {
-      "title": "Moldova launches new power line to Romania to cut reliance on Russia",
-      "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+      "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+      "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T02:35:15.000Z"
+      "publishedAt": "2026-11-09T14:24:31.000Z"
     },
     {
-      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-      "link": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+      "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
+      "link": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T00:07:02.000Z"
+      "publishedAt": "2026-11-09T14:14:28.000Z"
     },
     {
-      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "title": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
+      "link": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T00:00:34.000Z"
+      "publishedAt": "2026-11-09T13:44:00.000Z"
     },
     {
-      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-      "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+      "link": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-08T23:39:47.000Z"
+      "publishedAt": "2026-11-09T13:15:27.000Z"
     },
     {
-      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
-      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+      "title": "Which Republicans are running for minority leadership roles in US Congress?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-08T22:16:50.000Z"
+      "publishedAt": "2026-11-09T13:14:57.000Z"
     },
     {
-      "title": "Why Trump joked about having Dana White as his White House press secretary",
-      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+      "link": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-08T22:03:54.000Z"
+      "publishedAt": "2026-11-09T13:08:35.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-09T14:45:00.000Z"
+    },
+    {
+      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+      "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-09T13:36:00.000Z"
+    },
+    {
+      "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
+      "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-09T12:27:00.000Z"
+    },
     {
       "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
       "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-11-09T02:50:22.000Z"
-    },
-    {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-09T00:40:00.000Z"
-    },
-    {
-      "title": "You follow the rules for smart stock trading. But are they the right rules?",
-      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-08T23:15:00.000Z"
     },
     {
       "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-06T19:05:00.000Z"
-    },
-    {
-      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-06T17:09:53.000Z"
     }
   ]
 }
