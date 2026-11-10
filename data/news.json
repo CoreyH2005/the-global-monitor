@@ -1,79 +1,91 @@
 {
-  "updatedAt": "2026-11-10T01:03:22.470Z",
+  "updatedAt": "2026-11-10T14:06:48.486Z",
   "geopolitics": [
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T00:34:53.000Z"
-    },
-    {
-      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-      "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-10T00:17:02.000Z"
+      "publishedAt": "2026-11-10T14:02:52.000Z"
     },
     {
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-10T00:09:49.000Z"
+      "publishedAt": "2026-11-10T13:45:13.000Z"
     },
     {
-      "title": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T23:55:23.000Z"
-    },
-    {
-      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+      "link": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-09T23:54:21.000Z"
+      "publishedAt": "2026-11-10T13:43:38.000Z"
     },
     {
-      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-      "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+      "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T23:53:03.000Z"
+      "publishedAt": "2026-11-10T13:39:22.000Z"
     },
     {
-      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
+      "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T23:47:11.000Z"
+      "publishedAt": "2026-11-10T13:34:33.000Z"
     },
     {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Pentagon Chief Hegseth calls US House impeachment effort a ‘farce’",
+      "link": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-10T13:23:41.000Z"
+    },
+    {
+      "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+      "link": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-10T12:56:41.000Z"
+    },
+    {
+      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-09T23:45:14.000Z"
+      "publishedAt": "2026-11-10T12:25:48.000Z"
     }
   ],
   "markets": [
     {
-      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
-      "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-10T00:48:00.000Z"
+      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-10T13:56:04.000Z"
     },
     {
-      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "title": "Fed’s Waller puts half-point rate hike into the mix for December",
+      "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-09T21:55:00.000Z"
+      "publishedAt": "2026-11-10T13:41:00.000Z"
     },
     {
-      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-      "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-09T21:52:00.000Z"
+      "title": "Polymarket says annualized revenue has topped $1.8 billion",
+      "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-10T13:00:01.000Z"
     },
     {
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "title": "Nvidia couldn’t derail the stock market’s rally. Hot inflation might.",
+      "link": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-09T21:24:00.000Z"
+      "publishedAt": "2026-11-10T12:33:00.000Z"
+    },
+    {
+      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-10T12:32:00.000Z"
+    },
+    {
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-10T09:00:01.000Z"
     },
     {
       "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-11-09T02:50:22.000Z"
-    },
-    {
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-      "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-07T16:02:33.000Z"
-    },
-    {
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-07T15:23:46.000Z"
     }
   ]
 }
