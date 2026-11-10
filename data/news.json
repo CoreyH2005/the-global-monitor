@@ -1,73 +1,85 @@
 {
-  "updatedAt": "2026-11-09T14:54:14.637Z",
+  "updatedAt": "2026-11-10T01:03:22.470Z",
   "geopolitics": [
     {
-      "title": "Iran stands by demands to end the war as US ramps up military pressure",
-      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T14:39:32.000Z"
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T00:34:53.000Z"
     },
     {
-      "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
-      "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T14:24:51.000Z"
+      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+      "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-10T00:17:02.000Z"
     },
     {
-      "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-      "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T14:24:31.000Z"
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T00:09:49.000Z"
     },
     {
-      "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
-      "link": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
+      "title": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T14:14:28.000Z"
+      "publishedAt": "2026-11-09T23:55:23.000Z"
     },
     {
-      "title": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
-      "link": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T13:44:00.000Z"
+      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-09T23:54:21.000Z"
     },
     {
-      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-      "link": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+      "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T13:15:27.000Z"
+      "publishedAt": "2026-11-09T23:53:03.000Z"
     },
     {
-      "title": "Which Republicans are running for minority leadership roles in US Congress?",
-      "link": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
+      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T13:14:57.000Z"
+      "publishedAt": "2026-11-09T23:47:11.000Z"
     },
     {
-      "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
-      "link": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T13:08:35.000Z"
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T23:45:14.000Z"
     }
   ],
   "markets": [
     {
+      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+      "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-10T00:48:00.000Z"
+    },
+    {
       "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
       "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-09T14:45:00.000Z"
+      "publishedAt": "2026-11-09T21:55:00.000Z"
     },
     {
-      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+      "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-09T13:36:00.000Z"
+      "publishedAt": "2026-11-09T21:52:00.000Z"
     },
     {
-      "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
-      "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-09T12:27:00.000Z"
+      "publishedAt": "2026-11-09T21:24:00.000Z"
+    },
+    {
+      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-09T21:03:55.000Z"
     },
     {
       "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-07T15:23:46.000Z"
-    },
-    {
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-06T20:42:28.000Z"
-    },
-    {
-      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-      "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-06T19:05:00.000Z"
     }
   ]
 }
