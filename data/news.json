@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-11-10T22:43:01.622Z",
+  "updatedAt": "2026-11-11T04:09:43.757Z",
   "geopolitics": [
     {
-      "title": "House begins voting on Hegseth impeachment measure",
-      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-10T22:38:14.000Z"
-    },
-    {
-      "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
-      "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-10T22:01:52.000Z"
-    },
-    {
-      "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-      "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-10T21:45:46.000Z"
-    },
-    {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-10T21:21:55.000Z"
+      "publishedAt": "2026-11-11T03:44:06.000Z"
     },
     {
-      "title": "White House announces funds for law enforcement programme in several cities",
-      "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T21:00:01.000Z"
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T03:26:42.000Z"
     },
     {
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+      "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
+      "link": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T20:41:53.000Z"
+      "publishedAt": "2026-11-11T03:21:40.000Z"
     },
     {
-      "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+      "title": "Iran opens training camp for women in readiness for war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T20:39:46.000Z"
+      "publishedAt": "2026-11-11T03:21:32.000Z"
     },
     {
-      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+      "title": "El Salvador fires missiles on Haitian gang hideout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T20:23:03.000Z"
+      "publishedAt": "2026-11-11T03:00:23.000Z"
+    },
+    {
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T02:47:59.000Z"
+    },
+    {
+      "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-11T02:12:22.000Z"
+    },
+    {
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-11T01:44:21.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-11T03:08:17.000Z"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-11T01:12:00.000Z"
+    },
+    {
+      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-10T23:53:58.000Z"
+    },
     {
       "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
       "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
@@ -70,34 +88,16 @@
       "publishedAt": "2026-11-10T21:42:00.000Z"
     },
     {
-      "title": "How the stock market has performed after Veterans Day over the past decade",
-      "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-10T21:29:00.000Z"
-    },
-    {
-      "title": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
-      "link": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-10T20:37:00.000Z"
-    },
-    {
-      "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
-      "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-10T20:27:00.000Z"
-    },
-    {
-      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-10T19:47:00.000Z"
-    },
-    {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
       "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-10T17:13:44.000Z"
+    },
+    {
+      "title": "Polymarket says annualized revenue has topped $1.8 billion",
+      "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-10T13:00:01.000Z"
     }
   ]
 }
