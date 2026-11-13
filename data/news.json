@@ -1,103 +1,103 @@
 {
-  "updatedAt": "2026-11-13T13:45:51.457Z",
+  "updatedAt": "2026-11-13T23:07:38.955Z",
   "geopolitics": [
+    {
+      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+      "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T22:47:16.000Z"
+    },
+    {
+      "title": "Hassett denies report he's leaving White House: 'Not true'",
+      "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-13T20:27:47.000Z"
+    },
+    {
+      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+      "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T20:18:09.000Z"
+    },
     {
       "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
       "link": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-13T13:15:35.000Z"
+      "publishedAt": "2026-11-13T20:07:30.000Z"
     },
     {
-      "title": "Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force",
-      "link": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-13T13:04:00.000Z"
-    },
-    {
-      "title": "Huang's downfall may undo cozy ties between business and government: analysis",
-      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-fallout-business-politics.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-13T13:01:01.000Z"
-    },
-    {
-      "title": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
-      "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-13T12:57:08.000Z"
-    },
-    {
-      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-13T12:28:28.000Z"
+      "publishedAt": "2026-11-13T19:53:57.000Z"
     },
     {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-13T12:22:30.000Z"
+      "publishedAt": "2026-11-13T19:03:10.000Z"
     },
     {
-      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-      "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-13T12:06:56.000Z"
+      "publishedAt": "2026-11-13T18:28:03.000Z"
     },
     {
-      "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
-      "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-13T12:05:22.000Z"
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T18:09:05.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-13T22:21:00.000Z"
+    },
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-13T22:04:00.000Z"
+    },
+    {
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-13T21:26:00.000Z"
+    },
+    {
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-13T21:18:30.000Z"
+    },
+    {
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-13T21:10:00.000Z"
+    },
+    {
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-13T21:09:00.000Z"
+    },
+    {
+      "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-13T17:06:57.000Z"
+    },
+    {
       "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
       "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
       "source": "CNBC Markets",
-      "publishedAt": "2026-11-13T13:42:40.000Z"
-    },
-    {
-      "title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
-      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-13T13:41:26.000Z"
-    },
-    {
-      "title": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
-      "link": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-13T11:41:00.000Z"
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-13T00:01:19.000Z"
-    },
-    {
-      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-12T23:08:50.000Z"
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-12T19:05:25.000Z"
-    },
-    {
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-11T16:49:02.000Z"
-    },
-    {
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-11T07:47:54.000Z"
+      "publishedAt": "2026-11-13T15:44:16.000Z"
     }
   ]
 }
