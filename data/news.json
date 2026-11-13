@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-11-12T23:04:06.208Z",
+  "updatedAt": "2026-11-13T04:36:24.497Z",
   "geopolitics": [
     {
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T21:00:42.000Z"
-    },
-    {
-      "title": "Trump says ‘we don’t need a deal with Iran’",
-      "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-12T20:34:31.000Z"
-    },
-    {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T20:09:16.000Z"
-    },
-    {
-      "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-      "link": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-12T20:03:57.000Z"
-    },
-    {
-      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
-      "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+      "title": "US envoys shuttle between Putin and Zelenskyy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-12T19:56:26.000Z"
+      "publishedAt": "2026-11-13T04:12:01.000Z"
     },
     {
-      "title": "Iranian men guilty of spying on British journalists",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-12T19:38:33.000Z"
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-12T19:04:21.000Z"
-    },
-    {
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-12T18:47:35.000Z"
+      "publishedAt": "2026-11-13T03:57:01.000Z"
+    },
+    {
+      "title": "Mississippi elects first black senator in nearly 150 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T03:21:25.000Z"
+    },
+    {
+      "title": "Iran says it targeted US radar site in Bahrain",
+      "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T03:17:27.000Z"
+    },
+    {
+      "title": "Gaza surgeon films aftermath of Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T03:11:43.000Z"
+    },
+    {
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T02:48:29.000Z"
+    },
+    {
+      "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
+      "link": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T02:42:41.000Z"
+    },
+    {
+      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+      "link": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T02:35:21.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-13T00:01:19.000Z"
+    },
+    {
+      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-12T23:08:50.000Z"
+    },
     {
       "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
       "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
@@ -74,18 +86,6 @@
       "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-12T19:05:25.000Z"
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-12T19:04:21.000Z"
-    },
-    {
-      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-12T17:39:54.000Z"
     },
     {
       "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
