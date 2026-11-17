@@ -1,67 +1,85 @@
 {
-  "updatedAt": "2026-11-17T01:25:41.313Z",
+  "updatedAt": "2026-11-17T15:21:00.410Z",
   "geopolitics": [
     {
-      "title": "EU countries announce migrant deportation centre in Rwanda",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-17T01:12:28.000Z"
-    },
-    {
-      "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-      "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-17T00:45:11.000Z"
-    },
-    {
-      "title": "UK seeks closer ties with EU after Brexit fail",
-      "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-17T00:30:21.000Z"
-    },
-    {
-      "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-16T23:57:49.000Z"
-    },
-    {
-      "title": "Paraguay ex-president moved to military jail amid special treatment reports",
-      "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-16T23:44:32.000Z"
-    },
-    {
-      "title": "Trump departs for ASEAN on summit with Xi and Putin",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-16T23:42:03.000Z"
-    },
-    {
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-16T23:20:45.000Z"
+      "publishedAt": "2026-11-17T15:19:19.000Z"
     },
     {
-      "title": "EU agrees to resurrect cooperation deal with Syria",
-      "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+      "title": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+      "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-17T15:03:32.000Z"
+    },
+    {
+      "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+      "link": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-16T23:00:36.000Z"
+      "publishedAt": "2026-11-17T14:59:39.000Z"
+    },
+    {
+      "title": "Ghost Towns of Afghanistan: The Environmental Toll of Decades of War",
+      "link": "https://www.aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-17T14:30:00.000Z"
+    },
+    {
+      "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+      "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-17T14:24:10.000Z"
+    },
+    {
+      "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+      "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-17T14:09:08.000Z"
+    },
+    {
+      "title": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
+      "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-17T14:00:02.000Z"
+    },
+    {
+      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-17T13:44:02.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
+      "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-17T15:01:00.000Z"
+    },
+    {
+      "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-17T15:01:00.000Z"
+    },
+    {
+      "title": "Nvidia investors will be clamoring for these answers during today’s historic earnings call",
+      "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-17T14:24:00.000Z"
+    },
+    {
+      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+      "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-17T13:40:54.000Z"
+    },
     {
       "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
       "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-11-17T00:42:33.000Z"
-    },
-    {
-      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-      "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-16T23:28:00.000Z"
     },
     {
       "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
@@ -70,34 +88,16 @@
       "publishedAt": "2026-11-16T23:01:19.000Z"
     },
     {
-      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-16T22:46:00.000Z"
-    },
-    {
-      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-16T22:33:00.000Z"
-    },
-    {
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-16T22:21:00.000Z"
-    },
-    {
       "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
       "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-16T22:19:02.000Z"
     },
     {
-      "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-16T21:53:00.000Z"
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-16T18:46:07.000Z"
     }
   ]
 }
