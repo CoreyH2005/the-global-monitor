@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-11-18T23:46:57.892Z",
+  "updatedAt": "2026-11-19T05:29:33.132Z",
   "geopolitics": [
     {
-      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+      "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-19T04:58:36.000Z"
+    },
+    {
+      "title": "Trump wants to talk nuclear with Putin and Xi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-19T04:50:28.000Z"
+    },
+    {
+      "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+      "link": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-19T04:46:59.000Z"
+    },
+    {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-18T23:28:03.000Z"
+      "publishedAt": "2026-11-19T04:42:52.000Z"
     },
     {
-      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T22:56:19.000Z"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-18T22:34:56.000Z"
+      "publishedAt": "2026-11-19T04:37:17.000Z"
     },
     {
-      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+      "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+      "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T21:01:05.000Z"
+      "publishedAt": "2026-11-19T03:58:10.000Z"
     },
     {
-      "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+      "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T20:38:06.000Z"
+      "publishedAt": "2026-11-19T03:30:26.000Z"
     },
     {
-      "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T20:24:50.000Z"
-    },
-    {
-      "title": "Trump and Putin to meet one-on-one in China Thursday",
-      "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T20:12:20.000Z"
-    },
-    {
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T20:07:08.000Z"
+      "publishedAt": "2026-11-19T03:01:27.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-19T01:02:00.000Z"
+    },
     {
       "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
       "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
@@ -70,22 +76,10 @@
       "publishedAt": "2026-11-18T22:53:00.000Z"
     },
     {
-      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-18T22:53:00.000Z"
-    },
-    {
       "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
       "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-11-18T22:31:00.000Z"
-    },
-    {
-      "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
-      "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-18T21:58:00.000Z"
     },
     {
       "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-18T15:13:39.000Z"
+    },
+    {
+      "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+      "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-18T07:57:37.000Z"
     }
   ]
 }
