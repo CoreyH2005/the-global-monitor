@@ -1,56 +1,74 @@
 {
-  "updatedAt": "2026-11-21T05:09:55.471Z",
+  "updatedAt": "2026-11-21T13:59:59.518Z",
   "geopolitics": [
     {
-      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T13:17:38.000Z"
+    },
+    {
+      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T12:45:24.000Z"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill at least four Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T12:29:49.000Z"
+    },
+    {
+      "title": "Mexico captures FBI-wanted cartel boss in military raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T11:53:56.000Z"
+    },
+    {
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T11:02:49.000Z"
+    },
+    {
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T09:40:55.000Z"
+    },
+    {
+      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T09:30:24.000Z"
+    },
+    {
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-21T04:32:50.000Z"
-    },
-    {
-      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-      "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-21T04:32:07.000Z"
-    },
-    {
-      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-      "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-21T01:49:07.000Z"
-    },
-    {
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T00:34:51.000Z"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-21T00:00:06.000Z"
-    },
-    {
-      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T23:20:50.000Z"
-    },
-    {
-      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-      "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T23:06:41.000Z"
-    },
-    {
-      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-20T22:08:41.000Z"
+      "publishedAt": "2026-11-21T08:10:25.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
+      "link": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-21T13:30:00.000Z"
+    },
+    {
+      "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
+      "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-21T12:31:00.000Z"
+    },
+    {
+      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+      "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-21T12:00:00.000Z"
+    },
     {
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
       "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
@@ -80,24 +98,6 @@
       "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "publishedAt": "2026-11-20T21:39:00.000Z"
-    },
-    {
-      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-20T21:39:00.000Z"
-    },
-    {
-      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-20T21:36:00.000Z"
-    },
-    {
-      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-20T21:25:00.000Z"
     }
   ]
 }
