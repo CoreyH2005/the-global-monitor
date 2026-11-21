@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-20T23:33:49.717Z",
+  "updatedAt": "2026-11-21T05:09:55.471Z",
   "geopolitics": [
+    {
+      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T04:32:50.000Z"
+    },
+    {
+      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+      "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T04:32:07.000Z"
+    },
+    {
+      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+      "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T01:49:07.000Z"
+    },
+    {
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T00:34:51.000Z"
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T00:00:06.000Z"
+    },
+    {
+      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-20T23:20:50.000Z"
+    },
     {
       "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
       "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
@@ -12,42 +48,6 @@
       "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
       "source": "CNBC World",
       "publishedAt": "2026-11-20T22:08:41.000Z"
-    },
-    {
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T21:43:22.000Z"
-    },
-    {
-      "title": "Iraq PM targets militia stronghold in bid to assert state control",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T21:28:25.000Z"
-    },
-    {
-      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T21:10:53.000Z"
-    },
-    {
-      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-      "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T21:05:07.000Z"
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T20:54:12.000Z"
-    },
-    {
-      "title": "Trump says he still has confidence in Lutnick",
-      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-20T20:52:08.000Z"
     }
   ],
   "markets": [
