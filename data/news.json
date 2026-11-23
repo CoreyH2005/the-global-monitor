@@ -1,73 +1,91 @@
 {
-  "updatedAt": "2026-11-23T05:12:07.300Z",
+  "updatedAt": "2026-11-23T17:05:08.733Z",
   "geopolitics": [
     {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-23T04:44:00.000Z"
+      "publishedAt": "2026-11-23T16:49:51.000Z"
     },
     {
-      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T04:38:14.000Z"
+      "publishedAt": "2026-11-23T16:36:22.000Z"
     },
     {
-      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-23T16:35:28.000Z"
+    },
+    {
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-23T16:23:33.000Z"
+    },
+    {
+      "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+      "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-23T03:52:17.000Z"
+      "publishedAt": "2026-11-23T16:22:38.000Z"
     },
     {
-      "title": "Belgium’s airports set to shut down due to anti-austerity strike",
-      "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T03:15:55.000Z"
-    },
-    {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-23T02:59:35.000Z"
+      "publishedAt": "2026-11-23T15:41:23.000Z"
     },
     {
-      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-      "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+      "title": "Israeli soldiers assault Palestinian after raiding his home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T02:23:13.000Z"
+      "publishedAt": "2026-11-23T15:40:15.000Z"
     },
     {
-      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T01:51:32.000Z"
-    },
-    {
-      "title": "Israeli forces continue house demolitions in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T01:43:29.000Z"
+      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-23T14:26:33.000Z"
     }
   ],
   "markets": [
     {
+      "title": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last.",
+      "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-23T16:44:00.000Z"
+    },
+    {
+      "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-23T15:15:00.000Z"
+    },
+    {
+      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-23T14:39:00.000Z"
+    },
+    {
+      "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
+      "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-23T14:37:00.000Z"
+    },
+    {
       "title": "The number of 401(k) millionaires drops amid stock-market swings",
       "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-23T05:01:00.000Z"
+      "publishedAt": "2026-11-23T14:10:00.000Z"
     },
     {
-      "title": "Private equity has been buying up hospice centers — with striking consequences",
-      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+      "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-22T17:22:00.000Z"
-    },
-    {
-      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-22T17:00:00.000Z"
+      "publishedAt": "2026-11-23T13:47:00.000Z"
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -80,24 +98,6 @@
       "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-11-20T21:07:08.000Z"
-    },
-    {
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-20T19:59:03.000Z"
-    },
-    {
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-20T14:15:29.000Z"
-    },
-    {
-      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-      "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-20T01:49:03.000Z"
     }
   ]
 }
