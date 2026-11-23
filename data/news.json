@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-11-22T23:05:08.402Z",
+  "updatedAt": "2026-11-23T05:12:07.300Z",
   "geopolitics": [
     {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-22T22:37:43.000Z"
+      "publishedAt": "2026-11-23T04:44:00.000Z"
     },
     {
-      "title": "Trump to host private dinner for largest owners of his meme coin",
-      "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T22:37:38.000Z"
+      "publishedAt": "2026-11-23T04:38:14.000Z"
     },
     {
-      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-      "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-23T03:52:17.000Z"
+    },
+    {
+      "title": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T21:33:11.000Z"
+      "publishedAt": "2026-11-23T03:15:55.000Z"
     },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-22T20:28:09.000Z"
+      "publishedAt": "2026-11-23T02:59:35.000Z"
     },
     {
-      "title": "Why has the COP31 climate summit failed to reach agreement?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T20:00:00.000Z"
+      "publishedAt": "2026-11-23T02:23:13.000Z"
     },
     {
-      "title": "On China, is Trump bucking the US national security establishment?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T19:30:00.000Z"
+      "publishedAt": "2026-11-23T01:51:32.000Z"
     },
     {
-      "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-      "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "title": "Israeli forces continue house demolitions in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T19:18:29.000Z"
-    },
-    {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-22T18:55:05.000Z"
+      "publishedAt": "2026-11-23T01:43:29.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-23T05:01:00.000Z"
+    },
     {
       "title": "Private equity has been buying up hospice centers — with striking consequences",
       "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
@@ -92,12 +98,6 @@
       "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-11-20T01:49:03.000Z"
-    },
-    {
-      "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-19T20:21:10.000Z"
     }
   ]
 }
