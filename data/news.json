@@ -1,85 +1,85 @@
 {
-  "updatedAt": "2026-11-25T01:49:24.247Z",
+  "updatedAt": "2026-11-25T16:38:26.045Z",
   "geopolitics": [
     {
-      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-25T01:29:03.000Z"
+      "publishedAt": "2026-11-25T16:02:52.000Z"
     },
     {
-      "title": "Poll finds US voters want government to end Iran war regardless of terms",
-      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-25T01:14:22.000Z"
+      "publishedAt": "2026-11-25T16:02:22.000Z"
     },
     {
-      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-25T00:00:00.000Z"
-    },
-    {
-      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-24T23:39:13.000Z"
-    },
-    {
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-24T23:29:40.000Z"
-    },
-    {
-      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-      "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+      "link": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
       "source": "CNBC World",
-      "publishedAt": "2026-11-24T22:18:47.000Z"
+      "publishedAt": "2026-11-25T16:00:45.000Z"
     },
     {
-      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-      "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-24T21:45:42.000Z"
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T15:42:50.000Z"
     },
     {
-      "title": "Russian jets spark air raid alert in South Korea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
+      "link": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-24T21:14:57.000Z"
+      "publishedAt": "2026-11-25T15:35:33.000Z"
+    },
+    {
+      "title": "Trump announces new trade tariffs: Which countries are affected?",
+      "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-25T14:54:44.000Z"
+    },
+    {
+      "title": "Knesset advances October 7 probe despite Netanyahu’s objections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-25T14:53:49.000Z"
+    },
+    {
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T14:46:41.000Z"
     }
   ],
   "markets": [
     {
+      "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-25T15:43:00.000Z"
+    },
+    {
+      "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+      "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-25T15:08:00.000Z"
+    },
+    {
+      "title": "Third-quarter GDP already looked great. Now it looks even better.",
+      "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-25T14:47:00.000Z"
+    },
+    {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
       "source": "CNBC Finance",
-      "publishedAt": "2026-11-25T01:13:56.000Z"
+      "publishedAt": "2026-11-25T14:29:00.000Z"
     },
     {
-      "title": "Dell’s stock rises as the AI boom helps sales more than double",
-      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-25T01:11:00.000Z"
-    },
-    {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-24T21:46:00.000Z"
-    },
-    {
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-24T21:45:00.000Z"
-    },
-    {
-      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
-      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-24T21:22:00.000Z"
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-25T14:18:45.000Z"
     },
     {
       "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
