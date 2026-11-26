@@ -1,79 +1,91 @@
 {
-  "updatedAt": "2026-11-26T01:26:08.853Z",
+  "updatedAt": "2026-11-26T16:11:45.593Z",
   "geopolitics": [
     {
-      "title": "Judges recommend prosecutors end corruption case against Netanyahu",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T01:08:43.000Z"
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-26T16:05:47.000Z"
     },
     {
-      "title": "Spanish elections: What you need to know and what's at stake",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+      "title": "Two dead after Iranian drone attack on Kuwait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T15:55:15.000Z"
+    },
+    {
+      "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T15:53:32.000Z"
+    },
+    {
+      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+      "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T15:45:59.000Z"
+    },
+    {
+      "title": "Two Italians killed after Iranian strike in Kuwait",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-26T00:23:49.000Z"
+      "publishedAt": "2026-11-26T15:36:08.000Z"
     },
     {
-      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
+      "link": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T15:29:03.000Z"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T15:23:25.000Z"
+    },
+    {
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-26T00:23:27.000Z"
-    },
-    {
-      "title": "Zambia bans protest against push to remove presidential term limits",
-      "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T00:22:15.000Z"
-    },
-    {
-      "title": "A meeting with Democrats over healthcare? Trump says he’s open to it",
-      "link": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T00:18:49.000Z"
-    },
-    {
-      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T00:00:00.000Z"
-    },
-    {
-      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-      "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-25T23:33:39.000Z"
-    },
-    {
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-25T21:51:17.000Z"
+      "publishedAt": "2026-11-26T15:23:17.000Z"
     }
   ],
   "markets": [
     {
-      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-26T00:33:00.000Z"
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-26T15:28:26.000Z"
     },
     {
-      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-25T22:16:00.000Z"
+      "publishedAt": "2026-11-26T13:41:00.000Z"
     },
     {
-      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-25T22:11:00.000Z"
+      "title": "Semiconductor chips are the new oil. Here's why",
+      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-26T13:19:25.000Z"
     },
     {
-      "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-      "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-26T12:46:55.000Z"
+    },
+    {
+      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+      "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "publishedAt": "2026-11-25T21:36:00.000Z"
+      "publishedAt": "2026-11-26T10:11:00.000Z"
+    },
+    {
+      "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+      "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-26T05:36:01.000Z"
     },
     {
       "title": "Prediction markets push OpenAI IPO expectations later into 2027",
@@ -86,18 +98,6 @@
       "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-25T14:29:00.000Z"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-25T14:18:45.000Z"
-    },
-    {
-      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-      "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "source": "CNBC Markets",
-      "publishedAt": "2026-11-24T18:34:43.000Z"
     }
   ]
 }
