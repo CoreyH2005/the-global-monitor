@@ -1,56 +1,68 @@
 {
-  "updatedAt": "2026-11-26T16:11:45.593Z",
+  "updatedAt": "2026-11-27T01:23:17.545Z",
   "geopolitics": [
     {
-      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-      "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "source": "CNBC World",
-      "publishedAt": "2026-11-26T16:05:47.000Z"
-    },
-    {
-      "title": "Two dead after Iranian drone attack on Kuwait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T15:55:15.000Z"
+      "publishedAt": "2026-11-27T00:46:19.000Z"
     },
     {
-      "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
-      "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+      "title": "Argentina bars Central Bank from printing money to fund government spending",
+      "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T15:53:32.000Z"
+      "publishedAt": "2026-11-27T00:11:16.000Z"
     },
     {
-      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-      "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T15:45:59.000Z"
+      "publishedAt": "2026-11-27T00:00:00.000Z"
     },
     {
-      "title": "Two Italians killed after Iranian strike in Kuwait",
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T23:07:36.000Z"
+    },
+    {
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T22:49:27.000Z"
+    },
+    {
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T22:06:20.000Z"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
       "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "publishedAt": "2026-11-26T15:36:08.000Z"
+      "publishedAt": "2026-11-26T21:17:53.000Z"
     },
     {
-      "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
-      "link": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T15:29:03.000Z"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T15:23:25.000Z"
-    },
-    {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-26T15:23:17.000Z"
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "source": "CNBC World",
+      "publishedAt": "2026-11-26T21:13:17.000Z"
     }
   ],
   "markets": [
+    {
+      "title": "Semiconductor chips are the new oil. Here's why",
+      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-26T17:52:15.000Z"
+    },
+    {
+      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "source": "CNBC Finance",
+      "publishedAt": "2026-11-26T16:00:01.000Z"
+    },
     {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -58,28 +70,10 @@
       "publishedAt": "2026-11-26T15:28:26.000Z"
     },
     {
-      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-26T13:41:00.000Z"
-    },
-    {
-      "title": "Semiconductor chips are the new oil. Here's why",
-      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-      "source": "CNBC Finance",
-      "publishedAt": "2026-11-26T13:19:25.000Z"
-    },
-    {
       "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "source": "CNBC Markets",
       "publishedAt": "2026-11-26T12:46:55.000Z"
-    },
-    {
-      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-      "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-26T10:11:00.000Z"
     },
     {
       "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
@@ -98,6 +92,12 @@
       "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
       "source": "CNBC Finance",
       "publishedAt": "2026-11-25T14:29:00.000Z"
+    },
+    {
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "source": "CNBC Markets",
+      "publishedAt": "2026-11-25T14:18:45.000Z"
     }
   ]
 }
